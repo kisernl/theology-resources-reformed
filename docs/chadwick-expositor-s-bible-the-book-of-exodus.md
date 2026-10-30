@@ -5,17 +5,51 @@ tradition: "anglican"
 genre: "commentary"
 covers: ["Exod"]
 edition: "Hazell, Watson & Viney Ltd"
-source: "Christian Classics Ethereal Library (CCEL)"
+source: "https://www.gutenberg.org/ebooks/33420"
 ---
 
 # The Expositor's Bible: The Book of Exodus
 
 *G. A. Chadwick*
 
-> Source: Christian Classics Ethereal Library (CCEL). Public domain.
+> Source: Project Gutenberg ebook 33420. Public domain.
 
 ## Contents
 - Preface
+  - Chapter I
+  - Chapter II
+  - Chapter III
+  - Chapter IV
+  - Chapter V
+  - Chapter VI
+  - Chapter VII
+  - Chapter VIII
+  - Chapter IX
+  - Chapter X
+  - Chapter XI
+  - Chapter XII
+  - Chapter XIII
+  - Chapter XIV
+  - Chapter XV
+  - Chapter XVI
+  - Chapter XVII
+  - Chapter XVIII
+  - Chapter XIX
+  - Chapter XX
+  - Chapter XXI — THE LESSER LAW (_continued_)
+  - Chapter XXII — THE LESSER LAW (_continued_)
+  - Chapter XXIII — THE LESSER LAW (_continued_)
+  - Chapter XXIV
+  - Chapter XXV
+  - Chapter XXVI — The Tabernacle
+  - Chapter XXVII — The Outer Court
+  - Chapter XXVIII — The Holy Garments
+  - Chapter XXIX — Consecration Services
+  - Chapter XXX
+  - Chapter XXXI
+  - Chapter XXXII — The Golden Calf
+  - Chapter XXXIII — Prevailing Intercession
+  - Chapter XXXIV — The Vision of God
   - Chapter I — The Prologue
   - Chapter II — The Rescue of Moses
   - Chapter III — The Burning Bush
@@ -37,12 +71,12 @@ source: "Christian Classics Ethereal Library (CCEL)"
   - Chapter XIX — At Sinai
   - Chapter XX — The Law
 - Part I — The Law of Worship
-  - Chapter XXI — THE LESSER LAW (continued)
+  - Chapter XXI
 - Part II — Rights of the Person
 - Part III — Rights of Property
-  - Chapter XXII — THE LESSER LAW (continued)
-- Part IV — xxii. 16--xxiii. 19
-  - Chapter XXIII — THE LESSER LAW (continued)
+  - Chapter XXII
+- Part IV
+  - Chapter XXIII
 - Part V — Its Sanctions
   - Chapter XXIV — The Covenant Ratified. the Vision of God
   - Chapter XXV — The Shrine and Its Furniture
@@ -55,53 +89,10 @@ source: "Christian Classics Ethereal Library (CCEL)"
   - Chapter XXXII — The Golden Calf
   - Chapter XXXIII — Prevailing Intercession
   - Chapter XXXIV — The Vision of God
-- The Conclusion
-THE EXPOSITOR'S BIBLE.
-
-EDITED BY THE REV.
-
-W. ROBERTSON NICOLL, M.A., LL.D.
-
-Editor of "The Expositor."
-
-THE BOOK OF EXODUS.
-
-BY THE VERY REV.
-
-G. A. CHADWICK, D.D.,
-
-Dean of Armagh
-
-London:
-
-HODDER AND STOUGHTON,
-
-27, PATERNOSTER ROW.
-
-MDCCCXC.
-
-THE
-
-BOOK OF EXODUS.
-
-BY THE VERY REV.
-
-G. A. CHADWICK, D.D.,
-
-Dean of Armagh,
-
-AUTHOR OF "CHRIST BEARING WITNESS TO HIMSELF," "AS HE THAT SERVETH," "THE GOSPEL OF ST. MARK," ETC.
-
-London:
-
-HODDER AND STOUGHTON,
-
-27, PATERNOSTER ROW.
-
-MDCCCXC.
-
-Printed by Hazell, Watson, & Viney, Ld., London and Aylesbury.
-
+- Volume I
+- Volume II
+- Volume III
+- Volume IV — Isaiah to Malachi
 
 ## Preface
 
@@ -121,432 +112,383 @@ If such an attempt does, in any degree, prove successful and bear fruit, this fa
 
 If this ancient Book of Exodus yields solid results to a sober devotional exposition in the nineteenth Christian century, if it is not an idle fancy that its teaching harmonises with the principles and theology of the New Testament, and even demands the New Testament as the true commentary upon the Old, what follows? How comes it that the oak is potentially in the acorn, and the living creature in the egg? No germ is a manufactured article: it is a part of the system of the universe.
 
+ANALYSIS OF CONTENTS.
 
-#### Analysis of Contents
+### Chapter I
 
+THE PROLOGUE, i. 1-6.
 
-#### Chapter I
+Books linked by conjunction "And:" Scripture history a connected whole, 1.--So is secular history organic: "Philosophy of history." The Pentateuch being a still closer unity, Exodus rehearses the descent into Egypt, 2.--Heredity: the family of Jacob, 3.--Death of Joseph. Influence of Egypt on the shepherd race, 4.--A healthy stock: good breeding. Goethe's aphorism, 5.--Ourselves and our descendants, 6.
 
-The Prologue, i. 1--6.
+GOD IN HISTORY, i. 7.
 
-Books linked by conjunction "And:" Scripture history a connected whole,  [fn. 2: J. K. Huysmans--quoted in Nineteenth Century, May 1888, p. 673.]1.--So is secular history organic: "Philosophy of history." The Pentateuch being a still closer unity, Exodus rehearses the descent into Egypt,  [fn. 3: The same word is used for Noah's ark, but not elsewhere; not, for example, of the ark in the Temple, the name of which occurs elsewhere in Scripture only of the "coffin" of Joseph, and the "chest" for the Temple revenues (Gen. 1. 26; 2 Chron. xxiv. 8, 10, 11.)]2.--Heredity: the family of Jacob,  [fn. 4: Or his sister, the daughter of a former Pharaoh.]3.--Death of Joseph. Influence of Egypt on the shepherd race,  [fn. 5: Nor would it have made the women call their deliverer "an Egyptian," for the Hebrew cast of features is very dissimilar. But Moses wore Egyptian dress, and the Egyptians worked mines in the peninsula, so that he was naturally taken for one of them.]4.--A healthy stock: good breeding. Goethe's aphorism,  [fn. 6: So much ignorant capital has been made by sceptics out of this unfortunate mistranslation, that it is worth while to inquire whether the word "borrow" would suit the context in other passages. "He borrowed water and she gave him milk" (Judges v. 25). "The Lord said unto Solomon, Because thou hast borrowed this thing, and hast not borrowed long life for thyself, neither hast borrowed riches for thyself, nor hast borrowed the life of thine enemies" (1 Kings iii. 11). "And Elijah said unto Elisha, Thou hast borrowed a hard thing" (2 Kings ii. 10). The absurdity of the cavil is self-evident.]5.--Ourselves and our descendants,  [fn. 7: Tertullian appealed to the second of these miracles to illustrate the possibility of the resurrection. "The hand of Moses is changed and becomes like that of the dead, bloodless, colourless, and stiff with cold. But on the recovery of heat and restoration of its natural colour, it is the same flesh and blood.... So will changes, conversions and reformation be needed to bring about the resurrection, yet the substance will be preserved safe." (De Res., lv.) It is far wiser to be content with the declaration of St. Paul that the identity of the body does not depend on that of its corporeal atoms. "Thou sowest not that body that shall be, but a naked grain.... But God giveth ... to every seed his own body" (1 Cor. xv. 37--8).]6.
+In Exodus, national history replaces biography, 6.--Contrasted narratives of Jacob and Moses. Spiritual progress from Genesis to Exodus, 7.--St. Paul's view: Law prepares for Gospel, especially by our failures, 8.--This explains other phenomena: failures in various circumstances, of innocence in Eden; of an elect family; now of a race, a nation, 9.--Israel, failing with all advantages, needs a Messiah. Faith justifies, in Old Testament as in New, 10.--Scripture history reveals God in this life, in all things, 11.--True spirituality owns God in the secular: this is a gospel for our days, 12-13.
 
-God in History, i. 7.
+THE OPPRESSION, i. 7-22.
 
-In Exodus, national history replaces biography,  [fn. 8: "I am not an ordinary man," Napoleon used to say, "and the laws of morals and of custom were never made for me."--Memoirs of Madame de Rémusat, i. 91.]6.--Contrasted narratives of Jacob and Moses. Spiritual progress from Genesis to Exodus,  [fn. 9: Robinson, "The Pharaohs of the Bondage."]7.--St. Paul's view: Law prepares for Gospel, especially by our failures,  [fn. 10: It is true that the word means any large reptile, as when "God created great whales"; but doubtless our English version is correct. It was certainly a serpent which he had recently fled from, and then taken by the tail (iv. 4). And unless we suppose the magicians to have wrought a genuine miracle, no other creature can be suggested, equally convenient for their sleight of hand.]8.--This explains other phenomena: failures in various circumstances, of innocence in Eden; of an elect family; now of a race, a nation,  [fn. 11: To this day, amid squalid surroundings for which nominal Christians are responsible, the immunity of the Jewish race from such suffering is conspicuous, and at least a remarkable coincidence.]9.--Israel, failing with all advantages, needs a Messiah. Faith justifies, in Old Testament as in New,  [fn. 12: But indeed this notion is not yet dead. "A high wind left the shallow sea so low that it became possible to ford it. Moses eagerly accepted the suggestion, and made the venture with success," etc.--Wellhausen, "Israel," in Encyc. Brit.]10.--Scripture history reveals God in this life, in all things,  [fn. 13: x. 22. The accurate Kalisch is therefore wrong in speaking of "The duration of the first plague, a statement not made with regard to any of the subsequent inflictions."--Commentary in loco.]11.--True spirituality owns God in the secular: this is a gospel for our days,  [fn. 14: Speaker's Commentary, i., p. 242; Kalisch on viii. 18; Kiel, i. 484.]12-- [fn. 15: The Revised Version has "swarms of flies," which is clearly an attempt to meet the case. But it is worth notice that in the Psalms the expression was twice rendered "divers kinds of flies" (lxxviii. 45, cv. 31, A.V.) The word occurs only of this plague.]13.
+Early prosperity: its dangers: political supports vain, 13.--Joseph forgotten. National responsibilities: despotism, 14.--Nations and their chiefs. Our subject races, 15.--The Church and her King: imputation. Pharaoh precipitates what he fears, 16.--Egypt and her aliens: modern parallels, 17.--Tyranny is tyrannous even when cultured, 18.--Our undue estrangement from the fallen: Jesus a brother. Toil crushes the spirit, 19.--Israel idolatrous. Religious dependence, 20. --Direct interposition required. Bitter oppression, 21.--Pharaoh drops the mask. Defeated by the human heart. The midwives, 22.--Their falsehood. Morality is progressive, 23.--Culture and humanity, 24.--Religion and the child, 25.
 
-The Oppression, i. 7--22.
+### Chapter II
 
-Early prosperity: its dangers: political supports vain,  [fn. 16: The passage in Deuteronomy had not this event specially in mind, or it would have used the same term for a furnace. The word for ashes implies what can be blown upon the wind.]13.--Joseph forgotten. National responsibilities: despotism,  [fn. 17: Except in one passage (Gen. ii. 4 to iii. 23) these titles of Deity are nowhere else combined in the books of Moses.]14.--Nations and their chiefs. Our subject races,  [fn. 18: Oddly enough, the same historian already quoted, relating the story of the same day at Leipsic, says of Napoleon's dialogue with M. de Merfeld, that he "used an expression which, if uttered at the Congress of Prague, would have changed his lot and ours. Unfortunately, it was now too late."]15.--The Church and her King: imputation. Pharaoh precipitates what he fears,  [fn. 19: Such is probably not the meaning in Ps. lxxviii. 49 (see R.V.), though from it the tradition may have sprung.]16.--Egypt and her aliens: modern parallels,  [fn. 20: Though of course the Person Whose Body was thus offered is Divine (Acts xx. 28), and this gives inestimable value to the offering.]17.--Tyranny is tyrannous even when cultured,  [fn. 21: Here the sceptical theorists are widely divided among themselves. Kuenen has discussed this whole theory, and rejected it as "irreconcilable with what the Old Testament itself asserts in justification of this sacrifice." And he is driven to connect it with the notion of atonement. "Jahveh appears as a severe being who must be propitiated with sacrifices." He has therefore to introduce the notion of human sacrifice, in order to get rid of the connection with the penal death of the Egyptians, and of the miraculous, which this example would establish. (Religion of Israel, Eng. Trans., i., 239, 240.)]18.--Our undue estrangement from the fallen: Jesus a brother. Toil crushes the spirit,  [fn. 22: The astonishing significance of this declaration would only be deepened if we accepted the theories now so fashionable, and believed that the later passage in Isaiah was the fruit of a period when the full-blown Priestly Code was in process of development out of "the small body of legislation contained in Lev. xvii.--xxvi." What a strange time for such a spiritual application of sacrificial language!]19.--Israel idolatrous. Religious dependence,  [fn. 23: So that it is used equally of the slow action of the lame, and of the lingering movements of the false prophets when there was none to answer (2 Sam. iv. 4; 1 Kings xviii. 26). "The Lord of Hosts shall come down to fight upon Mount Zion.... As birds flying, so will the Lord of Hosts protect Jerusalem; He will pass over and preserve it" (Isa. xxxi. 4, 5).]20. --Direct interposition required. Bitter oppression,  [fn. 24: Hutton's Essays, Vol. ii., Literary: The Poetry of the Old Test.]21.--Pharaoh drops the mask. Defeated by the human heart. The midwives,  [fn. 25: The Sea of Zuph, or reeds, the word being used of the reeds in which Moses was laid by his mother and found by Pharaoh's daughter (ii. 3, 5), rendered "flags" in the Revised Version.]22.--Their falsehood. Morality is progressive,  [fn. 26: But his assurance is, "The Lord shall fight for you, and ye shall hold your peace." When Wellhausen would summarise the work of Moses, he tells us that "he taught them to regard self-assertion against the Egyptians as an article of religion" (History, p. 430). It would be impossible, within the compass of so many words, more completely to miss the remarkable characteristic which differentiates this whole narrative from all other revolutionary movements. Expectancy and dependence here take the place of "self-assertion."]23.--Culture and humanity,  [fn. 27: Not the adults only; nor yet by immersion, whether in the rain-cloud or the surf.]24.--Religion and the child,  [fn. 28: There is no warrant in the use of Scripture for Stanley's assertion that the word translated "dances" should be rendered "guitars." (Smith's Dict. of Bible, Article Miriam.)]25.
+THE RESCUE OF MOSES, ii. 1-10.
 
+Importance of the individual, 26.--A man _versus_ "the Time-spirit," 27.--The parents of Moses, 28.--Their family: their goodly child, 29.--Emotion helps faith, 30.--The ark in the bulrushes, 31.--Pharaoh's daughter and Miriam, 32.--Guidance for good emotions: the Church for humanity, 33.
 
-#### Chapter Ii
+THE CHOICE OF MOSES, ii. 11-15.
 
-The Rescue of Moses, ii. 1--10.
+God employs means, 34.--Value of endowment. Moses and his family. "The reproach of Christ," 35.--An impulsive act, 36.--Impulses not accidents. The hopes of Moses, 37.--Moses and his brethren. His flight, 38.
 
-Importance of the individual,  [fn. 30: Wellhausen, Israel, p. 439.]26.--A man versus "the Time-spirit,"  [fn. 31: The "omer" of this passage is not mentioned elsewhere in Scripture: it is known to have been the one-hundredth part of the homer with which careless readers sometimes confuse it, and its capacity is variously estimated, from somewhat under half a gallon to somewhat above three-quarters.]27.--The parents of Moses,  [fn. 32: Take as an example the assertion of Bunyan that the sea in the Revelation is a sea of glass, because the laver in the tabernacle was made of the brazen looking-glasses of the women. (Solomon's Temple, xxxvi. 1.)]28.--Their family: their goodly child,  [fn. 33: This phrase is not found elsewhere in the Pentateuch. Is it fancy which detects in it a desire to remind them of their connection with the least worthy rather than the noblest of the Patriarchs? One would not expect, for instance, to read, Fear not, thou worm Abraham, or even Israel; but the name of Jacob at once calls up humble associations.]29.--Emotion helps faith,  [fn. 34: This word is the same which occurs in the verse so beautifully but erroneously rendered "They shall be Mine, saith the Lord of hosts, in the day when I make up My jewels" (Mal. iii. 17, A.V.). "They shall be Mine ... in the day that I do make, even a peculiar treasure" (R.V.).]30.--The ark in the bulrushes,  [fn. 35: Prof. Tyndall, Belfast Address, p. 60. What progress has scientific unbelief made since 1874 in solving this "question of questions for the present hour"? It has perfected the phonograph, but it has not devised a creed.]31.--Pharaoh's daughter and Miriam,  [fn. 36: "Or beside Me" (R.V.) The preposition is so vague that either of our English words may suggest quite too definite a meaning, as when "before Me" is made to mean "in My angry eyes," or "beside Me" is taken to hint at resentment for intrusion upon the same throne.]32.--Guidance for good emotions: the Church for humanity,  [fn. 37: Gury, Compend., i., secs. 607, 623.]33.
+MOSES IN MIDIAN, ii. 16-22.
 
-The Choice of Moses, ii. 11--15.
+Energy in disaster, 39.--Disinterested bravery. Parallels with a variation, 40.--The Unseen a refuge. Duty of resisting small wrongs. His wife, 41.--A lonely heart, 42.
 
-God employs means,  [fn. 38: Even if the rendering were accepted, "Must My Presence (My Face) go with thee?" (Can I not be trusted without a direct Presence?) the argument would not be affected, because Moses presses for the favour and obtains it.]34.--Value of endowment. Moses and his family. "The reproach of Christ,"  [fn. 39: This investigation offers a fine example of the folly of that kind of interpretation which looks about for some sort of external and arbitrary resemblance, and fastens upon that as the true meaning. Nothing is more common among these expounders than to declare that the wood and gold of the ark are types of the human and Divine natures of our Lord. If either ark or mercy-seat should be compared to Him, it is obviously the latter, which speaks of mercy. But this was of pure gold.]35.--An impulsive act,  [fn. 40: Neither, it must be added, were the bodies of certain sin-offerings of the lower grade, and in which the priest was not personally concerned (Lev. x. 17, etc.).]36.--Impulses not accidents. The hopes of Moses,  [fn. 41: For it is incredible that, in a catalogue of furniture which included Aaron's rod and the pot of manna, this altar should be omitted, and "a golden censer," elsewhere unheard of, substituted. The gloss is too evidently an endeavour to get rid of a difficulty. But in idea and suggestion this altar belonged to the Most Holy. That shrine "had" it, though it actually stood outside.]37.--Moses and his brethren. His flight, \[42\]38.
+### Chapter III
 
-Moses in Midian, ii. 16--22.
+THE BURNING BUSH, ii. 23-iii.
 
-Energy in disaster, \[43\]39.--Disinterested bravery. Parallels with a variation, \[44\]40.--The Unseen a refuge. Duty of resisting small wrongs. His wife, \[45\]41.--A lonely heart, \[46\]42.
+Death of Raamses. Misery continues, 43.--The cry of the oppressed, 44.--Discipline of Moses, 45.--How a crisis comes, 46.--God hitherto unmentioned. The Angel of the Lord, 47.--An unconsuming fire, 48.--Inquiry: reverence. God finds, not man, 49.--"Take off thy shoe." "The God of thy father," 50.--Immortality. "My people," not saints only, 51.--The good land. The commission, 52.--God with him. A strange token, 53.
 
+A NEW NAME, iii. 14; vi. 2, 3.
 
-#### Chapter Iii
+Why Moses asked the name of God: idolatry: pantheism, 54.--A progressive revelation, 55.--Jehovah. The sound corrupted. Similar superstitions yet, 56.--What it told the Jews. Reality of being, 57.--Jews not saved by ideas. Streams of tendency. The Self-contained. We live in our past, 58.--And in our future, 59.--Yet Jehovah not the impassive God of Lucretius, 60.--The Immutable is Love. This is our help, 61.--Human will is not paralysed, 62.--The teaching of St. Paul. All this is practical, 63.--This gives stability to all other revelations. Our own needs, 64.
 
-The Burning Bush, ii. 23--iii.
+THE COMMISSION, iii. 10, 16-22.
 
-Death of Raamses. Misery continues, \[48\]43.--The cry of the oppressed, \[49\]44.--Discipline of Moses, \[50\]45.--How a crisis comes, \[51\]46.--God hitherto unmentioned. The Angel of the Lord, \[52\]47.--An unconsuming fire, \[53\]48.--Inquiry: reverence. God finds, not man, \[54\]49.--"Take off thy shoe." "The God of thy father," \[55\]50.--Immortality. "My people," not saints only, \[56\]51.--The good land. The commission, \[57\]52.--God with him. A strange token, \[58\]53.
+God comes where He sends, 65.--The Providential man. Prudence, 66.--Sincerity of demand for a brief respite, 67.--God has already visited them. By trouble He transplants, 68.--The "borrowing" of jewels, 69.
 
-A New Name, iii. 14; vi. 2, 3.
+### Chapter IV
 
-Why Moses asked the name of God: idolatry: pantheism, \[59\]54.--A progressive revelation, \[60\]55.--Jehovah. The sound corrupted. Similar superstitions yet, \[61\]56.--What it told the Jews. Reality of being, \[62\]57.--Jews not saved by ideas. Streams of tendency. The Self-contained. We live in our past, \[63\]58.--And in our future, \[64\]59.--Yet Jehovah not the impassive God of Lucretius, \[65\]60.--The Immutable is Love. This is our help, \[66\]61.--Human will is not paralysed, \[67\]62.--The teaching of St. Paul. All this is practical, \[68\]63.--This gives stability to all other revelations. Our own needs, \[69\]64.
+MOSES HESITATES, iv. 1-17.
 
-The Commission, iii. 10, 16--22.
+Scripture is impartial: Josephus, 70.--Hindrance from his own people. The rod, 71.--The serpent: the leprosy, 72.--"I am not eloquent," 73.--God with us. Aaron the Levite, 74.--Responsibility of _not_ working. The errors of Moses, 75.--Power of fellowship. Vague fears, 76.--With his brother, Moses will go. The Church, 77.--This craving met by Christ, 78.--Family affection. Examples, 79.
 
-God comes where He sends, \[70\]65.--The Providential man. Prudence, \[71\]66.--Sincerity of demand for a brief respite, \[72\]67.--God has already visited them. By trouble He transplants, \[73\]68.--The "borrowing" of jewels, \[74\]69.
+MOSES OBEYS, iv. 18-31.
 
+Fidelity to his employer. Reticence, 80.--Resemblance to story of Jesus. He is the Antitype of all experiences, 81.--Counterpoint in history. "Israel is My son," 82.--A neglected duty Zipporah. Was she a helpmeet? 83.--Domestic unhappiness. History _v._ myth, 84.--The failures of the good, 85.--Men of destiny are not irresponsible, 86.--His first followers: a joyful reception, 87.--Spiritual joy and reaction, 88.
 
-#### Chapter Iv
+### Chapter V
 
-Moses Hesitates, iv. 1--17.
+PHARAOH REFUSES, v. 1-23.
 
-Scripture is impartial: Josephus, \[76\]70.--Hindrance from his own people. The rod, \[77\]71.--The serpent: the leprosy, \[78\]72.--"I am not eloquent," \[79\]73.--God with us. Aaron the Levite, \[80\]74.--Responsibility of not working. The errors of Moses, \[81\]75.--Power of fellowship. Vague fears, \[82\]76.--With his brother, Moses will go. The Church, \[83\]77.--This craving met by Christ, \[84\]78.--Family affection. Examples, \[85\]79.
+Moses at court again. Formidable, 89.--Power of convictions but also of tyranny and pride. Menephtah: his story, 90.--Was the Pharaoh drowned? The demand of Jehovah, 91.--The refusal, 92.--Is religion idleness? Hebrews were taskmasters, 93.--Demoralised by slavery. They are beaten, 94.--Murmurs against Moses. He returns to God. His remonstrance, 95.--His disappointment. Not really irreverent, 96.--Use of this abortive attempt, 97-8.
 
-Moses Obeys, iv. 18--31.
+### Chapter VI
 
-Fidelity to his employer. Reticence, \[86\]80.--Resemblance to story of Jesus. He is the Antitype of all experiences, \[87\]81.--Counterpoint in history. "Israel is My son," \[88\]82.--A neglected duty Zipporah. Was she a helpmeet? \[89\]83.--Domestic unhappiness. History v. myth, \[90\]84.--The failures of the good, \[91\]85.--Men of destiny are not irresponsible, \[92\]86.--His first followers: a joyful reception, \[93\]87.--Spiritual joy and reaction, \[94\]88.
+THE ENCOURAGEMENT OF MOSES, vi. 1-30.
 
+The word Jehovah known before: its consolations now, 99.--The new truth is often implicit in the old, 100.--Discernment more needed than revelation. "Judgments," 101.--My people: your God, 102.--The tie is of God's binding, 103,--Fatherhood and sonship, 104.--Faith becomes knowledge. The body hinders the soul, 105.--We are responsible for bodies. Israel weighs Moses down, 106.--We may hold back the saints, 107.--The pedigree, 107-8.--Indications of genuine history, 108-9.--"As a god to Pharaoh," 110.--We also, 111.
 
-#### Chapter V
+### Chapter VII
 
-Pharaoh Refuses, v. 1--23.
+THE HARDENING OF PHARAOH'S HEART, vii. 3-13.
 
-Moses at court again. Formidable, \[96\]89.--Power of convictions but also of tyranny and pride. Menephtah: his story, \[97\]90.--Was the Pharaoh drowned? The demand of Jehovah, \[98\]91.--The refusal, \[99\]92.--Is religion idleness? Hebrews were taskmasters, \[100\]93.--Demoralised by slavery. They are beaten, \[101\]94.--Murmurs against Moses. He returns to God. His remonstrance, \[102\]95.--His disappointment. Not really irreverent, \[103\]96.--Use of this abortive attempt, \[104\]97--\[105\]8.
+The assertion offends many, 112.--Was he a free agent? When hardened. A.V. incorrect, 113.--He resists five plagues spontaneously. The last five are penal, 114.--Not "hardened" in wickedness, but in nerve. A.V. confuses three words: His heart is (_a_) "hardened," 115.--(_b_) it is made "strong" (_c_) "heavy," 116.--Other examples of these words, 117.--The warning implied, 117-19.--Moses returns with the signs, 119.--The functions of miracle, 120.
 
+THE PLAGUES, vii. 14.
 
-#### Chapter Vi
+Their vast range, 121.--Their relation to Pantheism, Idolatry, Philosophy, 122.--And to the gods of Egypt. Their retributive fitness, 123.--Their arrangement, 124.--Like our Lord's, not creative, 125.--God in common things, 126.--Some we inflict upon ourselves. Yet rationalistic analogies fail, 127.--Duration of the conflict, 128.
 
-The Encouragement of Moses, vi. 1--30.
+THE FIRST PLAGUE, vii, 14-25.
 
-The word Jehovah known before: its consolations now, \[107\]99.--The new truth is often implicit in the old, \[108\]100.--Discernment more needed than revelation. "Judgments," \[109\]101.--My people: your God, \[110\]102.--The tie is of God's binding, \[111\]103,--Fatherhood and sonship, \[112\]104.--Faith becomes knowledge. The body hinders the soul, \[113\]105.--We are responsible for bodies. Israel weighs Moses down, \[114\]106.--We may hold back the saints, \[115\]107.--The pedigree, \[116\]107--\[117\]8.--Indications of genuine history, \[118\]108--\[119\]9.--"As a god to Pharaoh," \[120\]110.--We also, \[121\]111.
+The probable scene, 129.--Extent of the plague. The magicians. Its duration, 131.--Was Israel exempt? Contrast with first miracle of Jesus, 132.
 
+### Chapter VIII
 
-#### Chapter Vii
+THE SECOND PLAGUE, viii. 1-15.
 
-The Hardening of Pharaoh's Heart, vii. 3--13.
+Submission demanded. Severity of plague, 133.--Pharaoh humbles himself, 134.--"Glory over me." Pharaoh breaks faith, 135.
 
-The assertion offends many, \[123\]112.--Was he a free agent? When hardened. A.V. incorrect, \[124\]113.--He resists five plagues spontaneously. The last five are penal, \[125\]114.--Not "hardened" in wickedness, but in nerve. A.V. confuses three words: His heart is (a) "hardened," \[126\]115.--(b) it is made "strong" (c) "heavy," \[127\]116.--Other examples of these words, \[128\]117.--The warning implied, \[129\]117--\[130\]19.--Moses returns with the signs, \[131\]119.--The functions of miracle, \[132\]120.
+THE THIRD PLAGUE, viii. 16-19.
 
-The Plagues, vii. 14.
+Various theories. A surprise. Magicians baffled, 136.--What they confess, 137.
 
-Their vast range, \[133\]121.--Their relation to Pantheism, Idolatry, Philosophy, \[134\]122.--And to the gods of Egypt. Their retributive fitness, \[135\]123.--Their arrangement, \[136\]124.--Like our Lord's, not creative, \[137\]125.--God in common things, \[138\]126.--Some we inflict upon ourselves. Yet rationalistic analogies fail, \[139\]127.--Duration of the conflict, \[140\]128.
+THE FOURTH PLAGUE, viii. 20-32.
 
-The First Plague, vii, 14--25.
+"Rising up early," 137.--Bodily pain. Beetles or flies? "A mixture," 138--Goshen exempt. Pharaoh suffers. He surrenders, 139.--Respite and treachery. Would Moses have returned? 140.
 
-The probable scene, \[141\]129.--Extent of the plague. The magicians. Its duration, \[142\]131.--Was Israel exempt? Contrast with first miracle of Jesus, \[143\]132.
+### Chapter IX
 
+THE FIFTH PLAGUE, ix. 1-7.
 
-#### Chapter Viii
+First attack on life. Animals share our fortunes, 141. The new summons. Murrain, 142.--Pharaoh's curiosity, 143.
 
-The Second Plague, viii. 1--15.
+THE SIXTH PLAGUE, ix. 8-12.
 
-Submission demanded. Severity of plague, \[145\]133.--Pharaoh humbles himself, \[146\]134.--"Glory over me." Pharaoh breaks faith, \[147\]135.
+No warning, yet Author manifest. Ashes of the furnace, 144.---Suffering in the flesh. The magicians again. Pharaoh's heart "made strong," 145.--Dares not retaliate, 146.
 
-The Third Plague, viii. 16--19.
+THE SEVENTH PLAGUE, ix. 13-35.
 
-Various theories. A surprise. Magicians baffled, \[148\]136.--What they confess, \[149\]137.
+Expostulation not mockery, 146-7.--God is wronged by slavery, 147.--Civil liberty is indebted to religion. "Plagues upon thine heart," 148.--A mis-rendering: why he was not crushed, 149.--An opportunity of escape. The storm, 150.--Ruskin upon terrors of thunderstorm, 151.--Pharaoh confesses sin, 152.--Moses intercedes. The weather in history. Job's assertion, 153.
 
-The Fourth Plague, viii. 20--32.
+### Chapter X
 
-"Rising up early," \[150\]137.--Bodily pain. Beetles or flies? "A mixture," \[151\]138--Goshen exempt. Pharaoh suffers. He surrenders, \[152\]139.--Respite and treachery. Would Moses have returned? \[153\]140.
+THE EIGHTH PLAGUE, x. 1-20.
 
+Moses encouraged, 154.--Deliverances should be remembered. A sterner rebuke. Locusts in Egypt, 155.--Their effect. The court interferes. Yet "their hearts hardened" also, 156--Infatuation of Pharaoh. Parallel of Napoleon, 157.--Women and little ones did share in festivals, 158.--A gentle wind. Locusts. Another surrender, 159.--Relief. Our broken vows, 160.
 
-#### Chapter Ix
+THE NINTH PLAGUE, x. 21-29.
 
-The Fifth Plague, ix. 1--7.
+Menephtah's sun-worship, 161.--Suddenness of the plague. Concentrated narrative, 162.--Darkness represents death, 163.--The Book of Wisdom upon this plague, 164-5.--Isaiah's allusions. The Pharaoh's character, 165.--Altercation with Moses, 166.
 
-First attack on life. Animals share our fortunes, \[155\]141. The new summons. Murrain, \[156\]142.--Pharaoh's curiosity, \[157\]143.
+### Chapter XI
 
-The Sixth Plague, ix. 8--12.
+THE LAST PLAGUE ANNOUNCED, xi. 1-10.
 
-No warning, yet Author manifest. Ashes of the furnace, \[158\]144.---Suffering in the flesh. The magicians again. Pharaoh's heart "made strong," \[159\]145.--Dares not retaliate, \[160\]146.
+This chapter supplements the last. The blow is known to be impending. Uses of its delay, 167.--Israel shall claim wages. The menace, 168.--Parallel with St. John, 169-70.
 
-The Seventh Plague, ix. 13--35.
+### Chapter XII
 
-Expostulation not mockery, \[161\]146--\[162\]7.--God is wronged by slavery, \[163\]147.--Civil liberty is indebted to religion. "Plagues upon thine heart," \[164\]148.--A mis-rendering: why he was not crushed, \[165\]149.--An opportunity of escape. The storm, \[166\]150.--Ruskin upon terrors of thunderstorm, \[167\]151.--Pharaoh confesses sin, \[168\]152.--Moses intercedes. The weather in history. Job's assertion, \[169\]153.
+THE PASSOVER, xii. 1-28.
 
+Birthday of a nation. The calendar, 171.--"The congregation." The feast is social, 172.--The nation is based upon the family. No Egyptian house escapes, 173.--National interdependence. The Passover a sacrifice, 174.--What does the blood mean? Rationalistic theories. Harvest festivals, 175.--The unbelieving point of view: what theories of sacrifice were then current? "A sacrifice was a meal," 176.--Human sacrifices. The Passover "unhistorical." Kuenen rejects this view, 177.--Phenomena irreconcilable with it, 178-9. What is really expressed? Danger even to Jews, 179.--Salvation by grace. Not unbought, 180.--The lamb a ransom. All firstborn are forfeited. Tribe of Levi, 181.--Cash payment. Effect on Hebrew literature, 182.--Its prophetic import, 183.--The Jew must co-operate with God: must also become His guest, 184.--Sacred festivals. Lamb or kid. Four days reserved, 185.--Men are sheep. Heads of houses originally sacrifice. Transition to Levites in progress under Hezekiah, complete under Josiah, 186.--Unleavened bread. The lamb. Roast, not sodden, 187.--Complete consumption. Judgment upon gods of Egypt, 188.--The blood a token unto themselves. On their lintels, 189.--The word "pass-over," 190.--Domestic teaching, 191.--Many who ate the feast perished. Aliens might share, 192.
 
-#### Chapter X
+THE TENTH PLAGUE, xii. 29-36.
 
-The Eighth Plague, x. 1--20.
+The blow falls. Pharaoh was not "firstborn": his son "sat upon his throne," 193.--The scene, 194.--The demands of Israel. St. Augustine's inference, 195.
 
-Moses encouraged, \[171\]154.--Deliverances should be remembered. A sterner rebuke. Locusts in Egypt, \[172\]155.--Their effect. The court interferes. Yet "their hearts hardened" also, \[173\]156--Infatuation of Pharaoh. Parallel of Napoleon, \[174\]157.--Women and little ones did share in festivals, \[175\]158.--A gentle wind. Locusts. Another surrender, \[176\]159.--Relief. Our broken vows, \[177\]160.
+THE EXODUS, xii. 37-42.
 
-The Ninth Plague, x. 21--29.
+The route, 195.--Their cattle, a suggested explanation, 196.--"Four hundred and thirty years," 197-8.
 
-Menephtah's sun-worship, \[178\]161.--Suddenness of the plague. Concentrated narrative, \[179\]162.--Darkness represents death, \[180\]163.--The Book of Wisdom upon this plague, \[181\]164--\[182\]5.--Isaiah's allusions. The Pharaoh's character, \[183\]165.--Altercation with Moses, \[184\]166.
+### Chapter XIII
 
+THE LAW OF THE FIRSTBORN, xiii, 1.
 
-#### Chapter Xi
+The consecration of the firstborn, 199.--The Levite. "They are Mine," 200.--Joy is hopeful. Tradition? 201.--Phylacteries. The ass, 202.--The Philistines. No spiritual miracle, 203.--Education, 204.
 
-The Last Plague announced, xi. 1--10.
+THE BONES OF JOSEPH, xiii. 19.
 
-This chapter supplements the last. The blow is known to be impending. Uses of its delay, \[186\]167.--Israel shall claim wages. The menace, \[187\]168.--Parallel with St. John, \[188\]169--\[189\]70.
+Joseph influenced Moses, 204.--His faith, 205.--Circumstances overcome by soul. God in the cloud, 206.--Hebrew poetry and modern, 207.
 
+### Chapter XIV
 
-#### Chapter Xii
+THE RED SEA, xiv. 1-31.
 
-The Passover, xii. 1--28.
+Stopped on the march, 208.--Pharaoh presumes, 209.--The panic, 210.--Moses. Prayer and action. "Self-assertion"? 211.--The midnight march, 212.--The lost army, 213.
 
-Birthday of a nation. The calendar, \[191\]171.--"The congregation." The feast is social, \[192\]172.--The nation is based upon the family. No Egyptian house escapes, \[193\]173.--National interdependence. The Passover a sacrifice, \[194\]174.--What does the blood mean? Rationalistic theories. Harvest festivals, \[195\]175.--The unbelieving point of view: what theories of sacrifice were then current? "A sacrifice was a meal," \[196\]176.--Human sacrifices. The Passover "unhistorical." Kuenen rejects this view, \[197\]177.--Phenomena irreconcilable with it, \[198\]178--\[199\]9. What is really expressed? Danger even to Jews, \[200\]179.--Salvation by grace. Not unbought, \[201\]180.--The lamb a ransom. All firstborn are forfeited. Tribe of Levi, \[202\]181.--Cash payment. Effect on Hebrew literature, \[203\]182.--Its prophetic import, \[204\]183.--The Jew must co-operate with God: must also become His guest, \[205\]184.--Sacred festivals. Lamb or kid. Four days reserved, \[206\]185.--Men are sheep. Heads of houses originally sacrifice. Transition to Levites in progress under Hezekiah, complete under Josiah, \[207\]186.--Unleavened bread. The lamb. Roast, not sodden, \[208\]187.--Complete consumption. Judgment upon gods of Egypt, \[209\]188.--The blood a token unto themselves. On their lintels, \[210\]189.--The word "pass-over," \[211\]190.--Domestic teaching, \[212\]191.--Many who ate the feast perished. Aliens might share, \[213\]192.
+ON THE SHORE, xiv. 30, 31.
 
-The Tenth Plague, xii. 29--36.
+Impressions deepened. "They believed in Jehovah." So the faith of the apostles grew, 214.
 
-The blow falls. Pharaoh was not "firstborn": his son "sat upon his throne," \[214\]193.--The scene, \[215\]194.--The demands of Israel. St. Augustine's inference, \[216\]195.
+### Chapter XV
 
-The Exodus, xii. 37--42.
+THE SONG OF MOSES, xv. 1-22.
 
-The route, \[217\]195.--Their cattle, a suggested explanation, \[218\]196.--"Four hundred and thirty years," \[219\]197--\[220\]8.
+A song remembered in heaven. Its structure, 216-17.--The women join. Instruments. Dances, 218. God the Deliverer, not Moses. "My salvation," 219.--Gratitude. Anthropomorphism. "Ye are gods." "Jehovah is a Man--of war," 220-2.--The overthrow, 222.--First mention of Divine holiness, 223.--An inverted holiness, 224.--"Thou shalt bring them in," 225.
 
+SHUR, xv. 22-27.
 
-#### Chapter Xiii
+Disillusion. Marah, 226.--A universal danger, 227.--Prayer, and the use of means, 228.--"A statute and an ordinance." Such compacts often repeated. The offered privilege, 229.--It is still enjoyed, 230.--"The Lord for the body." Elim, 231.
 
-The Law of the Firstborn, xiii, 1.
+### Chapter XVI
 
-The consecration of the firstborn, \[222\]199.--The Levite. "They are Mine," \[223\]200.--Joy is hopeful. Tradition? \[224\]201.--Phylacteries. The ass, \[225\]202.--The Philistines. No spiritual miracle, \[226\]203.--Education, \[227\]204.
+MURMURING FOR FOOD, xvi. 1-14.
 
-The Bones of Joseph, xiii. 19.
+_We_ too fear, although Divinely guarded, 232.--They would fain die satiated, 233.--Relief tries them as want does, 234.--The Sabbath. A rebuke, 235.--Moses is zealous. His "meekness," 236.--The glory appears, 237.--Quails and manna, 238.
 
-Joseph influenced Moses, \[228\]204.--His faith, \[229\]205.--Circumstances overcome by soul. God in the cloud, \[230\]206.--Hebrew poetry and modern, \[231\]207.
+MANNA, xvi. 15-36.
 
+Their course of life is changed, 238.--A drug resembles manna, 239.--The supernatural follows nature, 240.--They must gather, prepare, be moderate, 241.--Nothing over and no lack. Socialistic perversion, 242.--Socialism. Christ in politics, 243-4.
 
-#### Chapter Xiv
+SPIRITUAL MEAT, xvi. 15-36.
 
-The Red Sea, xiv. 1--31.
+Manna is a type. When given, 244.--An unearthly sustenance, 245. What is spirituality? Christ the true Manna, 246.--Universal, daily, abundant, 247.--The Sabbath. The pot of manna, 248.
 
-Stopped on the march, \[233\]208.--Pharaoh presumes, \[234\]209.--The panic, \[235\]210.--Moses. Prayer and action. "Self-assertion"? \[236\]211.--The midnight march, \[237\]212.--The lost army, \[238\]213.
+### Chapter XVII
 
-On the Shore, xiv. 30, 31.
+MERIBAH, xvii. 1-7.
 
-Impressions deepened. "They believed in Jehovah." So the faith of the apostles grew, \[239\]214.
+A greater strain. What if Israel had stood it? 249.--They murmured against Moses. The position of Aaron. An exaggerated outcry, 250.--Witnesses to the miracle. The rock in Horeb, 251.--The rod. Privilege is not acceptance, 252.
 
+AMALEK, xvii. 8-16.
 
-#### Chapter Xv
+A water-raid, 252.--God's sheep must become His warriors. War, 253-4.--Joshua. The rod of God, 255.--A silent prayer. Aaron and Hur must join in it, 256.--So now. But the army must fight, 257.--"The Lord my banner." Unlike a myth, 258.
 
-The Song of Moses, xv. 1--22.
+### Chapter XVIII
 
-A song remembered in heaven. Its structure, \[241\]216--\[242\]17.--The women join. Instruments. Dances, \[243\]218. God the Deliverer, not Moses. "My salvation," \[244\]219.--Gratitude. Anthropomorphism. "Ye are gods." "Jehovah is a Man--of war," \[245\]220--\[246\]2.--The overthrow, \[247\]222.--First mention of Divine holiness, \[248\]223.--An inverted holiness, \[249\]224.--"Thou shalt bring them in," \[250\]225.
+JETHRO, xviii. 1-27.
 
-Shur, xv. 22--27.
+Gentiles in new aspect. Church may learn from secular wisdom, 259.--Little is said of Zipporah: Jethro's pleasure, 260.--A Gentile priest recognised. Religious festivity, 261.--Jethro's advice: its importance, 262.--Divine help does not supersede human gift, 263.
 
-Disillusion. Marah, \[251\]226.--A universal danger, \[252\]227.--Prayer, and the use of means, \[253\]228.--"A statute and an ordinance." Such compacts often repeated. The offered privilege, \[254\]229.--It is still enjoyed, \[255\]230.--"The Lord for the body." Elim, \[256\]231.
+THE TYPICAL BEARINGS OF THE HISTORY.
 
+Narrative is also allegory. Danger of arbitrary fancies. Example from Bunyan. Scriptural teaching, 264.--Some resemblances are planned: others are reappearances of same principle, 265.--So that these are evidential analogies, like Butler's, 266.--Others appear forced. "I called My Son out of Egypt" refers to Israel, 267.--But the condescending phrase promised more, and the subsequent coincidence is significant, 268. Truths cannot all be proved like Euclid's, 269.
 
-#### Chapter Xvi
+### Chapter XIX
 
-Murmuring for Food, xvi. 1--14.
+AT SINAI, xix. 1-25.
 
-We too fear, although Divinely guarded, \[258\]232.--They would fain die satiated, \[259\]233.--Relief tries them as want does, \[260\]234.--The Sabbath. A rebuke, \[261\]235.--Moses is zealous. His "meekness," \[262\]236.--The glory appears, \[263\]237.--Quails and manna, \[264\]238.
+Sinai and Pentecost. The place. Ras Sufsâfeh. God speaks in nature, 270.--Moses is stopped; the people must pledge themselves. Dedication services, 271.--An appeal to gratitude, and a promise, 272.--"A peculiar treasure." "A kingdom and priests," 273.--The individual, and Church order. "On eagles' wings," 274.--Israel consents. The Lord in the cloud. Manifestations are transient, 275.--Precautions. The trumpet, 276. "The priests." A plébiscite. Contrast between Law and Gospel: Methodius, 277.--Theophanies, 278.--None like this, 279.
 
-Manna, xvi. 15--36.
+### Chapter XX
 
-Their course of life is changed, \[265\]238.--A drug resembles manna, \[266\]239.--The supernatural follows nature, \[267\]240.--They must gather, prepare, be moderate, \[268\]241.--Nothing over and no lack. Socialistic perversion, \[269\]242.--Socialism. Christ in politics, \[270\]243--\[271\]4.
+THE LAW, xx. 1-17.
 
-Spiritual Meat, xvi. 15--36.
+What the law did. It could not justify. It reveals obligation, 280.--It convicts, not enables. It is an organic whole. And a challenge, 281.--The Spirit enables: love is fulfilment of law. Luther's paradox, 283.--Law and Gospel contrasted. Its spiritual beauty: two noble failures, 283.--The Jewish arrangement of the Commandments. St. Augustine's. The Anglican. An equal division, 284-6.
 
-Manna is a type. When given, \[272\]244.--An unearthly sustenance, \[273\]245. What is spirituality? Christ the true Manna, \[274\]246.--Universal, daily, abundant, \[275\]247.--The Sabbath. The pot of manna, \[276\]248.
+THE PROLOGUE, xx. 2.
 
+Their experience of God, 286.--God and the first table. The true object of adoration: men must adore. Agnosticism, 287.--God and the second table, 288.--Law appeals to noble motives, 289.
 
-#### Chapter Xvii
+THE FIRST COMMANDMENT, xx. 3.
 
-Meribah, xvii. 1--7.
+Monotheism and a real God, 289.--False creeds attractive. Spiritualism. Science indebted to Monotheism, 290.--Unity of nature a religious truth. Strength of our experimental argument. 291.--Informal apostacy. Luther's position. Scripture. The Chaldeans, 292.--Animal pleasure, 293.--The remedy: "Thou shalt have ... Me," 294.
 
-A greater strain. What if Israel had stood it? \[278\]249.--They murmured against Moses. The position of Aaron. An exaggerated outcry, \[279\]250.--Witnesses to the miracle. The rock in Horeb, \[280\]251.--The rod. Privilege is not acceptance, \[281\]252.
+THE SECOND COMMANDMENT, xx. 4-6.
 
-Amalek, xvii. 8--16.
+Imagery not all idolatry. The subtler paganisms, 295. Spiritual worship, like a Gothic building, aspires: images lack expansiveness, 296.--God is jealous, 297.--The shadow of love, 298. Visiting sins on children, 299, 300.--Part of vast beneficent law, 300-2.--Gospel in law, 302.
 
-A water-raid, \[282\]252.--God's sheep must become His warriors. War, \[283\]253--\[284\]4.--Joshua. The rod of God, \[285\]255.--A silent prayer. Aaron and Hur must join in it, \[286\]256.--So now. But the army must fight, \[287\]257.--"The Lord my banner." Unlike a myth, \[288\]258.
+THE THIRD COMMANDMENT, xx. 7.
 
+Meaning of "in vain," 302.--Jewish superstition. Where swearing is wholly forbidden, 303.--Fruitful and free use of God's name, 304-5.
 
-#### Chapter Xviii
+THE FOURTH COMMANDMENT, xx. 8-11.
 
-Jethro, xviii. 1--27.
+Law of Sabbath unique. Confession of Augsburg. Of Westminster, 305.--Anglican position. St. Paul, 306.--The first positive precept. Love not the abolition of the law, 307.--Property of our friends. The word "remember." The story of creation, 305.--The manna. Isaiah, Jeremiah, Ezekiel, 309.--Christ's freedom was that of a Jew. "Sabbath for man," 310.--Our help, not our fetter. "My Father worketh," 311.
 
-Gentiles in new aspect. Church may learn from secular wisdom, \[290\]259.--Little is said of Zipporah: Jethro's pleasure, \[291\]260.--A Gentile priest recognised. Religious festivity, \[292\]261.--Jethro's advice: its importance, \[293\]262.--Divine help does not supersede human gift, \[294\]263.
+THE FIFTH COMMANDMENT, xx. 12.
 
+Bridge between duty to God and to neighbour, 312.--Father and child, 313.--"Whosoever hateth not." Christ and His mother. Its sanction, 314.
 
-#### The Typical Bearings of the History
+THE SIXTH COMMANDMENT, xx. 13.
 
-Narrative is also allegory. Danger of arbitrary fancies. Example from Bunyan. Scriptural teaching, \[296\]264.--Some resemblances are planned: others are reappearances of same principle, \[297\]265.--So that these are evidential analogies, like Butler's, \[298\]266.--Others appear forced. "I called My Son out of Egypt" refers to Israel, \[299\]267.--But the condescending phrase promised more, and the subsequent coincidence is significant, \[300\]268. Truths cannot all be proved like Euclid's, \[301\]269.
+Who is neighbour? Ethics and religion, 315-16.--Science and morals, 317.--A Divine creature. Capital punishment, 318.
 
+THE SEVENTH COMMANDMENT, xx. 14.
 
-#### Chapter Xix
+Justice forbids act: Christ forbids desire. Sacredness of body, 319.--Human body connects material and spiritual worlds. Modifies, while serves, 320.--Marriage a type, 321.
 
-At Sinai, xix. 1--25.
+THE EIGHTH COMMANDMENT, xx. 15.
 
-Sinai and Pentecost. The place. Ras Sufsâfeh. God speaks in nature, \[303\]270.--Moses is stopped; the people must pledge themselves. Dedication services, \[304\]271.--An appeal to gratitude, and a promise, \[305\]272.--"A peculiar treasure." "A kingdom and priests," \[306\]273.--The individual, and Church order. "On eagles' wings," \[307\]274.--Israel consents. The Lord in the cloud. Manifestations are transient, \[308\]275.--Precautions. The trumpet, \[309\]276. "The priests." A plébiscite. Contrast between Law and Gospel: Methodius, \[310\]277.--Theophanies, \[311\]278.--None like this, \[312\]279.
+Assailed by communism, by Rome. Various specious pleas, 322.--Laws of community binding, 323.--None may judge his own case, St. Paul enlarges the precept, 324.
 
+THE NINTH COMMANDMENT, xx. 16.
 
-#### Chapter Xx
+Importance of words. Various transgressions, 325.--Slander against nations, against the race. Love, 326-7.
 
-The Law, xx. 1--17.
+THE TENTH COMMANDMENT, xx. 17.
 
-What the law did. It could not justify. It reveals obligation, \[314\]280.--It convicts, not enables. It is an organic whole. And a challenge, \[315\]281.--The Spirit enables: love is fulfilment of law. Luther's paradox, \[316\]283.--Law and Gospel contrasted. Its spiritual beauty: two noble failures, \[317\]283.--The Jewish arrangement of the Commandments. St. Augustine's. The Anglican. An equal division, \[318\]284--\[319\]6.
+The list of properties, 328.--The heart. The law searches, 329.
 
-The Prologue, xx. 2.
+THE LESSER LAW, xx. 18-xxiii. 33.
 
-Their experience of God, \[320\]286.--God and the first table. The true object of adoration: men must adore. Agnosticism, \[321\]287.--God and the second table, \[322\]288.--Law appeals to noble motives, \[323\]289.
+A remarkable code. The circumstances, 331.--Moses fears: yet bids them fear not, 332-3.--Presumption v. awe. He receives an expanded decalogue, an abridged code, 334.--Laws should educate a people; should not outrun their capabilities, 335-6.--Five subdivisions, 337.
 
-The First Commandment, xx. 3.
+**I.** THE LAW OF WORSHIP, xx. 22-26.
 
-Monotheism and a real God, \[324\]289.--False creeds attractive. Spiritualism. Science indebted to Monotheism, \[325\]290.--Unity of nature a religious truth. Strength of our experimental argument. \[326\]291.--Informal apostacy. Luther's position. Scripture. The Chaldeans, \[327\]292.--Animal pleasure, \[328\]293.--The remedy: "Thou shalt have ... Me," \[329\]294.
+Images again forbidden, 337.--Splendour and simplicity. An objection, 338.--Modesty, 339.
 
-The Second Commandment, xx. 4--6.
+### Chapter XXI — THE LESSER LAW (_continued_)
 
-Imagery not all idolatry. The subtler paganisms, \[330\]295. Spiritual worship, like a Gothic building, aspires: images lack expansiveness, \[331\]296.--God is jealous, \[332\]297.--The shadow of love, \[333\]298. Visiting sins on children, \[334\]299, \[335\]300.--Part of vast beneficent law, \[336\]300--\[337\]2.--Gospel in law, \[338\]302.
+**II.** RIGHTS OF THE PERSON, xxi. 1-32.
 
-The Third Commandment, xx. 7.
+The Hebrew slave. The seventh year. Year of jubilee. His family, 340.--The ear pierced. St. Paul's "marks of the Lord." Assaults, 341.--The Gentile slave, 342. The female slave, 342-3.--Murder and blood-fiends, 343.--Parents. Kidnappers, 344.--Eye for eye. Mitigations of _lex talionis_, 344-5.--Vicious cattle, 346.
 
-Meaning of "in vain," \[339\]302.--Jewish superstition. Where swearing is wholly forbidden, \[340\]303.--Fruitful and free use of God's name, \[341\]304--\[342\]5.
+**III.** RIGHTS OF PROPERTY, xxi. 33-xxii. 15.
 
-The Fourth Commandment, xx. 8--11.
+Negligence: indirect responsibility: various examples, 346-8.--Theft, 348.
 
-Law of Sabbath unique. Confession of Augsburg. Of Westminster, \[343\]305.--Anglican position. St. Paul, \[344\]306.--The first positive precept. Love not the abolition of the law, \[345\]307.--Property of our friends. The word "remember." The story of creation, \[346\]305.--The manna. Isaiah, Jeremiah, Ezekiel, \[347\]309.--Christ's freedom was that of a Jew. "Sabbath for man," \[348\]310.--Our help, not our fetter. "My Father worketh," \[349\]311.
+### Chapter XXII — THE LESSER LAW (_continued_)
 
-The Fifth Commandment, xx. 12.
+**IV.** VARIOUS ENACTMENTS, xxii. 16-xxiii. 19.
 
-Bridge between duty to God and to neighbour, \[350\]312.--Father and child, \[351\]313.--"Whosoever hateth not." Christ and His mother. Its sanction, \[352\]314.
+Disconnected precepts. No trace of systematic revision. Certain capital crimes, 348-9.
 
-The Sixth Commandment, xx. 13.
+SORCERY, xxii. 18.
 
-Who is neighbour? Ethics and religion, \[353\]315--\[354\]16.--Science and morals, \[355\]317.--A Divine creature. Capital punishment, \[356\]318.
+Abuses have recoiled against religion, 349.--Sorcerers are impostors, but they existed, and do still, 350.--Moses could not leave them to enlightened opinion. Propagated apostacy, 351.--Traitors in a theocracy, 352.--When shall witchcraft die? 353.
 
-The Seventh Commandment, xx. 14.
+THE STRANGER, xxii. 21; xxiii. 9.
 
-Justice forbids act: Christ forbids desire. Sacredness of body, \[357\]319.--Human body connects material and spiritual worlds. Modifies, while serves, \[358\]320.--Marriage a type, \[359\]321.
+"Ye were strangers," 354.--A fruitful principle. Morality not expediency, 355.--Cruelty often ignorance: Moses educates, 356.--The widow. The borrower, 357.--Other precepts, 358.
 
-The Eighth Commandment, xx. 15.
+### Chapter XXIII — THE LESSER LAW (_continued_)
 
-Assailed by communism, by Rome. Various specious pleas, \[360\]322.--Laws of community binding, \[361\]323.--None may judge his own case, St. Paul enlarges the precept, \[362\]324.
+An enemy's cattle. A false report, 359.--Influence of multitude: the world and the Church, 360-1.--Favour not the poor, 361-2.--Other precepts. "A kid in his mother's milk," 362.
 
-The Ninth Commandment, xx. 16.
+LESSER LAW, V. ITS SANCTIONS xxiii. 20-33.
 
-Importance of words. Various transgressions, \[363\]325.--Slander against nations, against the race. Love, \[364\]326--\[365\]7.
+A bold transition: the Angel in Whom is "My Name," 363.--Not a mere messenger, 364.--Nor the substitute of chap. xxxiii. 2, 3, 365-6.--Parallel verses, 366-7.
 
-The Tenth Commandment, xx. 17.
+### Chapter XXIV
 
-The list of properties, \[366\]328.--The heart. The law searches, \[367\]329.
+THE COVENANT RATIFIED. THE VISION OF GOD, xxiv.
 
-\[368\]THE LESSER LAW, xx. 18--xxiii. 33.
+The code is accepted, written, ratified with blood, 368.--Exclusion and admittance. The elders see God: Moses goes farther. Theophanies of other creeds, 369.--How could they see God? 370.--Moses feels not satisfaction, but desire, 371.--His progress is from vision to shadow and a Voice, 372.--We see not each other, 373.--St. Augustine, 373-4.--The vision suits the period: not post-Exilian, 374-5.--Contrast with revelation in Christ, 375.
 
-A remarkable code. The circumstances, \[369\]331.--Moses fears: yet bids them fear not, \[370\]332--\[371\]3.--Presumption v. awe. He receives an expanded decalogue, an abridged code, \[372\]334.--Laws should educate a people; should not outrun their capabilities, \[373\]335--\[374\]6.--Five subdivisions, \[375\]337.
+### Chapter XXV
 
-**I.** The Law of Worship, xx. 22--26.
+THE SHRINE AND ITS FURNITURE, xxv. 1-40.
 
-Images again forbidden, \[376\]337.--Splendour and simplicity. An objection, \[377\]338.--Modesty, \[378\]339.
+The God of Sinai will inhabit a tent. His other tabernacles, 376-7.--The furniture is typical. Altar of incense postponed, 377.--The ark enshrines His law and its sanctions, 377-8.--The mercy-seat covers it, 378-81.--Man's homage. The table of shewbread, 382-3.--The golden candlestick (lamp-stand), 383-6.
 
-\[379\]CHAPTER XXI. THE LESSER LAW (continued).
+THE PATTERN IN THE MOUNT, xxv. 9, 40.
 
-**II.** Rights of the Person, xxi. 1--32.
+Use in Hebrews. Plato, 386.--Not a model, but an idea. Art, 387.--Provisional institutions, 387-8.---The ideal in creation, 388.--In life, 389.
 
-The Hebrew slave. The seventh year. Year of jubilee. His family, \[380\]340.--The ear pierced. St. Paul's "marks of the Lord." Assaults, \[381\]341.--The Gentile slave, \[382\]342. The female slave, \[383\]342--\[384\]3.--Murder and blood-fiends, \[385\]343.--Parents. Kidnappers, \[386\]344.--Eye for eye. Mitigations of lex talionis, \[387\]344--\[388\]5.--Vicious cattle, \[389\]346.
+### Chapter XXVI — The Tabernacle
 
-**III.** Rights of Property, xxi. 33--xxii. 15.
+"Temple" an ambiguous word, 390.--"Curtains of the Tabernacle," 391.--Other coverings, 392.--The boards and sockets, 392-3.--The bars. The tent, 393.--Position of veil, 394, and of the front, 395.
 
-Negligence: indirect responsibility: various examples, \[390\]346--\[391\]8.--Theft, \[392\]348.
+### Chapter XXVII — The Outer Court
 
-\[393\]CHAPTER XXII. THE LESSER LAW (continued).
+The altar, 396.--The quadrangle, 397.--General effect, 398-400.
 
-**IV.** Various Enactments, xxii. 16--xxiii. 19.
+### Chapter XXVIII — The Holy Garments
 
-Disconnected precepts. No trace of systematic revision. Certain capital crimes, \[394\]348--\[395\]9.
+Their import, 401.--The drawers. "Coat." Head-tires. Robe of the ephod. Ephod. Jewels, 402.--Breastplate. Urim and Thummim. Mitre. Symbolism, 403.
 
-Sorcery, xxii. 18.
+THE PRIESTHOOD.
 
-Abuses have recoiled against religion, \[396\]349.--Sorcerers are impostors, but they existed, and do still, \[397\]350.--Moses could not leave them to enlightened opinion. Propagated apostacy, \[398\]351.--Traitors in a theocracy, \[399\]352.--When shall witchcraft die? \[400\]353.
+Universal desire and dread of God, 404.--Delegates, 405. Scripture. First Moses, 406.--His family passed over. The double consciousness expressed, 407-9.--Messianic priesthood, 409.
 
-The Stranger, xxii. 21; xxiii. 9.
+### Chapter XXIX — Consecration Services
 
-"Ye were strangers," \[401\]353.--A fruitful principle. Morality not expediency, \[402\]354.--Cruelty often ignorance: Moses educates, \[403\]355.--The widow. The borrower, \[404\]356.--Other precepts, \[405\]357.
+Why consecrate at all? 410.--Moses officiates. The offerings, 411.--Ablution, robing, anointing, 412-13.--The sin-offering, 413-14. "Without the camp," 414. The burnt-offering, 415.--The peace-offering ("ram of consecration"), 415.--The wave-offerings, 415-16.--The result, 416-17.
 
-\[406\]CHAPTER XXIII. THE LESSER LAW (continued).
+### Chapter XXX
 
-An enemy's cattle. A false report, \[407\]358.--Influence of multitude: the world and the Church, \[408\]359--\[409\]60.--Favour not the poor, \[410\]360--\[411\]1.--Other precepts. "A kid in his mother's milk," \[412\]361.
+INCENSE, xxx. 1-10.
 
-Lesser Law, V. Its Sanctions xxiii. 20--33.
+The impalpable in nature, 418.--"The golden altar," 419.--Represents prayer. Needs cleansing, 420.
 
-A bold transition: the Angel in Whom is "My Name," \[413\]362.--Not a mere messenger, \[414\]363.--Nor the substitute of chap. xxxiii. 2, 3, \[415\]364--\[416\]5.--Parallel verses, \[417\]365--\[418\]6.
+A CENSUS, xxx. ii-16.
 
+A census not sinful. David's transgression. The half-shekel. Equality of man, 421.--Christ paid it, 422.--Its employment, 423.
 
-#### Chapter Xxiv
+THE LAVER, xxx. 17-21.
 
-The Covenant Ratified. The Vision of God, xxiv.
+Behind the altar. Purity of priests, 423.--Made of the mirrors, 424.
 
-The code is accepted, written, ratified with blood, \[420\]367.--Exclusion and admittance. The elders see God: Moses goes farther. Theophanies of other creeds, \[421\]368.--How could they see God? \[422\]369.--Moses feels not satisfaction, but desire, \[423\]370.--His progress is from vision to shadow and a Voice, \[424\]371.--We see not each other, \[425\]372.--St. Augustine, \[426\]372--\[427\]3.--The vision suits the period: not post-Exilian, \[428\]373--\[429\]4.--Contrast with revelation in Christ, \[430\]374.
+ANOINTING OIL AND INCENSE, xxx. 22-38.
 
+Their ingredients. All the vessels anointed, 424.--Forbidden to secular uses, 425.--Modern analogies, 426-7.
 
-#### Chapter Xxv
+### Chapter XXXI
 
-The Shrine and its Furniture, xxv. 1--40.
+BEZALEEL AND AHOLIAB, xxxi. 1-18.
 
-The God of Sinai will inhabit a tent. His other tabernacles, \[432\]375--\[433\]6.--The furniture is typical. Altar of incense postponed, \[434\]376.--The ark enshrines His law and its sanctions, \[435\]376--\[436\]7.--The mercy-seat covers it, \[437\]377--\[438\]80.--Man's homage. The table of shewbread, \[439\]381--\[440\]2.--The golden candlestick (lamp-stand), \[441\]382--\[442\]5.
+Secular gifts are sacred, 428-30.--The Sabbath. The tables and "the finger of God," 431.
 
-The Pattern in the Mount, xxv. 9, 40.
+### Chapter XXXII — The Golden Calf
 
-**Use** in Hebrews. Plato, \[443\]385.--Not a model, but an idea. Art, \[444\]386.--Provisional institutions, \[445\]386--\[446\]7.---The ideal in creation, \[447\]387.--In life, \[448\]388.
+Sin of the people; of Aaron. God rejects them, 432.--Intercession. The Christian antitype, 433-4.
 
+### Chapter XXXIII — Prevailing Intercession
 
-#### Chapter Xxvi
+The first concession. The angel, 435.--"The Tent of the Meeting," 436.
 
-The Tabernacle.
+### Chapter XXXIV — The Vision of God
 
-"Temple" an ambiguous word, \[450\]389.--"Curtains of the Tabernacle," \[451\]390.--Other coverings, \[452\]391.--The boards and sockets, \[453\]391--\[454\]2.--The bars. The tent, \[455\]392.--Position of veil, \[456\]393, and of the front, \[457\]394.
+To know is to desire to know. A fit season. The greater Name, 438.--The covenant renewed. The tables. The skin of his face shone, 439.--Lessons, 440.
 
+CHAPTERS XXXV.-XL. CONCLUSION.
 
-#### Chapter Xxvii
-
-The Outer Court.
-
-The altar, \[459\]395.--The quadrangle, \[460\]396.--General effect, \[461\]397--\[462\]399.
-
-
-#### Chapter Xxviii
-
-The Holy Garments.
-
-Their import, \[464\]400.--The drawers. "Coat." Head-tires. Robe of the ephod. Ephod. Jewels, \[465\]401.--Breastplate. Urim and Thummim. Mitre. Symbolism, \[466\]402.
-
-The Priesthood.
-
-Universal desire and dread of God, \[467\]403.--Delegates, \[468\]404. Scripture. First Moses, \[469\]405.--His family passed over. The double consciousness expressed, \[470\]406--\[471\]8.--Messianic priesthood, \[472\]408.
-
-
-#### Chapter Xxix
-
-Consecration Services.
-
-Why consecrate at all? \[474\]409.--Moses officiates. The offerings, \[475\]410.--Ablution, robing, anointing, \[476\]411--\[477\]12.--The sin-offering, \[478\]412--\[479\]13. "Without the camp," \[480\]413. The burnt-offering, \[481\]414.--The peace-offering ("ram of consecration"), \[482\]414.--The wave-offerings, \[483\]414--\[484\]15.--The result, \[485\]415--\[486\]16.
-
-
-#### Chapter Xxx
-
-Incense, xxx. 1--10.
-
-The impalpable in nature, \[488\]417.--"The golden altar," \[489\]418.--Represents prayer. Needs cleansing, \[490\]419.
-
-A Census, xxx. ii--16.
-
-A census not sinful. David's transgression. The half-shekel. Equality of man, \[491\]420.--Christ paid it, \[492\]421.--Its employment, \[493\]422.
-
-The Laver, xxx. 17--21.
-
-Behind the altar. Purity of priests, \[494\]422.--Made of the mirrors, \[495\]423.
-
-Anointing Oil and Incense, xxx. 22--38.
-
-Their ingredients. All the vessels anointed, \[496\]423.--Forbidden to secular uses, \[497\]424.--Modern analogies, \[498\]425--\[499\]6.
-
-
-#### Chapter Xxxi
-
-Bezaleel and Aholiab, xxxi. 1--18.
-
-Secular gifts are sacred, \[501\]427--\[502\]29.--The Sabbath. The tables and "the finger of God," \[503\]430.
-
-
-#### Chapter Xxxii
-
-The Golden Calf.
-
-Sin of the people; of Aaron. God rejects them, 431.--Intercession. The Christian antitype, \[505\]432--\[506\]3.
-
-
-#### Chapter Xxxiii
-
-Prevailing Intercession.
-
-The first concession. The angel, \[508\]434.--"The Tent of the Meeting," \[509\]435.
-
-
-#### Chapter Xxxiv
-
-The Vision of God.
-
-To know is to desire to know. A fit season. The greater Name, \[511\]437.--The covenant renewed. The tables. The skin of his face shone, \[512\]438.--Lessons, \[513\]439.
-
-
-#### Chapters Xxxv.--xl. Conclusion
-
-The people obey, \[515\]440.--The forming of the nation: review, \[516\]440--\[517\]2.
-
+The people obey, 441.--The forming of the nation: review, 441-3.
 
 ### Chapter I — The Prologue
 
-Exodus i. 1--6.
+Exodus I. 1-6.
 
 "And these are the names of the children of Israel which came into Egypt."
 
@@ -554,13 +496,15 @@ Many books of the Old Testament begin with the conjunction And. This fact, it ha
 
 Thus the Book of the Kings took up the tale from Samuel, Samuel from Judges, and Judges from Joshua, and all carried the sacred movement forward towards a goal as yet unreached. Indeed, it was impossible, remembering the first promise that the seed of the woman should bruise the head of the serpent, and the later assurance that in the seed of Abraham should be the universal blessing, for a faithful Jew to forget that all the history of his race was the evolution of some grand hope, a pilgrimage towards some goal unseen. Bearing in mind that there is now revealed to us a world-wide tendency toward the supreme consummation, the bringing all things under the headship of Christ, it is not to be denied that this hope of the ancient Jew is given to all mankind. Each new stage in universal history may be said to open with this same conjunction. It links the history of England with that of Julius Cæsar and of the Red Indian; nor is the chain composed of accidents: it is forged by the hand of the God of providence. Thus, in the conjunction which binds these Old Testament narratives together, is found the germ of that instinctive and elevating phrase, the Philosophy of History. But there is nowhere in Scripture the notion which too often degrades and stiffens that Philosophy--the notion that history is urged forward by blind forces, amid which the individual man is too puny to assert himself. Without a Moses the Exodus is inconceivable, and God always achieves His purpose through the providential man.
 
-The Books of the Pentateuch are held together in a yet stronger unity than the rest, being sections of one and the same narrative, and having been accredited with a common authorship from the earliest mention of them. Accordingly, the Book of Exodus not only begins with this conjunction (which assumes the previous narrative), but also rehearses the descent into Egypt. "And these are the names of the sons of Israel which came into Egypt,"--names blotted with many a crime, rarely suggesting any lovable or great association, yet the names of men with a marvellous heritage, as being "the sons of Israel," the Prince who prevailed with God. Moreover they are consecrated: their father's dying words had conveyed to every one of them some expectation, some mysterious import which the future should disclose. In the issue would be revealed the awful influence of the past upon the future, of the fathers upon the children even beyond the third and fourth generation--an influence which is nearer to destiny, in its stern, subtle and far-reaching strength, than any other recognised by religion. Destiny, however, it is not, or how should the name of Dan have faded out from the final list of "every tribe of the children of Israel" in the Apocalypse (Rev. vii. 5--8), where Manasseh is reckoned separately from Joseph to complete the twelve?
+* * * * *
+
+The Books of the Pentateuch are held together in a yet stronger unity than the rest, being sections of one and the same narrative, and having been accredited with a common authorship from the earliest mention of them. Accordingly, the Book of Exodus not only begins with this conjunction (which assumes the previous narrative), but also rehearses the descent into Egypt. "And these are the names of the sons of Israel which came into Egypt,"--names blotted with many a crime, rarely suggesting any lovable or great association, yet the names of men with a marvellous heritage, as being "the sons of Israel," the Prince who prevailed with God. Moreover they are consecrated: their father's dying words had conveyed to every one of them some expectation, some mysterious import which the future should disclose. In the issue would be revealed the awful influence of the past upon the future, of the fathers upon the children even beyond the third and fourth generation--an influence which is nearer to destiny, in its stern, subtle and far-reaching strength, than any other recognised by religion. Destiny, however, it is not, or how should the name of Dan have faded out from the final list of "every tribe of the children of Israel" in the Apocalypse (Rev. vii. 5-8), where Manasseh is reckoned separately from Joseph to complete the twelve?
 
 We read that with the twelve came their posterity, seventy souls in direct descent from Jacob; but in this number he is himself included, according to that well-known Orientalism which Milton strove to force upon our language in the phrase--
 
 "The fairest of her daughters Eve."
 
-Joseph is also reckoned, although he "was in Egypt already." Now, it must be observed that of these seventy, sixty-eight were males, and therefore the people of the Exodus must not be reckoned to have sprung in the interval from seventy, but (remembering polygamy) from more than twice that number, even if we refuse to make any account of the household which is mentioned as coming with every man. These households were probably smaller in each case than that of Abraham, and the famine in its early stages may have reduced the number of retainers; yet they account for much of what is pronounced incredible in the rapid expansion of the clan into a nation.  [fn. 1: Professor Curtiss quotes a volume of family memoirs which shows that 5,564 persons are known to be descended from Lieutenant John Hollister, who emigrated to America in the year 1642 (Expositor, Nov. 1887, p. 329). This is probably equal in ratio to the increase of Israel in Egypt.] But when all allowance has been made, the increase continues to be, such as the narrator clearly regards it, abnormal, well-nigh preternatural, a fitting type of the expansion, amid fiercer persecutions, of the later Church of God, the true circumcision, who also sprang from the spiritual parentage of another Seventy and another Twelve.
+Joseph is also reckoned, although he "was in Egypt already." Now, it must be observed that of these seventy, sixty-eight were males, and therefore the people of the Exodus must not be reckoned to have sprung in the interval from seventy, but (remembering polygamy) from more than twice that number, even if we refuse to make any account of the household which is mentioned as coming with every man. These households were probably smaller in each case than that of Abraham, and the famine in its early stages may have reduced the number of retainers; yet they account for much of what is pronounced incredible in the rapid expansion of the clan into a nation. [fn. 1: Professor Curtiss quotes a volume of family memoirs which shows that 5,564 persons are known to be descended from Lieutenant John Hollister, who emigrated to America in the year 1642 (_Expositor_, Nov. 1887, p. 329). This is probably equal in ratio to the increase of Israel in Egypt.] But when all allowance has been made, the increase continues to be, such as the narrator clearly regards it, abnormal, well-nigh preternatural, a fitting type of the expansion, amid fiercer persecutions, of the later Church of God, the true circumcision, who also sprang from the spiritual parentage of another Seventy and another Twelve.
 
 "And Joseph died, and all his brethren, and all that generation." Thus the connection with Canaan became a mere tradition, and the powerful courtier who had nursed their interests disappeared. When they remembered him, in the bitter time which lay before them, it was only to reflect that all mortal help must perish. It is thus in the spiritual world also. Paul reminds the Philippians that they can obey in his absence and not in his presence only, working out their own salvation, as no apostle can work it out on their behalf. And the reason is that the one real support is ever present. Work out your own salvation, for it is God (not any teacher) Who worketh in you. The Hebrew race was to learn its need of Him, and in Him to recover its freedom. Moreover, the influences which mould all men's characters, their surroundings and mental atmosphere, were completely changed. These wanderers for pasture were now in the presence of a compact and impressive social system, vast cities, gorgeous temples, an imposing ritual. They were infected as well as educated there, and we find the men of the Exodus not only murmuring for Egyptian comforts, but demanding visible gods to go before them.
 
@@ -574,10 +518,9 @@ Now, this principle is in full operation still, and ought to be solemnly pondere
 
 On the other hand, there is no youth living in obedience alike to the higher and humbler laws of our complex nature, in purity and gentleness and healthful occupation, who may not contribute to the stock of happiness in other lives beyond his own, to the future well-being of his native land, and to the day when the sadly polluted stream of human existence shall again flow clear and glad, a pure river of water of life.
 
+_GOD IN HISTORY._
 
-#### God in History
-
-i. 7.
+**I.** 7.
 
 With the seventh verse, the new narrative, the course of events treated in the main body of this book, begins.
 
@@ -601,7 +544,7 @@ Next we have a chosen family, called out from all the perilous associations of i
 
 Such is the connection between this narrative and what went before. And the continuation of the same experiment, and the same failure, can be traced through all the subsequent history. Whether in so loose an organisation that every man does what is right in his own eyes, or under the sceptre of a hero or a sage,--whether so hard pressed that self-preservation ought to have driven them to their God, or so marvellously delivered that gratitude should have brought them to their knees,--whether engulfed a second time in a more hopeless captivity, or restored and ruled by a hierarchy whose authority is entirely spiritual,--in every variety of circumstances the same melancholy process repeats itself; and lawlessness, luxury, idolatry and self-righteousness combine to stop every mouth, to make every man guilty before God, to prove that a greater salvation is still needed, and thus to pave the way for the Messiah.
 
-The second great principle of St. Paul is that faith in a divine help, in pardon, blessing and support, was the true spirit of the Old Testament as well as of the New. The challenge of the law was meant to produce self-despair, only that men might trust in God. Appeal was made especially to the cases of Abraham and David, the founder of the race and of the dynasty, clearly because the justification without works of the patriarch and of the king were precedents to decide the general question (Rom. iv. 1--8). Now, this is pre-eminently the distinction between Jewish history and all others, that in it God is everything and man is nothing. Every sceptical treatment of the story makes Moses to be the deliverer from Egypt, and shows us the Jewish nation gradually finding out God. But the nation itself believed nothing of the kind. It confessed itself to have been from the beginning vagrant and rebellious and unthankful: God had always found out Israel, never Israel God. The history is an expansion of the parable of the good shepherd. And this perfect harmony of a long record with itself and with abstract principles is both instructive and reassuring.
+The second great principle of St. Paul is that faith in a divine help, in pardon, blessing and support, was the true spirit of the Old Testament as well as of the New. The challenge of the law was meant to produce self-despair, only that men might trust in God. Appeal was made especially to the cases of Abraham and David, the founder of the race and of the dynasty, clearly because the justification without works of the patriarch and of the king were precedents to decide the general question (Rom. iv. 1-8). Now, this is pre-eminently the distinction between Jewish history and all others, that in it God is everything and man is nothing. Every sceptical treatment of the story makes Moses to be the deliverer from Egypt, and shows us the Jewish nation gradually finding out God. But the nation itself believed nothing of the kind. It confessed itself to have been from the beginning vagrant and rebellious and unthankful: God had always found out Israel, never Israel God. The history is an expansion of the parable of the good shepherd. And this perfect harmony of a long record with itself and with abstract principles is both instructive and reassuring.
 
 As the history of Israel opens before us, a third principle claims attention--one which the apostle quietly assumes, but which is forced on our consideration by the unhappy state of religious thought in these degenerate days.
 
@@ -609,10 +552,9 @@ As the history of Israel opens before us, a third principle claims attention--on
 
 Moreover, He treats us as the men of other ages. Instead of dealing with Moses upon exceptional and strange lines, He made known His ways unto Moses, His characteristic and habitual ways. And it is on this account that whatsoever things were written aforetime are true admonition for us also, being not violent interruptions but impressive revelations of the steady silent methods of the judgment and the grace of God.
 
+_THE OPPRESSION._
 
-#### The Oppression
-
-i. 7--22.
+**I.** 7-22.
 
 At the beginning of the history of Israel we find a prosperous race. It was indeed their growing importance, and chiefly their vast numerical increase, which excited the jealousy of their rulers, at the very time when a change of dynasty removed the sense of obligation. It is a sound lesson in political as well as personal godliness that prosperity itself is dangerous, and needs special protection from on high.
 
@@ -636,11 +578,11 @@ We attain a principle which reaches far into the spiritual world, when we reflec
 
 It was the jealous cruelty of Pharaoh which drew down upon his country the very perils he laboured to turn away. There was no ground for his fear of any league with foreigners against him. Prosperous and unambitious, the people would have remained well content beside the flesh-pots of Egypt, for which they sighed even when emancipated from heavy bondage and eating the bread of heaven. Or else, if they had gone forth in peace, from a land whose hospitality had not failed, to their inheritance in Canaan, they would have become an allied nation upon the side where the heaviest blows were afterwards struck by the Asiatic powers. Cruelty and cunning could not retain them, but it could decimate a population and lose an army in the attempt. And this law prevails in the modern world, England paid twenty millions to set her bondmen free. Because America would not follow her example, she ultimately paid the more terrible ransom of civil war. For the same God was in Jamaica and in Florida as in the field of Zoan. Nor was there ever yet a crooked policy which did not recoil either upon its author, or upon his successors when he had passed away. In this case it fulfilled the plans and the prophecies of God, and the wrath of man was made to praise Him.
 
-There is independent reason for believing that at this period one-third at least of the population of Egypt was of alien blood (Brugsch, History, ii. 100). A politician might fairly be alarmed, especially if this were the time when the Hittites were threatening the eastern frontier, and had reduced Egypt to stand on the defensive, and erect barrier fortresses. And the circumstances of the country made it very easy to enslave the Hebrews. If any stain of Oriental indifference to the rights of the masses had mingled with the God-given insight of Joseph, when he made his benefactor the owner of all the soil, the Egyptian people were fully avenged upon him now. For this arrangement laid his pastoral race helpless at their oppressor's feet. Forced labour quickly degenerates into slavery, and men who find the story of their misery hard to credit should consider the state of France before the Revolution, and of the Russian serfs before their emancipation. Their wretchedness was probably as bitter as that of the Hebrews at any period but the last climax of their oppression. And they owed it to the same cause--the absolute ownership of the land by others, too remote from them to be sympathetic, to take due account of their feelings, to remember that they were their fellow-men. This was enough to slay compassion, even without the aggravation of dealing with an alien and suspected race.
+There is independent reason for believing that at this period one-third at least of the population of Egypt was of alien blood (Brugsch, _History_, ii. 100). A politician might fairly be alarmed, especially if this were the time when the Hittites were threatening the eastern frontier, and had reduced Egypt to stand on the defensive, and erect barrier fortresses. And the circumstances of the country made it very easy to enslave the Hebrews. If any stain of Oriental indifference to the rights of the masses had mingled with the God-given insight of Joseph, when he made his benefactor the owner of all the soil, the Egyptian people were fully avenged upon him now. For this arrangement laid his pastoral race helpless at their oppressor's feet. Forced labour quickly degenerates into slavery, and men who find the story of their misery hard to credit should consider the state of France before the Revolution, and of the Russian serfs before their emancipation. Their wretchedness was probably as bitter as that of the Hebrews at any period but the last climax of their oppression. And they owed it to the same cause--the absolute ownership of the land by others, too remote from them to be sympathetic, to take due account of their feelings, to remember that they were their fellow-men. This was enough to slay compassion, even without the aggravation of dealing with an alien and suspected race.
 
 Now, it is instructive to observe these reappearances of wholesale crime. They warn us that the utmost achievements of human wickedness are human still; not wild and grotesque importations by a fiend, originated in the abyss, foreign to the world we live in. Satan finds the material for his master-strokes in the estrangement of class from class, in the drying up of the fountains of reciprocal human feeling, in the failure of real, fresh, natural affection in our bosom for those who differ widely from us in rank or circumstances. All cruelties are possible when a man does not seem to us really a man, nor his woes really woeful. For when the man has sunk into an animal it is only a step to his vivisection.
 
-Nor does anything tend to deepen such perilous estrangement, more than the very education, culture and refinement, in which men seek a substitute for religion and the sense of brotherhood in Christ. It is quite conceivable that the tyrant who drowned the Hebrew infants was an affectionate father, and pitied his nobles when their children died. But his sympathies could not reach beyond the barriers of a caste. Do our sympathies really overleap such barriers? Would God that even His Church believed aright in the reality of a human nature like our own, soiled, sorrowful, shamed, despairing, drugged into that apathetical insensibility which lies even below despair, yet aching still, in ten thousand bosoms, in every great city of Christendom, every day and every night! Would to God that she understood what Jesus meant, when He called one lost creature by the tender name which she had not yet forfeited, saying, "Woman, where are thine accusers?" and when He asked Simon, who scorned such another, "Seest thou this woman!" Would God that when she prays for the Holy Spirit of Jesus she would really seek a mind like His, not only in piety and prayerfulness, but also in tender and heartfelt brotherhood with all, even the vilest of the weary and heavy-laden!
+Nor does anything tend to deepen such perilous estrangement, more than the very education, culture and refinement, in which men seek a substitute for religion and the sense of brotherhood in Christ. It is quite conceivable that the tyrant who drowned the Hebrew infants was an affectionate father, and pitied his nobles when their children died. But his sympathies could not reach beyond the barriers of a caste. Do _our_ sympathies really overleap such barriers? Would God that even His Church believed aright in the reality of a human nature like our own, soiled, sorrowful, shamed, despairing, drugged into that apathetical insensibility which lies even below despair, yet aching still, in ten thousand bosoms, in every great city of Christendom, every day and every night! Would to God that she understood what Jesus meant, when He called one lost creature by the tender name which she had not yet forfeited, saying, "Woman, where are thine accusers?" and when He asked Simon, who scorned such another, "Seest thou this woman!" Would God that when she prays for the Holy Spirit of Jesus she would really seek a mind like His, not only in piety and prayerfulness, but also in tender and heartfelt brotherhood with all, even the vilest of the weary and heavy-laden!
 
 Many great works of ancient architecture, the pyramids among the rest, were due to the desire of crushing, by abject toil, the spirit of a subject people. We cannot ascribe to Hebrew labour any of the more splendid piles of Egyptian masonry, but the store cities or arsenals which they built can be identified. They are composed of such crude brick as the narrative describes; and the absence of straw in the later portion of them can still be verified. Rameses was evidently named after their oppressor, and this strengthens the conviction that we are reading of events in the nineteenth dynasty, when the shepherd kings had recently been driven out, leaving the eastern frontier so weak as to demand additional fortresses, and so far depopulated as to give colour to the exaggerated assertion of Pharaoh, "the people are more and mightier than we." It is by such exaggerations and alarms that all the worst crimes of statesmen have been justified to consenting peoples. And we, when we carry what seems to us a rightful object, by inflaming the prejudice and misleading the judgment of other men, are moving on the same treacherous and slippery inclines. Probably no evil is committed without some amount of justification, which the passions exaggerate, while they ignore the prohibitions of the law.
 
@@ -674,14 +616,13 @@ There is no greater mistake than to suppose that artistic refinement can either 
 
 Many civilisations have thought little of infant life. Ancient Rome would have regarded this atrocity as lightly as modern China, as we may see by the absolute silence of its literature concerning the murder of the innocents--an event strangely parallel with this in its nature and political motives, and in the escape of one mighty Infant.
 
-Is it conceivable that the same indifference should return, if the sanctions of religion lose their power? Every one remembers the callousness of Rousseau. Strange things are being written by pessimistic unbelief about the bringing of more sufferers into the world. And a living writer in France has advocated the legalising of infanticide, and denounced St. Vincent de Paul because, "thanks to his odious precautions, this man deferred for years the death of creatures without intelligence," etc. \[2\]
+Is it conceivable that the same indifference should return, if the sanctions of religion lose their power? Every one remembers the callousness of Rousseau. Strange things are being written by pessimistic unbelief about the bringing of more sufferers into the world. And a living writer in France has advocated the legalising of infanticide, and denounced St. Vincent de Paul because, "thanks to his odious precautions, this man deferred for years the death of creatures without intelligence," etc. [fn. 2: J. K. Huysmans--quoted in _Nineteenth Century_, May 1888, p. 673.]
 
 It is to the faith of Jesus, not only revealing by the light of eternity the value of every soul, but also replenishing the fountains of human tenderness that had well-nigh become exhausted, that we owe our modern love of children. In the very helplessness which the ancient masters of the world exposed to destruction without a pang, we see the type of what we must ourselves become, if we would enter heaven. But we cannot afford to forget either the source or the sanctions of the lesson.
 
-
 ### Chapter II — The Rescue of Moses
 
-ii. 1--10.
+Ii. 1-10.
 
 We have said that the Old Testament history teems with political wisdom, lessons of permanent instruction for mankind, on the level of this life, yet godly, as all true lessons must be, in a world of which Christ is King. These our religion must learn to recognise and proclaim, if it is ever to win the respect of men of affairs, and "leaven the whole lump" of human life with sacred influence.
 
@@ -709,9 +650,9 @@ All the accounts agree that he was thus hidden, "because they saw that he was a 
 
 Such, if we desire a real and actual salvation, is always the faith which saves. Postpone salvation to an indefinite future; make it no more than the escape from vaguely realised penalties for sins which do not seem very hateful; and you may suppose that faith in theories can obtain this indulgence; an opinion may weigh against a misgiving. But feel that sin is not only likely to entail damnation, but is really and in itself damnable meanwhile, and then there will be no deliverance possible, but from the hand of a divine Friend, strong to sustain and willing to guide the life. We read that Amram lived a hundred and thirty and seven years, and of all that period we only know that he helped to save the deliverer of his race, by practical faith which made him not afraid, and did not paralyse but stimulate his energies.
 
-When the mother could no longer hide the child, she devised the plan which has made her for ever famous. She placed him in a covered ark, or casket, \[3\] plaited (after what we know to have been the Egyptian fashion) of the papyrus reed, and rendered watertight with bitumen, and this she laid among the rushes--a lower vegetation, which would not, like the tall papyrus, hide her treasure--in the well-known and secluded place where the daughter of Pharaoh used to bathe. Something in the known character of the princess may have inspired this ingenious device to move her pity; but it is more likely that the woman's heart, in her extremity, prompted a simple appeal to the woman who could help her if she would. For an Egyptian princess was an important personage, with an establishment of her own, and often possessed of much political influence. The most sanguinary agent of a tyrant would be likely to respect the client of such a patron.
+When the mother could no longer hide the child, she devised the plan which has made her for ever famous. She placed him in a covered ark, or casket, [fn. 3: The same word is used for Noah's ark, but not elsewhere; not, for example, of the ark in the Temple, the name of which occurs elsewhere in Scripture only of the "coffin" of Joseph, and the "chest" for the Temple revenues (Gen. 1. 26; 2 Chron. xxiv. 8, 10, 11.)] plaited (after what we know to have been the Egyptian fashion) of the papyrus reed, and rendered watertight with bitumen, and this she laid among the rushes--a lower vegetation, which would not, like the tall papyrus, hide her treasure--in the well-known and secluded place where the daughter of Pharaoh used to bathe. Something in the known character of the princess may have inspired this ingenious device to move her pity; but it is more likely that the woman's heart, in her extremity, prompted a simple appeal to the woman who could help her if she would. For an Egyptian princess was an important personage, with an establishment of her own, and often possessed of much political influence. The most sanguinary agent of a tyrant would be likely to respect the client of such a patron.
 
-The heart of every woman was in a plot against the cruelty of Pharaoh. Once already the midwives had defeated him; and now, when his own daughter \[4\] unexpectedly found, in the water at her very feet, a beautiful child sobbing silently (for she knew not what was there until the ark was opened), her indignation is audible enough in the words, "This is one of the Hebrews' children." She means to say "This is only one specimen of the outrages that are going on."
+The heart of every woman was in a plot against the cruelty of Pharaoh. Once already the midwives had defeated him; and now, when his own daughter [fn. 4: Or his sister, the daughter of a former Pharaoh.] unexpectedly found, in the water at her very feet, a beautiful child sobbing silently (for she knew not what was there until the ark was opened), her indignation is audible enough in the words, "This is one of the Hebrews' children." She means to say "This is only one specimen of the outrages that are going on."
 
 This was the chance for his sister, who had been set in ambush, not prepared with the exquisite device which follows, but simply "to know what would be done to him." Clearly the mother had reckoned upon his being found, and neglected nothing, although unable herself to endure the agony of watching, or less easily hidden in that guarded spot. And her prudence had a rich reward. Hitherto Miriam's duty had been to remain passive--that hard task so often imposed upon the affection, especially of women, by sick-beds, and also in many a more stirring hazard, and many a spiritual crisis, where none can fight his brother's battle. It is a trying time, when love can only hold its breath, and pray. But let not love suppose that to watch is to do nothing. Often there comes a moment when its word, made wise by the teaching of the heart, is the all-important consideration in deciding mighty issues.
 
@@ -723,10 +664,9 @@ And the promptitude and success of Miriam suggest a reflection. Men do pity, whe
 
 Thus did God fulfil His mysterious plans. And according to a sad but noble law, which operates widely, what was best in Egypt worked with Him for the punishment of its own evil race. The daughter of Pharaoh adopted the perilous foundling, and educated him in the wisdom of Egypt.
 
+_THE CHOICE OF MOSES._
 
-#### The Choice of Moses
-
-ii. 11--15.
+Ii. 11-15.
 
 God works even His miracles by means. As He fed the multitude with barley-loaves, so He would emancipate Israel by human agency. It was therefore necessary to educate one of the trampled race "in all the learning of Egypt," and Moses was planted in the court of Pharaoh, like the German Arminius in Rome. Wonderful legends may be read in Josephus of his heroism, his wisdom, and his victories; and these have some foundation in reality, for Stephen tells us that he was mighty in his words and works. Might in words need not mean the fluent utterance which he so earnestly disclaimed (iv. 10), even if forty years' disuse of the language were not enough to explain his later diffidence. It may have meant such power of composition as appears in the hymn by the Red Sea, and in the magnificent valediction to his people.
 
@@ -748,10 +688,9 @@ And yet his was a noble patriotism. There is a false love of country, born of pr
 
 His first act had been a kind of manifesto, a claim to lead, which he supposed that they would have understood; and yet, when he found his deed was known, he feared and fled. His false step told against him. One cannot but infer also that he was conscious of having already forfeited court favour--that he had before this not only made his choice, but announced it, and knew that the blow was ready to fall on him at any provocation. We read that he dwelt in the land of Midian, a name which was applied to various tracts according to the nomadic wanderings of the tribe, but which plainly included, at this time, some part of the peninsula formed by the tongues of the Red Sea. For, as he fed his flocks, he came to the Mount of God.
 
+_MOSES IN MIDIAN._
 
-#### Moses in Midian
-
-ii. 16--22
+Ii. 16-22
 
 The interference of Moses on behalf of the daughters of the priest of Midian is a pleasant trait, courteous, and expressive of a refined nature. With this remark, and reflecting that, like many courtesies, it brought its reward, we are often content to pass it by. And yet it deserves a closer examination.
 
@@ -759,22 +698,21 @@ The interference of Moses on behalf of the daughters of the priest of Midian is 
 
 It was no common nature which was alert and energetic at such a time. The greatest men have known a period of prostration in calamity: it was enough for honour that they should rally and re-collect their forces. Thinking of Frederick, after Kunersdorf, resigning the command ("I have no resources more, and will not survive the destruction of my country"), and of his subsequent despatch, "I am now recovered from my illness"; and of Napoleon, trembling and weeping on the road to Elba, one turns with fresh admiration to the fallen prince, the baffled liberator, sitting exhausted by the well, but as keen on behalf of liberty as when Pharaoh trampled Israel, though now the oppressors are a group of rude herdsmen, and the oppressed are Midianite women, driven from the troughs which they have toiled to fill. One remembers Another, sitting also exhausted by the well, defying social usage on behalf of a despised woman, and thereby inspired and invigorated as with meat to eat which His followers knew not of.
 
-**2.** Moreover there is disinterested bravery in the act, since he hazards the opposition of the men of the land, among whom he seeks refuge, on behalf of a group from which he can have expected nothing. And here it is worth while to notice the characteristic variations in three stories which have certain points of contact. The servant of Abraham, servant-like, was well content that Rebekah should draw for all his camels, while he stood still. The prudent Jacob, anxious to introduce himself to his cousin, rolled away the stone and watered her camels. Moses sat by the well, but did not interfere while the troughs were being filled: it was only the overt wrong which kindled him. But as in great things, so it is in small: our actions never stand alone; having once befriended them, he will do it thoroughly, "and moreover he drew water for us, and watered the flock." Such details could hardly have been thought out by a fabricator; a legend would not have allowed Moses to be slower in courtesy than Jacob; \[5\] but the story fits the case exactly: his eyes were with his heart, and that was far away, until the injustice of the shepherds roused him.
+**2.** Moreover there is disinterested bravery in the act, since he hazards the opposition of the men of the land, among whom he seeks refuge, on behalf of a group from which he can have expected nothing. And here it is worth while to notice the characteristic variations in three stories which have certain points of contact. The servant of Abraham, servant-like, was well content that Rebekah should draw for all his camels, while he stood still. The prudent Jacob, anxious to introduce himself to his cousin, rolled away the stone and watered her camels. Moses sat by the well, but did not interfere while the troughs were being filled: it was only the overt wrong which kindled him. But as in great things, so it is in small: our actions never stand alone; having once befriended them, he will do it thoroughly, "and moreover he drew water for us, and watered the flock." Such details could hardly have been thought out by a fabricator; a legend would not have allowed Moses to be slower in courtesy than Jacob; [fn. 5: Nor would it have made the women call their deliverer "an Egyptian," for the Hebrew cast of features is very dissimilar. But Moses wore Egyptian dress, and the Egyptians worked mines in the peninsula, so that he was naturally taken for one of them.] but the story fits the case exactly: his eyes were with his heart, and that was far away, until the injustice of the shepherds roused him.
 
 And why was Moses thus energetic, fearless, and chivalrous? Because he was sustained by the presence of the Unseen: he endured as seeing Him who is invisible; and having, despite of panic, by faith forsaken Egypt, he was free from the absorbing anxieties which prevent men from caring for their fellows, free also from the cynical misgivings which suspect that violence is more than justice, that to be righteous over-much is to destroy oneself, and that perhaps, after all, one may see a good deal of wrong without being called upon to interfere. It would be a different world to-day, if all who claim to be "the salt of the earth" were as eager to repress injustice in its smaller and meaner forms as to make money or influential friends. If all petty and cowardly oppression were sternly trodden down, we should soon have a state of public opinion in which gross and large tyranny would be almost impossible. And it is very doubtful whether the flagrant wrongs, which must be comparatively rare, cause as much real mental suffering as the frequent small ones. Does mankind suffer more from wild beasts than from insects? But how few that aspire to emancipate oppressed nations would be content, in the hour of their overthrow, to assert the rights of a handful of women against a trifling fraud, to which indeed they were so well accustomed that its omission surprised their father!
 
 Is it only because we are reading a history, and not a biography, that we find no touch of tenderness, like the love of Jacob for Rachel, in the domestic relations of Moses?
 
-Joseph also married in a strange land, yet he called the name of his first son Manasseh, because God had made him to forget his sorrows: but Moses remembered his. Neither wife nor child could charm away his home sickness; he called his firstborn Gershom, because he was a sojourner in a strange land. In truth, his whole life seems to have been a lonely one. Miriam is called "the sister of Aaron" even when joining in the song of Moses (xv. 20), and with Aaron she made common cause against their greater brother (Num. xii. 1--2). Zipporah endangered his life rather than obey the covenant of circumcision; she complied at last with a taunt (iv. 24--6), and did not again join him until his victory over Amalek raised his position to the utmost height (xviii. 2).
+Joseph also married in a strange land, yet he called the name of his first son Manasseh, because God had made him to forget his sorrows: but Moses remembered his. Neither wife nor child could charm away his home sickness; he called his firstborn Gershom, because he was a sojourner in a strange land. In truth, his whole life seems to have been a lonely one. Miriam is called "the sister of Aaron" even when joining in the song of Moses (xv. 20), and with Aaron she made common cause against their greater brother (Num. xii. 1-2). Zipporah endangered his life rather than obey the covenant of circumcision; she complied at last with a taunt (iv. 24-6), and did not again join him until his victory over Amalek raised his position to the utmost height (xviii. 2).
 
 His children are of no account, and his grandson is the founder of a dangerous and enduring schism (Judges xviii. 30, R.V.).
 
 There is much reason to see here the earliest example of the sad rule that a prophet is not without honour save in his own house; that the law of compensations reaches farther into life than men suppose; and high position and great powers are too often counterbalanced by the isolation of the heart.
 
-
 ### Chapter III — The Burning Bush
 
-ii. 23--iii.
+Ii. 23-iii.
 
 "In process of time the king of Egypt died," probably the great Raamses, no other of whose dynasty had a reign which extended over the indicated period of time. If so, he had while living every reason to expect an immortal fame, as the greatest among Egyptian kings, a hero, a conqueror on three continents, a builder of magnificent works. But he has only won an immortal notoriety. "Every stone in his buildings was cemented in human blood." The cause he persecuted has made deathless the banished refugee, and has gibbeted the great monarch as a tyrant, whose misplanned severities wrought the ruin of his successor and his army. Such are the reversals of popular judgment: and such the vanity of fame. For all the contemporary fame was his.
 
@@ -786,25 +724,17 @@ It is further to be observed that the people were quite unconscious, until Moses
 
 While this anguish was being endured in Egypt, Moses was maturing for his destiny. Self-reliance, pride of place, hot and impulsive aggressiveness, were dying in his bosom. To the education of the courtier and scholar was now added that of the shepherd in the wilds, amid the most solemn and awful scenes of nature, in solitude, humiliation, disappointment, and, as we learn from the Epistle to the Hebrews, in enduring faith. Wordsworth has a remarkable description of the effect of a similar discipline upon the good Lord Clifford. He tells--
 
-"How he, long forced in humble paths to go,
+"How he, long forced in humble paths to go, Was softened into feeling, soothed and tamed.
 
-Was softened into feeling, soothed and tamed.
+"Love had he found in huts where poor men lie,  
+His daily teachers had been woods and rills,  
+The silence that is in the starry sky,  
+The sleep that is among the lonely hills.  
 
-"Love had he found in huts where poor men lie,
-
-His daily teachers had been woods and rills,
-
-The silence that is in the starry sky,
-
-The sleep that is among the lonely hills.
-
-"In him the savage virtues of the race,
-
-Revenge, and all ferocious thoughts, were dead;
-
-Nor did he change, but kept in lofty place
-
-The wisdom which adversity had bred."
+"In him the savage virtues of the race,  
+Revenge, and all ferocious thoughts, were dead;  
+Nor did he change, but kept in lofty place  
+The wisdom which adversity had bred."  
 
 There was also the education of advancing age, which teaches many lessons, and among them two which are essential to leadership,--the folly of a hasty blow, and of impulsive reliance upon the support of mobs. Moses the man-slayer became exceeding meek; and he ceased to rely upon the perception of his people that God by him would deliver them. His distrust, indeed, became as excessive as his temerity had been, but it was an error upon the safer side. "Behold, they will not believe me," he says, "nor hearken unto my voice."
 
@@ -812,11 +742,11 @@ It is an important truth that in very few lives the decisive moment comes just w
 
 Who does not perceive that the career of Moses hitherto was divinely directed? The fact that we feel this, although, until now, God has not once been mentioned in his personal story, is surely a fine lesson for those who have only one notion of what edifies--the dragging of the most sacred names and phrases into even the most unsuitable connections. In truth, such a phraseology is much less attractive than a certain tone, a recognition of the unseen, which may at times be more consistent with reverential silence than with obtrusive utterance. It is enough to be ready and fearless when the fitting time comes, which is sure to arrive, for the religious heart as for this narrative--the time for the natural utterance of the great word, God.
 
-We read that the angel of the Lord appeared to him--a remarkable phrase, which was already used in connection with the sacrifice of Isaac (Gen. xxii. 11). How much it implies will better be discussed in the twenty-third chapter, where a fuller statement is made. For the present it is enough to note, that this is one pre-eminent angel, indicated by the definite article; that he is clearly the medium of a true divine appearance, because neither the voice nor form of any lesser being is supposed to be employed, the appearance being that of fire, and the words being said to be the direct utterance of the Lord, not of any one who says, Thus saith the Lord. We shall see hereafter that the story of the Exodus is unique in this respect, that in training a people tainted with Egyptian superstitions, no similitude' is seen, as when there wrestled a man with Jacob, or when Ezekiel saw a human form upon the sapphire pavement.
+We read that the angel of the Lord appeared to him--a remarkable phrase, which was already used in connection with the sacrifice of Isaac (Gen. xxii. 11). How much it implies will better be discussed in the twenty-third chapter, where a fuller statement is made. For the present it is enough to note, that this is one pre-eminent angel, indicated by the definite article; that he is clearly the medium of a true divine appearance, because neither the voice nor form of any lesser being is supposed to be employed, the appearance being that of fire, and the words being said to be the direct utterance of the Lord, not of any one who says, Thus saith the Lord. We shall see hereafter that the story of the Exodus is unique in this respect, that in training a people tainted with Egyptian superstitions, no 'similitude' is seen, as when there wrestled a man with Jacob, or when Ezekiel saw a human form upon the sapphire pavement.
 
 Man is the true image of God, and His perfect revelation was in flesh. But now that expression of Himself was perilous, and perhaps unsuitable besides; for He was to be known as the Avenger, and presently as the Giver of Law, with its inflexible conditions and its menaces. Therefore He appeared as fire, which is intense and terrible, even when "the flame of the grace of God does not consume, but illuminates."
 
-There is a notion that religion is languid, repressive, and unmanly. But such is not the scriptural idea. In His presence is the fulness of joy. Christ has come that we might have life, and might have it more abundantly. They who are shut out from His blessedness are said to be asleep and dead. And so Origen quotes this passage among others, with the comment that "As God is a fire, and His angels a flame of fire, and all the saints fervent in spirit, so they who have fallen away from God are said to have cooled, or to have become cold" (De Princip., ii. 8). A revelation by fire involves intensity.
+There is a notion that religion is languid, repressive, and unmanly. But such is not the scriptural idea. In His presence is the fulness of joy. Christ has come that we might have life, and might have it more abundantly. They who are shut out from His blessedness are said to be asleep and dead. And so Origen quotes this passage among others, with the comment that "As God is a fire, and His angels a flame of fire, and all the saints fervent in spirit, so they who have fallen away from God are said to have cooled, or to have become cold" (_De Princip._, ii. 8). A revelation by fire involves intensity.
 
 There is indeed another explanation of the burning bush, which makes the flame express only the afflictions that did not consume the people. But this would be a strange adjunct to a divine appearance for their deliverance, speaking rather of the continuance of suffering than of its termination, for which the extinction of such fire would be a more appropriate symbol.
 
@@ -838,16 +768,15 @@ And now for the first time God calls Israel My people, adopting a phrase already
 
 It is used of the nation at large, all of whom were brought into the covenant, although with many of them God was not well pleased. And since it does not belong only to saints, but speaks of a grace which might be received in vain, it is a strong appeal to all Christian people, all who are within the New Covenant. Them also the Lord claims and pities, and would gladly emancipate: their sorrows also He knows. "I have surely seen the affliction of My people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows; and I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey." Thus the ways of God exceed the desires of men. Their subsequent complaints are evidence that Egypt had become their country: gladly would they have shaken off the iron yoke, but a successful rebellion is a revolution, not an Exodus. Their destined home was very different: with the widest variety of climate, scenery, and soil, a land which demanded much more regular husbandry, but rewarded labour with exuberant fertility. Secluded from heathenism by deserts on the south and east, by a sublime range of mountains on the north, and by a sea with few havens on the west, yet planted in the very bosom of all the ancient civilisation which at the last it was to leaven, it was a land where a faithful people could have dwelt alone and not been reckoned among the nations, yet where the scourge for disobedience was never far away.
 
-Next after the promise of this good land, the commission of Moses is announced. He is to act, because God is already active: "I am come down to deliver them ... come now, therefore, and I will send thee unto Pharaoh, that thou mayest bring forth My people." And let this truth encourage all who are truly sent of God, to the end of time, that He does not send us to deliver man, until He is Himself prepared to do so, that when our fears ask, like Moses, Who am I, that I should go? He does not answer, Thou art capable, but Certainly I will go with thee. So, wherever the ministry of the word is sent, there is a true purpose of grace. There is also the presence of One who claims the right to bestow upon us the same encouragement which was given to Moses by Jehovah, saying, "Lo, I am with you alway." In so saying, Jesus made Himself equal with God.
+Next after the promise of this good land, the commission of Moses is announced. He is to act, because God is already active: "_I_ am come down to deliver them ... come now, therefore, and I will send _thee_ unto Pharaoh, that thou mayest bring forth My people." And let this truth encourage all who are truly sent of God, to the end of time, that He does not send us to deliver man, until He is Himself prepared to do so, that when our fears ask, like Moses, Who am I, that I should go? He does not answer, Thou art capable, but Certainly I will go with thee. So, wherever the ministry of the word is sent, there is a true purpose of grace. There is also the presence of One who claims the right to bestow upon us the same encouragement which was given to Moses by Jehovah, saying, "Lo, I am with you alway." In so saying, Jesus made Himself equal with God.
 
 And as this ancient revelation of God was to give rest to a weary and heavy-laden people, so Christ bound together the assertion of a more perfect revelation, made in Him, with the promise of a grander emancipation. No man knoweth the Father save by revelation of the Son is the doctrine which introduces the great offer "Come unto Me, all ye that labour and are heavy-laden, and I will give you rest" (Matt. xi. 27, 28). The claims of Christ in the New Testament will never be fully recognised until a careful study is made of His treatment of the functions which in the Old Testament are regarded as Divine. A curious expression follows: "This shall be a token unto thee that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain." It seems but vague encouragement, to offer Moses, hesitating at the moment, a token which could take effect only when his task was wrought. And yet we know how much easier it is to believe what is thrown into distinct shape and particularised. Our trust in good intentions is helped when their expression is detailed and circumstantial, as a candidate for office will reckon all general assurances of support much cheaper than a pledge to canvass certain electors within a certain time. Such is the constitution of human nature; and its Maker has often deigned to sustain its weakness by going thus into particulars. He does the same for us, condescending to embody the most profound of all mysteries in sacramental emblems, clothing his promises of our future blessedness in much detail, and in concrete figures which at least symbolise, if they do not literally describe, the glories of the Jerusalem which is above.
 
+_A NEW NAME._
 
-#### A New Name
+Iii. 14. Vi. 2, 3.
 
-iii. 14. vi. 2, 3.
-
-"God said unto Moses, I am that I am: and He said, Thus shalt thou say unto the children of Israel, I am hath sent me unto you."
+"God said unto Moses, I AM THAT I AM: and He said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you."
 
 We cannot certainly tell why Moses asked for a new name by which to announce to his brethren the appearance of God. He may have felt that the memory of their fathers, and of the dealings of God with them, had faded so far out of mind that merely to indicate their ancestral God would not sufficiently distinguish Him from the idols of Egypt, whose worship had infected them.
 
@@ -873,29 +802,29 @@ A more abject superstition could scarcely have made void the spirit, while grove
 
 But this very superstition is alive in other forms to-day. Whenever one recoils from the sin of coarse blasphemy, yet allows himself the enjoyment of a polished literature which profanes holy conceptions,--whenever men feel bound to behave with external propriety in the house of God, yet bring thither wandering thoughts, vile appetites, sensuous imaginations, and all the chamber of imagery which is within the unregenerate heart,--there is the same despicable superstition which strove to escape at least the extreme of blasphemy by prudently veiling the Holy Name before profaning it.
 
-But our present concern is with the practical message conveyed to Israel when Moses declared that Jehovah, I am, the God of their fathers, had appeared unto him. And if we find in it a message suited for the time, and which is the basis, not the superstructure, both of later messages and also of the national character, then we shall not fail to observe the bearing of such facts upon an urgent controversy of this time.
+But our present concern is with the practical message conveyed to Israel when Moses declared that Jehovah, I AM, the God of their fathers, had appeared unto him. And if we find in it a message suited for the time, and which is the basis, not the superstructure, both of later messages and also of the national character, then we shall not fail to observe the bearing of such facts upon an urgent controversy of this time.
 
 Some significance must have been in that Name, not too abstract for a servile and degenerate race to apprehend. Nor was it soon to pass away and be replaced; it was His memorial throughout all generations; and therefore it has a message for us to-day, to admonish and humble, to invigorate and uphold.
 
 That God would be the same to them as to their fathers was much. But that it was of the essence of His character to be evermore the same, immutable in heart and mind and reality of being, however their conduct might modify His bearing towards them, this indeed would be a steadying and reclaiming consciousness.
 
-Accordingly Moses receives the answer for himself, "I am that I am"; and he is bidden to tell his people "I am hath sent me unto you," and yet again "Jehovah the God of your fathers hath sent me unto you." The spirit and tenor of these three names may be said to be virtually comprehended in the first; and they all speak of the essential and self-existent Being, unchanging and unchangeable.
+Accordingly Moses receives the answer for himself, "I AM THAT I AM"; and he is bidden to tell his people "_I am_ hath sent me unto you," and yet again "JEHOVAH the God of your fathers hath sent me unto you." The spirit and tenor of these three names may be said to be virtually comprehended in the first; and they all speak of the essential and self-existent Being, unchanging and unchangeable.
 
-I am expresses an intense reality of being. No image in the dark recesses of Egyptian or Syrian temples, grotesque and motionless, can win the adoration of him who has had communion with such a veritable existence, or has heard His authentic message. No dreamful pantheism, on its knees to the beneficent principle expressed in one deity, to the destructive in another, or to the reproductive in a third, but all of them dependent upon nature, as the rainbow upon the cataract which it spans, can ever again satisfy the soul which is athirst for the living God, the Lord, Who is not personified, but is.
+I AM expresses an intense reality of being. No image in the dark recesses of Egyptian or Syrian temples, grotesque and motionless, can win the adoration of him who has had communion with such a veritable existence, or has heard His authentic message. No dreamful pantheism, on its knees to the beneficent principle expressed in one deity, to the destructive in another, or to the reproductive in a third, but all of them dependent upon nature, as the rainbow upon the cataract which it spans, can ever again satisfy the soul which is athirst for the living God, the Lord, Who is not personified, but IS.
 
 This profound sense of a living Person within reach, to be offended, to pardon, and to bless, was the one force which kept the Hebrew nation itself alive, with a vitality unprecedented since the world began. They could crave His pardon, whatever natural retributions they had brought down upon themselves, whatever tendencies of nature they had provoked, because He was not a dead law without ears or a heart, but their merciful and gracious God.
 
-Not the most exquisite subtleties of innuendo and irony could make good for a day the monstrous paradox that the Hebrew religion, the worship of I am, was really nothing but the adoration of that stream of tendencies which makes for righteousness.
+Not the most exquisite subtleties of innuendo and irony could make good for a day the monstrous paradox that the Hebrew religion, the worship of I AM, was really nothing but the adoration of that stream of tendencies which makes for righteousness.
 
 Israel did not challenge Pharaoh through having suddenly discovered that goodness ultimately prevails over evil, nor is it any cold calculation of the sort which ever inspires a nation or a man with heroic fortitude. But they were nerved by the announcement that they had been remembered by a God Who is neither an ideal nor a fancy, but the Reality of realities, beside Whom Pharaoh and his host were but as phantoms.
 
-I am that I am is the style not only of permanence, but of permanence self-contained, and being a distinctive title, it denies such self-contained permanence to others.
+I AM THAT I AM is the style not only of permanence, but of permanence self-contained, and being a distinctive title, it denies such self-contained permanence to others.
 
-Man is as the past has moulded him, a compound of attainments and failures, discoveries and disillusions, his eyes dim with forgotten tears, his hair grey with surmounted anxieties, his brow furrowed with bygone studies, his conscience troubled with old sin. Modern unbelief is ignobly frank respecting him. He is the sum of his parents and his wet-nurse. He is what he eats. If he drinks beer, he thinks beer. And it is the element of truth in these hideous paradoxes which makes them rankle, like an unkind construction put upon a questionable action. As the foam is what wind and tide have made of it, so are we the product of our circumstances, the resultant of a thousand forces, far indeed from being self-poised or self-contained, too often false to our best self, insomuch that probably no man is actually what in the depth of self-consciousness he feels himself to be, what moreover he should prove to be, if only the leaden weight of constraining circumstance were lifted off the spring which it flattens down to earth. Moses himself was at heart a very different person from the keeper of the sheep of Jethro. Therefore man says, Pity and make allowance for me: this is not my true self, but only what by compression, by starvation and stripes and bribery and error, I have become. Only God says, I am that I am.
+Man is as the past has moulded him, a compound of attainments and failures, discoveries and disillusions, his eyes dim with forgotten tears, his hair grey with surmounted anxieties, his brow furrowed with bygone studies, his conscience troubled with old sin. Modern unbelief is ignobly frank respecting him. He is the sum of his parents and his wet-nurse. He is what he eats. If he drinks beer, he thinks beer. And it is the element of truth in these hideous paradoxes which makes them rankle, like an unkind construction put upon a questionable action. As the foam is what wind and tide have made of it, so are we the product of our circumstances, the resultant of a thousand forces, far indeed from being self-poised or self-contained, too often false to our best self, insomuch that probably no man is actually what in the depth of self-consciousness he feels himself to be, what moreover he should prove to be, if only the leaden weight of constraining circumstance were lifted off the spring which it flattens down to earth. Moses himself was at heart a very different person from the keeper of the sheep of Jethro. Therefore man says, Pity and make allowance for me: this is not my true self, but only what by compression, by starvation and stripes and bribery and error, I have become. Only God says, I AM THAT I AM.
 
 Yet in another sense, and quite as deep a one, man is not the coarse tissue which past circumstances have woven: he is the seed of the future, as truly as the fruit of the past. Strange compound that he is of memory and hope, while half of the present depends on what is over, the other half is projected into the future; and like a bridge, sustained on these two banks, life throws its quivering shadow on each moment that fleets by. It is not attainment, but degradation to live upon the level of one's mere attainment, no longer uplifted by any aspiration, fired by any emulation, goaded by any but carnal fears. If we have been shaped by circumstances, yet we are saved by hope. Do not judge me, we are all entitled to plead, by anything that I am doing or have done: He only can appraise a soul a right Who knows what it yearns to become, what within itself it hates and prays to be delivered from, what is the earnestness of its self-loathing, what the passion of its appeal to heaven. As the bloom of next April is the true comment upon the dry bulb of September, as you do not value the fountain by the pint of water in its basin, but by its inexhaustible capabilities of replenishment, so the present and its joyless facts are not the true man; his possibilities, the fears and hopes that control his destiny and shall unfold it, these are his real self.
 
-I am not merely what I am: I am very truly that which I long to be. And thus, man may plead, I am what I move towards and strive after, my aspiration is myself. But God says, I am what I am. The stream hurries forward: the rock abides. And this is the Rock of Ages.
+I am not merely what I am: I am very truly that which I long to be. And thus, man may plead, I am what I move towards and strive after, my aspiration is myself. But God says, I AM WHAT I AM. The stream hurries forward: the rock abides. And this is the Rock of Ages.
 
 Now, such a conception is at first sight not far removed from that apathetic and impassive kind of deity which the practical atheism of ancient materialists could well afford to grant;--"ever in itself enjoying immortality together with supreme repose, far removed and withdrawn from our concerns, since it, exempt from every pain, exempt from all danger, strong in its own resources and wanting nought from us, is neither gained by favour nor moved by wrath."
 
@@ -905,17 +834,17 @@ But Moses was taught to trust in Jehovah as intervening, pitying sorrow and wron
 
 How could this be possible? Clearly the movement towards them must be wholly disinterested, and wholly from within; unbought, since no external influence can modify His condition, no puny sacrifice can propitiate Him Who sitteth upon the circle of the earth and the inhabitants thereof are as grasshoppers: a movement prompted by no irregular emotional impulse, but an abiding law of His nature, incapable of change, the movement of a nature, personal indeed, yet as steady, as surely to be reckoned upon in like circumstances, as the operations of gravitation are.
 
-There is no such motive, working in such magnificent regularity for good, save one. The ultimate doctrine of the New Testament, that God is Love, is already involved in this early assertion, that being wholly independent of us and our concerns, He is yet not indifferent to them, so that Moses could say unto the children of Israel "I am hath sent me unto you."
+There is no such motive, working in such magnificent regularity for good, save one. The ultimate doctrine of the New Testament, that God is Love, is already involved in this early assertion, that being wholly independent of us and our concerns, He is yet not indifferent to them, so that Moses could say unto the children of Israel "I AM hath sent me unto you."
 
 It is this unchangeable consistency of Divine action which gives the narrative its intense interest to us. To Moses, and therefore to all who receive any commission from the skies, this title said, Frail creature, sport of circumstances and of tyrants, He who commissions thee sits above the waterfloods, and their rage can as little modify or change His purpose, now committed to thy charge, as the spray can quench the stars. Perplexed creature, whose best self lives only in aspiration and desire, now thou art an instrument in the hand of Him with Whom desire and attainment, will and fruition, are eternally the same. None truly fails in fighting for Jehovah, for who hath resisted His will?
 
-To Israel, and to all the oppressed whose minds are open to receive the tidings and their faith strong to embrace it, He said, Your life is blighted, and your future is in the hand of taskmasters, yet be of good cheer, for now your deliverance is undertaken by Him Whose being and purpose are one, Who is in perfection of enjoyment all that He is in contemplation and in will. The rescue of Israel by an immutable and perfect God is the earnest of the breaking of every yoke.
+To Israel, and to all the oppressed whose minds are open to receive the tidings and their faith strong to embrace it, He said, Your life is blighted, and your future is in the hand of taskmasters, yet be of good cheer, for now your deliverance is undertaken by Him Whose being and purpose are one, Who _is_ in perfection of enjoyment all that He _is_ in contemplation and in will. The rescue of Israel by an immutable and perfect God is the earnest of the breaking of every yoke.
 
-And to the proud and godless world which knows Him not, He says, Resistance to My will can only show forth all its power, which is not at the mercy of opinion or interest or change: I sit upon the throne, not only supreme but independent, not only victorious but unassailable; self-contained, self-poised and self-sufficing, I am that I am.
+And to the proud and godless world which knows Him not, He says, Resistance to My will can only show forth all its power, which is not at the mercy of opinion or interest or change: I sit upon the throne, not only supreme but independent, not only victorious but unassailable; self-contained, self-poised and self-sufficing, I AM THAT I AM.
 
 Have we now escaped the inert and self-absorbed deity of Lucretius, only to fall into the palsying grasp of the tyrannous deity of Calvin? Does our own human will shrivel up and become powerless under the compulsion of that immutability with which we are strangely brought into contact?
 
-Evidently this is not the teaching of the Book of Exodus. For it is here, in this revelation of the Supreme, that we first hear of a nation as being His: "I have seen the affliction of My people which is in Egypt ... and I have come down to bring them into a good land." They were all baptized into Moses in the cloud and in the sea. Yet their carcases fell in the wilderness. And these things were written for our learning. The immutability, which suffers no shock when we enter into the covenant, remains unshaken also if we depart from the living God. The sun shines alike when we raise the curtain and when we drop it, when our chamber is illumined and when it is dark. The immutability of God is not in His operations, for sometimes He gave His people into the hand of their enemies, and again He turned and helped them. It is in His nature, His mind, in the principles which guide His actions. If He had not chastened David for his sin, then, by acting as before, He would have been other at heart than when He rejected Saul for disobedience and chose the son of Jesse to fulfil all His word. The wind has veered, if it continues to propel the vessel in the same direction, although helm and sails are shifted.
+Evidently this is not the teaching of the Book of Exodus. For it is here, in this revelation of the Supreme, that we first hear of a nation as being His: "I have seen the affliction of My people which is in Egypt ... and I have come down to bring them into a good land." They were all baptized into Moses in the cloud and in the sea. Yet their carcases fell in the wilderness. And these things were written for our learning. The immutability, which suffers no shock when we enter _into_ the covenant, remains unshaken also if we depart from the living God. The sun shines alike when we raise the curtain and when we drop it, when our chamber is illumined and when it is dark. The immutability of God is not in His operations, for sometimes He gave His people into the hand of their enemies, and again He turned and helped them. It is in His nature, His mind, in the principles which guide His actions. If He had not chastened David for his sin, then, by acting as before, He would have been other at heart than when He rejected Saul for disobedience and chose the son of Jesse to fulfil all His word. The wind has veered, if it continues to propel the vessel in the same direction, although helm and sails are shifted.
 
 Such is the Pauline doctrine of His immutability. "If we endure we shall also reign with Him: if we shall deny Him, He also will deny us,"--and such is the necessity of His being, for we cannot sway Him with our changes: "if we are faithless, He abideth faithful, for He cannot deny Himself." And therefore it is presently added that "the firm foundation of the Lord standeth sure, having" not only "this seal, that the Lord knoweth those that are His,"--but also this, "Let every one that nameth the name of the Lord depart from unrighteousness" (2 Tim. ii. 12, 13, 19, R.V.).
 
@@ -927,14 +856,13 @@ They had the support of a God worthy of trust. And thenceforth every answer in r
 
 In future troubles they could appeal to Him to awake as in the ancient days, as being He who "cut Rahab and wounded the Dragon." "I am the Lord, I change not, therefore ye sons of Jacob are not consumed."
 
-And as the sublime and beautiful conception of a loving spiritual God was built up slowly, age by age, tier upon tier, this was the foundation which insured the the stability of all, until the Head Stone of the Corner gave completeness to the vast design, until men saw and could believe in the very Incarnation of all Love, unshaken amid anguish and distress and seeming failure, immovable, victorious, while they heard from human lips the awful words, "Before Abraham was, I am." Then they learned to identify all this ancient lesson of trustworthiness with new and more pathetic revelations of affection: and the martyr at the stake grew strong as he remembered that the Man of Sorrows was the same yesterday and to-day and for ever; and the great apostle, prostrate before the glory of his Master, was restored by the touch of a human hand, and by the voice of Him upon Whose bosom he had leaned, saying, Fear not, I am the First and the Last and the Living One.
+And as the sublime and beautiful conception of a loving spiritual God was built up slowly, age by age, tier upon tier, this was the foundation which insured the the stability of all, until the Head Stone of the Corner gave completeness to the vast design, until men saw and could believe in the very Incarnation of all Love, unshaken amid anguish and distress and seeming failure, immovable, victorious, while they heard from human lips the awful words, "Before Abraham was, I AM." Then they learned to identify all this ancient lesson of trustworthiness with new and more pathetic revelations of affection: and the martyr at the stake grew strong as he remembered that the Man of Sorrows was the same yesterday and to-day and for ever; and the great apostle, prostrate before the glory of his Master, was restored by the touch of a human hand, and by the voice of Him upon Whose bosom he had leaned, saying, Fear not, I am the First and the Last and the Living One.
 
 And if men are once more fain to rend from humanity that great assurance, which for ages, amid all shocks, has made the frail creature of the dust to grow strong and firm and fearless, partaker of the Divine Nature, what will they give us in its stead? Or do they think us too strong of will, too firm of purpose? Looking around us, we see nations heaving with internal agitations, armed to the teeth against each other, and all things like a ship at sea reeling to and fro, and staggering like a drunken man. There is no stability for us in constitutions or old formulæ--none anywhere, if it be not in the soul of man. Well for us, then, that the anchor of the soul is sure and steadfast! well that unnumbered millions take courage from their Saviour's word, that the world's worst anguish is the beginning, not of dissolution, but of the birth-pangs of a new heaven and earth,--that when the clouds are blackest because the light of sun and moon is quenched, then, then we shall behold the Immutable unveiled, the Son of Man, who is brought nigh unto the Ancient of Days, now sitting in the clouds of heaven, and coming in the glory of His Father!
 
+_THE COMMISSION._
 
-#### The Commission
-
-iii. 10, 16--22.
+Iii. 10, 16-22.
 
 We have already learned from the seventh verse that God commissioned Moses, only when He had Himself descended to deliver Israel. He sends none, except with the implied or explicit promise that certainly He will be with them. But the converse is also true. If God sends no man but when He comes Himself, He never comes without demanding the agency of man. The overruled reluctance of Moses, and the inflexible urgency of his commission, may teach us the honour set by God upon humanity. He has knit men together in the mutual dependence of nations and of families, that each may be His minister to all; and in every great crisis of history He has respected His own principle, and has visited the race by means of the providential man. The gospel was not preached by angels. Its first agents found themselves like sheep among wolves: they were an exhibition to the world and to angels and men, yet necessity was laid upon them, and a woe if they preached it not.
 
@@ -944,26 +872,23 @@ Moses, with the new name of God to reveal, and with the assurance that He is abo
 
 Strangely enough, it is often assumed that this demand for a furlough of three days was insincere. But it would only have been so, if consent were expected, and if the intention were thereupon to abuse the respite and refuse to return. There is not the slightest hint of any duplicity of the kind. The real motives for the demand are very plain. The excursion which they proposed would have taught the people to move and act together, reviving their national spirit, and filling them with a desire for the liberty which they tasted. In the very words which they should speak, "The Lord, the God of the Hebrews, hath met with us," there is a distinct proclamation of nationality, and of its surest and strongest bulwark, a national religion. From such an excursion, therefore, the people would have returned, already well-nigh emancipated, and with recognised leaders. Certainly Pharaoh could not listen to any such proposal, unless he were prepared to reverse the whole policy of his dynasty toward Israel.
 
-But the refusal answered two good ends. In the first place it joined issue on the best conceivable ground, for Israel was exhibited making the least possible demand with the greatest possible courtesy-- "Let us go, we pray thee, three days' journey into the wilderness." Not even so much would be granted. The tyrant was palpably in the wrong, and thenceforth it was perfectly reasonable to increase the severity of the terms after each of his defeats, which proceeding in its turn made concession more and more galling to his pride. In the second place, the quarrel was from the first avowedly and undeniably religious: the gods of Egypt were matched against Jehovah; and in the successive plagues which desolated his land Pharaoh gradually learnt Who Jehovah was.
+But the refusal answered two good ends. In the first place it joined issue on the best conceivable ground, for Israel was exhibited making the least possible demand with the greatest possible courtesy--"Let us go, we pray thee, three days' journey into the wilderness." Not even so much would be granted. The tyrant was palpably in the wrong, and thenceforth it was perfectly reasonable to increase the severity of the terms after each of his defeats, which proceeding in its turn made concession more and more galling to his pride. In the second place, the quarrel was from the first avowedly and undeniably religious: the gods of Egypt were matched against Jehovah; and in the successive plagues which desolated his land Pharaoh gradually learnt Who Jehovah was.
 
 In the message which Moses should convey to the elders there are two significant phrases. He was to announce in the name of God, "I have surely visited you, and seen that which is done unto you in Egypt." The silent observation of God before He interposes is very solemn and instructive. So in the Revelation, He walks among the golden candlesticks, and knows the work, the patience, or the unfaithfulness of each. So He is not far from any one of us. When a heavy blow falls we speak of it as "a Visitation of Providence," but in reality the visitation has been long before. Neither Israel nor Egypt was conscious of the solemn presence. Who knows what soul of man, or what nation, is thus visited to-day, for future deliverance or rebuke?
 
 Again it is said, "I will bring you up out of the affliction of Egypt into ... a land flowing with milk and honey." Their affliction was the divine method of uprooting them. And so is our affliction the method by which our hearts are released from love of earth and life, that in due time He may "surely bring us in" to a better and an enduring country. Now, we wonder that the Israelites clung so fondly to the place of their captivity. But what of our own hearts? Have they a desire to depart? or do they groan in bondage, and yet recoil from their emancipation?
 
-The hesitating nation is not plainly told that their affliction will be intensified and their lives made burdensome with labour. That is perhaps implied in the certainty that Pharaoh "will not let you go, no, not by a mighty hand." But it is with Israel as with us: a general knowledge that in the world we shall have tribulation is enough; the catalogue of our trials is not spread out before us in advance. They were assured for their encouragement that all their long captivity should at last receive its wages, for they should not borrow \[6\] but ask of the Egyptians jewels of silver, and gold, and raiment, and they should spoil the Egyptians. So are we taught to have "respect unto the recompense of the reward."
-
+The hesitating nation is not plainly told that their affliction will be intensified and their lives made burdensome with labour. That is perhaps implied in the certainty that Pharaoh "will not let you go, no, not by a mighty hand." But it is with Israel as with us: a general knowledge that in the world we shall have tribulation is enough; the catalogue of our trials is not spread out before us in advance. They were assured for their encouragement that all their long captivity should at last receive its wages, for they should not borrow [fn. 6: So much ignorant capital has been made by sceptics out of this unfortunate mistranslation, that it is worth while to inquire whether the word "borrow" would suit the context in other passages. "He _borrowed_ water and she gave him milk" (Judges v. 25). "The Lord said unto Solomon, Because thou hast _borrowed_ this thing, and hast not _borrowed_ long life for thyself, neither hast _borrowed_ riches for thyself, nor hast _borrowed_ the life of thine enemies" (1 Kings iii. 11). "And Elijah said unto Elisha, Thou hast _borrowed_ a hard thing" (2 Kings ii. 10). The absurdity of the cavil is self-evident.] but ask of the Egyptians jewels of silver, and gold, and raiment, and they should spoil the Egyptians. So are we taught to have "respect unto the recompense of the reward."
 
 ### Chapter IV — Moses Hesitates
 
-iv. 1--17.
+Iv. 1-17.
 
 Holy Scripture is impartial, even towards its heroes. The sin of David is recorded, and the failure of Peter. And so is the reluctance of Moses to accept his commission, even after a miracle had been vouchsafed to him for encouragement. The absolute sinlessness of Jesus is the more significant because it is found in the records of a creed which knows of no idealised humanity.
 
 In Josephus, the refusal of Moses is softened down. Even the modest words, "Lord, I am still in doubt how I, a private man and of no abilities, should persuade my countrymen or Pharaoh," are not spoken after the sign is given. Nor is there any mention of the transfer to Aaron of a part of his commission, nor of their joint offence at Meribah, nor of its penalty, which in Scripture is bewailed so often. And Josephus is equally tender about the misdeeds of the nation. We hear nothing of their murmurs against Moses and Aaron when their burdens are increased, or of their making the golden calf. Whereas it is remarkable and natural that the fear of Moses is less anxious about his reception by the tyrant than by his own people: "Behold, they will not believe me, nor hearken unto my voice; for they will say, The Lord hath not appeared unto thee." This is very unlike the invention of a later period, glorifying the beginnings of the nation; but it is absolutely true to life. Great men do not fear the wrath of enemies if they can be secured against the indifference and contempt of friends; and Moses in particular was at last persuaded to undertake his mission by the promise of the support of Aaron. His hesitation is therefore the earliest example of what has been so often since observed--the discouragement of heroes, reformers and messengers from God, less by fear of the attacks of the world than of the contemptuous scepticism of the people of God. We often sigh for the appearing, in our degenerate days, of
 
-"A man with heart, head, hand,
-
-Like some of the simple great ones gone."
+"A man with heart, head, hand, Like some of the simple great ones gone."
 
 Yet who shall say that the want of them is not our own fault? The critical apathy and incredulity, not of the world but of the Church, is what freezes the fountains of Christian daring and the warmth of Christian zeal.
 
@@ -973,7 +898,7 @@ Strange tales were told among the later Jews about his wonder-working rod. It wa
 
 Both miracles were of a menacing kind. First the rod became a serpent, to declare that at God's bidding enemies would rise up against the oppressor, even where all seemed innocuous, as in truth the waters of the river and the dust of the furnace and the winds of heaven conspired against him. Then, in the grasp of Moses, the serpent from which he fled became a rod again, to intimate that these avenging forces were subject to the servant of Jehovah.
 
-Again, his hand became leprous in his bosom, and was presently restored to health again--a declaration that he carried with him the power of death, in its most dreadful form; and perhaps a still more solemn admonition to those who remember what leprosy betokens, and how every approach of God to man brings first the knowledge of sin, to be followed by the assurance that He has cleansed it. \[7\]
+Again, his hand became leprous in his bosom, and was presently restored to health again--a declaration that he carried with him the power of death, in its most dreadful form; and perhaps a still more solemn admonition to those who remember what leprosy betokens, and how every approach of God to man brings first the knowledge of sin, to be followed by the assurance that He has cleansed it. [fn. 7: Tertullian appealed to the second of these miracles to illustrate the possibility of the resurrection. "The hand of Moses is changed and becomes like that of the dead, bloodless, colourless, and stiff with cold. But on the recovery of heat and restoration of its natural colour, it is the same flesh and blood.... So will changes, conversions and reformation be needed to bring about the resurrection, yet the substance will be preserved safe." (_De Res._, lv.) It is far wiser to be content with the declaration of St. Paul that the identity of the body does not depend on that of its corporeal atoms. "Thou sowest not that body that shall be, but a naked grain.... But God giveth ... to every seed his own body" (1 Cor. xv. 37-8).]
 
 If the people would not hearken to the voice of the first sign, they should believe the second; but at the worst, and if they were still unconvinced, they would believe when they saw the water of the Nile, the pride and glory of their oppressors, turned into blood before their eyes. That was an omen which needs no interpretation. What follows is curious. Moses objects that he has not hitherto been eloquent, nor does he experience any improvement "since Thou hast spoken unto Thy servant" (a graphic touch!), and he seems to suppose that the popular choice between liberty and slavery would depend less upon the evidence of a Divine power than upon sleight of tongue, as if he were in modern England.
 
@@ -981,15 +906,15 @@ But let it be observed that the self-consciousness which wears the mask of humil
 
 How can Moses call himself slow of speech and of a slow tongue, when Stephen distinctly declares that he was mighty in word as well as deed? (Acts vii. 22). Perhaps it is enough to answer that many years of solitude in a strange land had robbed him of his fluency. Perhaps Stephen had in mind the words of the Book of Wisdom, that "Wisdom entered into the soul of the servant of the Lord, and withstood dreadful kings in wonders and signs.... For Wisdom opened the mouth of the dumb, and made the tongues of them that cannot speak eloquent" (Wisdom x. 16, 21).
 
-To his scruple the answer was returned, "Who hath made man's mouth?... Have not I the Lord? Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say." The same encouragement belongs to every one who truly executes a mandate from above: "Lo, I am with you alway." For surely this encouragement is the same. Surely Jesus did not mean to offer His own presence as a substitute for that of God, but as being in very truth Divine, when He bade His disciples, in reliance upon Him, to go forth and convert the world.
+To his scruple the answer was returned, "Who hath made man's mouth?... Have not I the Lord? Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say." The same encouragement belongs to every one who truly executes a mandate from above: "Lo, I am with you alway." For surely this encouragement _is_ the same. Surely Jesus did not mean to offer His own presence as a substitute for that of God, but as being in very truth Divine, when He bade His disciples, in reliance upon Him, to go forth and convert the world.
 
-And this is the true test which divides faith from presumption, and unbelief from prudence: do we go because God is with us in Christ, or because we ourselves are strong and wise? Do we hold back because we are not sure of His commission, or only because we distrust ourselves? "Humility without faith is too timorous; faith without humility is too hasty." The phrase explains the conduct of Moses both now and forty years before.
+And this is the true test which divides faith from presumption, and unbelief from prudence: do we go because God is with us in Christ, or because we ourselves are strong and wise? Do we hold back because we are not sure of _His_ commission, or only because we distrust ourselves? "Humility without faith is too timorous; faith without humility is too hasty." The phrase explains the conduct of Moses both now and forty years before.
 
 Moses, however, still entreats that any one may be chosen rather than himself: "Send, I pray Thee, by the hand of him whom Thou wilt send."
 
 And thereupon the anger of the Lord was kindled against him, although at the moment his only visible punishment was the partial granting of his prayer--the association with him in his commission of Aaron, who could speak well, the forfeiting of a certain part of his vocation, and with it of a certain part of its reward. The words, "Is not Aaron thy brother the Levite?" have been used to insinuate that the tribal arrangement was not perfected when they were written, and so to discredit the narrative. But when so interpreted they yield no adequate sense, they do not reinforce the argument; while they are perfectly intelligible as implying that Aaron is already the leader of his tribe, and therefore sure to obtain the hearing of which Moses despaired. But the arrangement involved grave consequences sure to be developed in due time: among others, the reliance of Israel upon a feebler will, which could be forced by their clamour to make them a calf of gold. Moses was yet to learn that lesson which our century knows nothing of,--that a speaker and a leader of nations are not the same. When he cried to Aaron, in the bitterness of his soul, "What did this people to thee, that thou hast brought so great a sin upon them?" did he remember by whose unfaithfulness Aaron had been thrust into the office, the responsibilities of which he had betrayed?
 
-Now, it is the duty of every man, to whom a special vocation presents itself, to set opposite each other two considerations. Dare I undertake this task? is a solemn question, but so is this: Dare I let this task go past me? Am I prepared for the responsibility of allowing it to drift into weaker hands? These are days when the Church of Christ is calling for the help of every one capable of aiding her, and we ought to hear it said more often that one is afraid not to teach in Sunday School, and another dares not refuse a proffered district, and a third fears to leave charitable tasks undone. To him that knoweth to do good, and doeth it not, to him it is sin; and we hear too much about the terrible responsibility of working for God, but too little about the still graver responsibility of refusing to work for Him when called.
+Now, it is the duty of every man, to whom a special vocation presents itself, to set opposite each other two considerations. Dare I undertake this task? is a solemn question, but so is this: Dare I let this task go past me? Am I prepared for the responsibility of allowing it to drift into weaker hands? These are days when the Church of Christ is calling for the help of every one capable of aiding her, and we ought to hear it said more often that one is afraid _not_ to teach in Sunday School, and another dares not refuse a proffered district, and a third fears to leave charitable tasks undone. To him that knoweth to do good, and doeth it not, to him it is sin; and we hear too much about the terrible responsibility of working for God, but too little about the still graver responsibility of refusing to work for Him when called.
 
 Moses indeed attained so much that we are scarcely conscious that he might have been greater still. He had once presumed to go unsent, and brought upon himself the exile of half a lifetime. Again he presumed almost to say, I go not, and well-nigh to incur the guilt of Jonah when sent to Nineveh, and in so doing he forfeited the fulness of his vocation. But who reaches the level of his possibilities? Who is not haunted by faces, "each one a murdered self," a nobler self, that might have been, and is now impossible for ever? Only Jesus could say "I have finished the work which Thou gavest Me to do." And it is notable that while Jesus deals, in the parable of the labourers, with the problem of equal faithfulness during longer and shorter periods of employment; and in the parable of the pounds with that of equal endowment variously improved; and yet again, in the parable of the talents, with the problem of various endowments all doubled alike, He always draws a veil over the treatment of five talents which earn but two or three besides.
 
@@ -1007,10 +932,9 @@ Let no man dream of attaining real greatness by stifling his affections. The hea
 
 The Bible is full of domestic life. It is the theme of the greater part of Genesis, which makes the family the seed-plot of the Church. It is wisely recognised again at the moment when the larger pulse of the nation begins to beat. For the life-blood in the heart of a nation must be the blood in the hearts of men.
 
+_MOSES OBEYS._
 
-#### Moses Obeys
-
-iv. 18--31.
+Iv. 18-31.
 
 Moses is now commissioned: he is to go to Egypt, and Aaron is coming thence to meet him. Yet he first returns to Midian, to Jethro, who is both his employer and the head of the family, and prays him to sanction his visit to his own people.
 
@@ -1040,11 +964,11 @@ Their union seems to have been an ill-assorted or at least an unprosperous one. 
 
 Domestic unhappiness is a palliation, but not a justification, for an unserviceable life. It is a great advantage to come into action with the dew and freshness of affection upon the soul. Yet it is not once nor twice that men have carried the message of God back from the barren desert and the lonely ways of their unhappiness to the not too happy race of man.
 
-Now, who can fail to discern real history in all this? Is it in such a way that myth or legend would have dealt with the wife of the great deliverer? Still less conceivable is it that these should have treated Moses himself as the narrative hitherto has consistently done. At every step he is made to stumble. His first attempt was homicidal, and brought upon him forty years of exile. When the Divine commission came he drew back wilfully, as he had formerly pressed forward unsent. There is not even any suggestion offered us of Stephen's apology for his violent deed--namely, that he supposed his brethren understood how that God by his hand was giving them deliverance (Acts vii. 25). There is nothing that resembles the eulogium of the Epistle to the Hebrews upon the faith which glorified his precipitancy, like the rainbow in a torrent, because that rash blow committed him to share the affliction of the people of God, and renounced the rank of a grand son of the Pharaoh (Heb. xi. 24--5). All this is very natural, if Moses himself be in any degree responsible for the narrative. It is incredible, if the narrative were put together after the Captivity, to claim the sanction of so great a name for a newly forged hierarchical system. Such a theory could scarcely be refuted more completely, if the narrative before us were invented with the deliberate aim to overthrow it.
+Now, who can fail to discern real history in all this? Is it in such a way that myth or legend would have dealt with the wife of the great deliverer? Still less conceivable is it that these should have treated Moses himself as the narrative hitherto has consistently done. At every step he is made to stumble. His first attempt was homicidal, and brought upon him forty years of exile. When the Divine commission came he drew back wilfully, as he had formerly pressed forward unsent. There is not even any suggestion offered us of Stephen's apology for his violent deed--namely, that he supposed his brethren understood how that God by his hand was giving them deliverance (Acts vii. 25). There is nothing that resembles the eulogium of the Epistle to the Hebrews upon the faith which glorified his precipitancy, like the rainbow in a torrent, because that rash blow committed him to share the affliction of the people of God, and renounced the rank of a grand son of the Pharaoh (Heb. xi. 24-5). All this is very natural, if Moses himself be in any degree responsible for the narrative. It is incredible, if the narrative were put together after the Captivity, to claim the sanction of so great a name for a newly forged hierarchical system. Such a theory could scarcely be refuted more completely, if the narrative before us were invented with the deliberate aim to overthrow it.
 
 But in truth the failures of the good and great are written for our admonition, teaching us how inconsistent are even the best of mortals, and how weak the most resolute. Rather than forfeit his own place among the chosen people, Moses had forsaken a palace and become a proscribed fugitive; yet he had neglected to claim for his child its rightful share in the covenant, its recognition among the sons of Abraham. Perhaps procrastination, perhaps domestic opposition, more potent than a king's wrath to shake his purpose, perhaps the insidious notion that one who had sacrificed so much might be at ease about slight negligences,--some such influence had left the commandment unobserved. And now, when the dream of his life was being realised at last, and he found himself the chosen instrument of God for the rebuke of one nation and the making of another, how pardonable it must have seemed to leave an unpleasant small domestic duty over until a more convenient season! How natural it still seems to merge the petty task in the high vocation, to excuse small lapses in pursuit of lofty aims! But this was the very time when God, hitherto forbearing, took him sternly to task for his neglect, because men who are especially honoured should be more obedient and reverential than their fellows. Let young men who dream of a vast career, and meanwhile indulge themselves in small obliquities, let all who cast out demons in the name of Christ, and yet work iniquity, reflect upon this chosen and long-trained, self-sacrificing and ardent servant of the Lord, whom Jehovah seeks to kill because he wilfully disobeys even a purely ceremonial precept.
 
-Moses was not only religious, but "a man of destiny," one upon whom vast interests depended. Now, such men have often reckoned themselves exempt from the ordinary laws of conduct. \[8\]
+Moses was not only religious, but "a man of destiny," one upon whom vast interests depended. Now, such men have often reckoned themselves exempt from the ordinary laws of conduct. [fn. 8: "I am not an ordinary man," Napoleon used to say, "and the laws of morals and of custom were never made for me."--_Memoirs of Madame de Rémusat_, i. 91.]
 
 It is not a light thing, therefore, to find God's indignant protest against the faintest shadow of a doctrine so insidious and so deadly, set in the forefront of sacred history, at the very point where national concerns and those of religion begin to touch. If our politics are to be kept pure and clean, we must learn to exact a higher fidelity, and not a relaxed morality, from those who propose to sway the destinies of nations.
 
@@ -1056,10 +980,9 @@ This was their preparation for the wonders that should follow: it resembled Chri
 
 For the moment the announcement had the desired effect, although too soon the early promise was succeeded by faithlessness and discontent. In this, again, the teaching of the earliest political movement on record is as fresh as if it were a tale of yesterday. The offer of emancipation stirs all hearts; the romance of liberty is beautiful beside the Nile as in the streets of Paris; but the cost has to be gradually learned; the losses displace the gains in the popular attention; the labour, the self-denial and the self-control grow wearisome, and Israel murmurs for the flesh-pots of Egypt, much as the modern revolution reverts to a despotism. It is one thing to admire abstract freedom, but a very different thing to accept the austere conditions of the life of genuine freemen. And surely the same is true of the soul. The gospel gladdens the young convert: he bows his head and worships; but he little dreams of his long discipline, as in the forty desert years, of the solitary places through which his soul must wander, the drought, the Amalekite, the absent leader, and the temptations of the flesh. In mercy, the long future is concealed; it is enough that, like the apostles, we should consent to follow; gradually we shall obtain the courage to which the task may be revealed.
 
-
 ### Chapter V — Pharaoh Refuses
 
-v. 1--23.
+**V.** 1-23.
 
 After forty years of obscurity and silence, Moses re-enters the magnificent halls where he had formerly turned his back upon so great a place. The rod of a shepherd is in his hand, and a lowly Hebrew by his side. Men who recognise him shake their heads, and pity or despise the fanatic who had thrown away the most dazzling prospects for a dream. But he has long since made his choice, and whatever misgivings now beset him have regard to his success with Pharaoh or with his brethren, not to the wisdom of his decision.
 
@@ -1069,7 +992,7 @@ In itself, his presence there was formidable. The Hebrews had been feared when h
 
 There is a terrible power in strong convictions, especially when supported by the sanctions of religion. Luther on one side, Loyola on the other, were mightier than kings when armed with this tremendous weapon. Yet there are forces upon which patriotism and fanaticism together break in vain. Tyranny and pride of race have also strong impelling ardours, and carry men far. Pharaoh is in earnest as well as Moses, and can act with perilous energy. And this great narrative begins the story of a nation's emancipation with a human demand, boldly made, but defeated by the pride and vigour of a startled tyrant and the tameness of a downtrodden people. The limitations of human energy are clearly exhibited before the direct interference of God begins. All that a brave man can do, when nerved by lifelong aspiration and by a sudden conviction that the hour of destiny has struck, all therefore upon which rationalism can draw, to explain the uprising of Israel, is exhibited in this preliminary attempt, this first demand of Moses.
 
-Menephtah was no doubt the new Pharaoh whom the brothers accosted so boldly. What we glean of him elsewhere is highly suggestive of some grave event left unrecorded, exhibiting to us a man of uncontrollable temper yet of broken courage, a ruthless, godless, daunted man. There is a legend that he once hurled his spear at the Nile when its floods rose too high, and was punished with ten years of blindness. In the Libyan war, after fixing a time when he should join his vanguard, with the main army, a celestial vision forbade him to keep his word in person, and the victory was gained by his lieutenants. In another war, he boasts of having slaughtered the people and set fire to them, and netted the entire country as men net birds. Forty years then elapse without war and without any great buildings; there are seditions and internal troubles, and the dynasty closes with his son. \[9\] All this is exactly what we should expect, if a series of tremendous blows had depopulated a country, abolished an army, and removed two millions of the working classes in one mass.
+Menephtah was no doubt the new Pharaoh whom the brothers accosted so boldly. What we glean of him elsewhere is highly suggestive of some grave event left unrecorded, exhibiting to us a man of uncontrollable temper yet of broken courage, a ruthless, godless, daunted man. There is a legend that he once hurled his spear at the Nile when its floods rose too high, and was punished with ten years of blindness. In the Libyan war, after fixing a time when he should join his vanguard, with the main army, a celestial vision forbade him to keep his word in person, and the victory was gained by his lieutenants. In another war, he boasts of having slaughtered the people and set fire to them, and netted the entire country as men net birds. Forty years then elapse without war and without any great buildings; there are seditions and internal troubles, and the dynasty closes with his son. [fn. 9: Robinson, "The Pharaohs of the Bondage."] All this is exactly what we should expect, if a series of tremendous blows had depopulated a country, abolished an army, and removed two millions of the working classes in one mass.
 
 But it will be understood that this identification, concerning which there is now a very general consent of competent authorities, implies that the Pharaoh was not himself engulfed with his army. Nothing is on the other side except a poetic assertion in Psalm cxxxvi. 15, which is not that God destroyed, but that He "shook off" Pharaoh and his host in the Red Sea, because His mercy endureth for ever.
 
@@ -1111,16 +1034,13 @@ Similar to this is the explanation of many delays in answering our prayer, of th
 
 Fresh air, a balmy wind, a bright blue sky--which of us feels a thrill of conscious exultation for these cheap delights? The released prisoner, the restored invalid, feels it:
 
-"The common earth, the air, the skies,
-
-To him are opening paradise."
+"The common earth, the air, the skies, To him are opening paradise."
 
 Even so should Israel be taught to value deliverance. And now the process could begin.
 
-
 ### Chapter VI — The Encouragement of Moses
 
-vi. 1--30.
+Vi. 1-30.
 
 We have seen that the name Jehovah expresses not a philosophic meditation, but the most bracing and reassuring truth--viz., that an immutable and independent Being sustains His people; and this great title is therefore reaffirmed with emphasis in the hour of mortal discouragement. It is added that their fathers knew God by the name of God Almighty, but by His name Jehovah was He not known, or made known, unto them. Now, it is quite clear that they were not utterly ignorant of this title, for no such theory as that it was hitherto mentioned by anticipation only, can explain the first syllable in the name of the mother of Moses himself, nor the assertion that in the time of Seth men began to call upon the name of Jehovah (Gen. iv. 26), nor the name of the hill of Abraham's sacrifice, Jehovah-jireh (Gen. xxii. 14). Yet the statement cannot be made available for the purposes of any reasonable and moderate scepticism, since the sceptical theory demands a belief in successive redactions of the work in which an error so gross could not have escaped detection.
 
@@ -1190,7 +1110,7 @@ Therefore he should henceforth be emboldened by the assurance of qualification b
 
 It is certain that every living soul has at least one talent, and is bound to improve it. But how many of us remember that this loan implies a commission from God, as real as that of prophet and deliverer, and that nothing but our own default can prevent it from being, at the last, received again with usury?
 
-The same bravery, the same confidence when standing where his Captain has planted him, should inspire the prophet, and him that giveth alms, and him that showeth mercy; for all are members in one body, and therefore animated by one invincible Spirit from above (Rom. xii. 4--9).
+The same bravery, the same confidence when standing where his Captain has planted him, should inspire the prophet, and him that giveth alms, and him that showeth mercy; for all are members in one body, and therefore animated by one invincible Spirit from above (Rom. xii. 4-9).
 
 The endowment thus given to Moses made him "as a god" to Pharaoh.
 
@@ -1198,10 +1118,9 @@ We must not take this to mean only that he had a prophet or spokesman, or that h
 
 Now, every consecrated power may bear witness to the Lord: it is possible to do all to the glory of God. Not that every separate action will be ascribed to a preternatural source, but the sum total of the effect produced by a holy life will be sacred. He who said, "I have made thee a god unto Pharaoh," says of all believers, "I in them, and Thou, Father, in Me, that the world may know that Thou hast sent Me."
 
-
 ### Chapter VII — The Hardening of Pharaoh's Heart
 
-vii. 3--13.
+Vii. 3-13.
 
 When Moses received his commission, at the bush, words were spoken which are now repeated with more emphasis, and which have to be considered carefully. For probably no statement of Scripture has excited fiercer criticism, more exultation of enemies and perplexity of friends, than that the Lord said, "I will harden Pharaoh's heart, and he shall not let the people go," and that in consequence of this Divine act Pharaoh sinned and suffered. Just because the words are startling, it is unjust to quote them without careful examination of the context, both in the prediction and the fulfilment. When all is weighed, compared, and harmonised, it will at last be possible to draw a just conclusion. And although it may happen long before then, that the objector will charge us with special pleading, yet he will be the special pleader himself, if he seeks to hurry us, by prejudice or passion, to give a verdict which is based upon less than all the evidence, patiently weighed.
 
@@ -1227,15 +1146,15 @@ This explanation implies that to harden Pharaoh's heart was to inspire him, not 
 
 And as far as the original language helps us at all, it decidedly supports this view. Three different expressions have been unhappily rendered by the same English word, to harden; but they may be discriminated throughout the narrative in Exodus, by the margin of the Revised Version.
 
-One word, which commonly appears without any marginal explanation, is the same which is employed elsewhere about "the cause which is too hard for" minor judges (Deut. i. 17, cf. xv. 18, etc.). Now, this word is found (vii. 13) in the second threat that "I will harden Pharaoh's heart," and in the account which was to be given to posterity of how "Pharaoh hardened himself to let us go" (xiii. 15). And it is said likewise of Sihon, king of Heshbon, that he "would not let us pass by him, for the Lord thy God hardened his spirit and made his heart strong" (Deut. ii. 30). But since it does not occur anywhere in all the narrative of what God actually did with Pharaoh, it is only just to interpret this phrase in the prediction by what we read elsewhere of the manner of its fulfilment.
+One word, which commonly appears without any marginal explanation, is the same which is employed elsewhere about "the cause which is too _hard_ for" minor judges (Deut. i. 17, cf. xv. 18, etc.). Now, this word is found (vii. 13) in the second threat that "I will harden Pharaoh's heart," and in the account which was to be given to posterity of how "Pharaoh hardened himself to let us go" (xiii. 15). And it is said likewise of Sihon, king of Heshbon, that he "would not let us pass by him, for the Lord thy God hardened his spirit and made his heart strong" (Deut. ii. 30). But since it does not occur anywhere in all the narrative of what God actually did with Pharaoh, it is only just to interpret this phrase in the prediction by what we read elsewhere of the manner of its fulfilment.
 
-The second word is explained in the margin as meaning to make strong. Already God had employed it when He said "I will make strong his heart" (iv. 21), and this is the term used of the first fulfilment of the menace, after the sixth plague (ix. 12). God is not said to interfere again after the seventh, which had few special terrors for Pharaoh himself; but from henceforth the expression "to make strong" alternates with the phrase "to make heavy." "Go in unto Pharaoh, for I have made heavy his heart and the heart of his servants, that I might show these My signs in the midst of them" (x. 1).
+The second word is explained in the margin as meaning _to make strong_. Already God had employed it when He said "I will _make strong_ his heart" (iv. 21), and this is the term used of the first fulfilment of the menace, after the sixth plague (ix. 12). God is not said to interfere again after the seventh, which had few special terrors for Pharaoh himself; but from henceforth the expression "to make _strong_" alternates with the phrase "to make _heavy_." "Go in unto Pharaoh, for I have made heavy his heart and the heart of his servants, that I might show these My signs in the midst of them" (x. 1).
 
-It may be safely assumed that these two expressions cover between them all that is asserted of the judicial action of God in preventing a recoil of Pharaoh from his calamities. Now, the strengthening of a heart, however punitive and disastrous when a man's will is evil (just as the strengthening of his arm is disastrous then), has in itself no immorality inherent. It is a thing as often good as bad,--as when Israel and Joshua are exhorted to "Be strong and of a good courage" (Deut. xxxi. 6, 7, 23), and when the angel laid his hand upon Daniel and said, "Be strong, yea, be strong" (Dan. x. 19). In these passages the phrase is identical with that which describes the process by which Pharaoh was prevented from cowering under the tremendous blows he had provoked.
+It may be safely assumed that these two expressions cover between them all that is asserted of the judicial action of God in preventing a recoil of Pharaoh from his calamities. Now, the strengthening of a heart, however punitive and disastrous when a man's will is evil (just as the strengthening of his arm is disastrous then), has in itself no immorality inherent. It is a thing as often good as bad,--as when Israel and Joshua are exhorted to "Be _strong_ and of a good courage" (Deut. xxxi. 6, 7, 23), and when the angel laid his hand upon Daniel and said, "Be strong, yea, be strong" (Dan. x. 19). In these passages the phrase is identical with that which describes the process by which Pharaoh was prevented from cowering under the tremendous blows he had provoked.
 
-The other expression is to make heavy or dull. Thus "the eyes of Israel were heavy with age" (Gen. xlviii. 10), and as we speak of a weight of honour, equally with the heaviness of a dull man, so we are twice commanded, "Make heavy (honour) thy father and thy mother"; and the Lord declares, "I will make Myself heavy (get Me honour) upon Pharaoh" (Deut. v. 16, Exod. xx. 12, xiv. 4, 17, 18). In these latter references it will be observed that the making "strong" the heart of Pharaoh, and the making "Myself heavy" are so connected as almost to show a design of indicating how far is either expression from conveying the notion of immorality, infused into a human heart by God. For one of the two phrases which have been thus interpreted is still applied to Pharaoh; but the other (and the more sinister, as we should think, when thus applied) is appropriated by God to Himself: He makes Himself heavy.
+The other expression is to make heavy or dull. Thus "the eyes of Israel were _heavy_ with age" (Gen. xlviii. 10), and as we speak of a _weight_ of honour, equally with the heaviness of a dull man, so we are twice commanded, "Make heavy (honour) thy father and thy mother"; and the Lord declares, "I will make Myself heavy (get Me honour) upon Pharaoh" (Deut. v. 16, Exod. xx. 12, xiv. 4, 17, 18). In these latter references it will be observed that the making "strong" the heart of Pharaoh, and the making "Myself heavy" are so connected as almost to show a design of indicating how far is either expression from conveying the notion of immorality, infused into a human heart by God. For one of the two phrases which have been thus interpreted is still applied to Pharaoh; but the other (and the more sinister, as we should think, when thus applied) is appropriated by God to Himself: He makes Himself heavy.
 
-It is also a curious and significant coincidence that the same word was used of the burdens that were made heavy when first they claimed their freedom, which is now used of the treatment of the heart of their oppressor (v. 9).
+It is also a curious and significant coincidence that the same word was used of the burdens that were made _heavy_ when first they claimed their freedom, which is now used of the treatment of the heart of their oppressor (v. 9).
 
 It appears, then, that the Lord is never said to debauch Pharaoh's heart, but only to strengthen it against prudence and to make it dull; that the words used do not express the infusion of evil passion, but the animation of a resolute courage, and the overclouding of a natural discernment; and, above all, that every one of the three words, to make hard, to make strong, and to make heavy, is employed to express Pharaoh's own treatment of himself, before it is applied to any work of God, as actually taking place already.
 
@@ -1253,20 +1172,19 @@ On the other hand, every act of obedience helps to release the will from its ent
 
 A second time, then, Moses presented himself before Pharaoh with his demands; and, as he had been forewarned, he was now challenged to give a sign in proof of his commission from a god.
 
-And the demand was treated as reasonable; a sign was given, and a menacing one. The peaceable rod of the shepherd, a fit symbol of the meek man who bore it, became a serpent \[10\] before the king, as Moses was to become destructive to his realm. But when the wise men of Egypt and the enchanters were called, they did likewise; and although a marvel was added which incontestably declared the superior power of the Deity Whom Aaron represented, yet their rivalry sufficed to make strong the heart of Pharaoh, and he would not let the people go. The issue was now knit: the result would be more signal than if the quarrel were decided at one blow, and upon all the gods of Egypt the Lord would exercise vengeance.
+And the demand was treated as reasonable; a sign was given, and a menacing one. The peaceable rod of the shepherd, a fit symbol of the meek man who bore it, became a serpent [fn. 10: It is true that the word means any large reptile, as when "God created great _whales_"; but doubtless our English version is correct. It was certainly a serpent which he had recently fled from, and then taken by the tail (iv. 4). And unless we suppose the magicians to have wrought a genuine miracle, no other creature can be suggested, equally convenient for their sleight of hand.] before the king, as Moses was to become destructive to his realm. But when the wise men of Egypt and the enchanters were called, they did likewise; and although a marvel was added which incontestably declared the superior power of the Deity Whom Aaron represented, yet their rivalry sufficed to make strong the heart of Pharaoh, and he would not let the people go. The issue was now knit: the result would be more signal than if the quarrel were decided at one blow, and upon all the gods of Egypt the Lord would exercise vengeance.
 
 What are we to think of the authentification of a religion by a sign? Beyond doubt, Jesus recognised this aspect of His own miracles, when He said, "If I had not done among them the works that none other man did, they had not had sin" (John xv. 24). And yet there is reason in the objection that no amount of marvel ought to deflect by one hair's breadth our judgment of right and wrong, and the true appeal of a religion must be to our moral sense.
 
-No miracle can prove that immoral teaching is sacred. But it can prove that it is supernatural. And this is precisely what Scripture always proclaims. In the New Testament, we are bidden to take heed, because a day will come, when false prophets shall work great signs and wonders, to deceive, if possible, even the elect (Mark xiii. 22). In the Old Testament, a prophet may seduce the people to worship other gods, by giving them a sign or a wonder which shall come to pass, but they must surely stone him: they must believe that his sign is only a temptation; and above whatever power enabled him to work it, they must recognise Jehovah proving them, and know that the supernatural has come to them in judgment, not in revelation (Deut. xiii. 1--5).
+No miracle can prove that immoral teaching is sacred. But it can prove that it is supernatural. And this is precisely what Scripture always proclaims. In the New Testament, we are bidden to take heed, because a day will come, when false prophets shall work great signs and wonders, to deceive, if possible, even the elect (Mark xiii. 22). In the Old Testament, a prophet may seduce the people to worship other gods, by giving them a sign or a wonder which shall come to pass, but they must surely stone him: they must believe that his sign is only a temptation; and above whatever power enabled him to work it, they must recognise Jehovah proving them, and know that the supernatural has come to them in judgment, not in revelation (Deut. xiii. 1-5).
 
 Now, this is the true function of the miraculous. At the most, it cannot coerce the conscience, but only challenge it to consider and to judge.
 
 A teacher of the purest morality may be only a human teacher still; nor is the Christian bound to follow into the desert every clamorous innovator, or to seek in the secret chamber every one who whispers a private doctrine to a few. We are entitled to expect that one who is commissioned directly from above will bear special credentials with him; but when these are exhibited, we must still judge whether the document they attest is forged. And this may explain to us why the magicians were allowed for awhile to perplex the judgment of Pharaoh whether by fraud, as we may well suppose, or by infernal help. It was enough that Moses should set his claims upon a level with those which Pharaoh reverenced: the king was then bound to weigh their relative merits in other and wholly different scales.
 
+_THE PLAGUES._
 
-#### The Plagues
-
-vii. 14.
+Vii. 14.
 
 There are many aspects in which the plagues of Egypt may be contemplated.
 
@@ -1282,7 +1200,7 @@ We may, with ample warrant from Scripture, make the controversial application st
 
 Then we shall see the domain of each impostor invaded, and every vaunted power to inflict evil or to remove it triumphantly wielded by Him Who proves His equal mastery over all, and thus we shall find here the justification of that still bolder personification which says, "Worship Him, all ye gods" (Psalm xcvii. 7).
 
-The Nile had a sacred name, and was adored as "Hapee, or Hapee Mu, the Abyss, or the Abyss of Waters, or the Hidden," and the king was frequently portrayed standing between two images of this god, his throne wreathed with water-lilies. The second plague struck at the goddess Hekt, whose head was that of a frog. The uncleanness of the third plague deranged the whole system of Egyptian worship, with its punctilious and elaborate purifications. In every one there is either a presiding divinity attacked, or a blow dealt upon the priesthood or the sacrifice, or a sphere invaded which some deity should have protected, until the sun himself is darkened, the great god Ra, to whom their sacred city was dedicated, and whose name is incorporated in the title of his earthly representative, the Pharaoh or Ph-ra. Then at last, after all these premonitions, the deadly blow struck home.
+The Nile had a sacred name, and was adored as "Hapee, or Hapee Mu, the Abyss, or the Abyss of Waters, or the Hidden," and the king was frequently portrayed standing between two images of this god, his throne wreathed with water-lilies. The second plague struck at the goddess HEKT, whose head was that of a frog. The uncleanness of the third plague deranged the whole system of Egyptian worship, with its punctilious and elaborate purifications. In every one there is either a presiding divinity attacked, or a blow dealt upon the priesthood or the sacrifice, or a sphere invaded which some deity should have protected, until the sun himself is darkened, the great god RA, to whom their sacred city was dedicated, and whose name is incorporated in the title of his earthly representative, the Pharaoh or PH-RA. Then at last, after all these premonitions, the deadly blow struck home.
 
 Or we may think of the plagues as retributive, and then we shall discover a wonderful suitability in them all. It was a direful omen that the first should afflict the nation through the river, into which, eighty years before, the Hebrew babes had been cast to die, which now rolled bloody, and seemed to disclose its dead. It was fit that the luxurious homes of the oppressors should become squalid as the huts of the slaves they trampled; that their flesh should suffer torture worse than that of the whips they used so unmercifully; that the loss of crops and cattle should bring home to them the hardships of the poor who toiled for their magnificence; that physical darkness should appal them with vague terrors and undefined apprehensions, such as ever haunt the bosom of the oppressed, whose life is the sport of a caprice; and at last that the aged should learn by the deathbed of the prop and pride of their declining feebleness, and the younger feel beside the cradle of the first blossom and fruit of love, all the agony of such bereavement as they had wantonly inflicted on the innocent.
 
@@ -1296,7 +1214,7 @@ It has been observed, concerning the miracles of Jesus, that not one of them was
 
 And it is easily seen that such miracles were a more natural expression of His errand, which was to repair and purify the existing system of things, and to remove our moral disease and dearth, than any exercise of creative power would have been, however it might have dazzled the spectators.
 
-Now, the same remark applies to the miracles of Moses, to the coming of God in judgment, as to His revelation of Himself in grace; and therefore we need not be surprised to hear that natural phenomena are not unknown which offer a sort of dim hint or foreshadowing of the terrible ten plagues. Either cryptogamic vegetation or the earth borne down from upper Africa is still seen to redden the river, usually dark, but not so as to destroy the fish. Frogs and vermin and stinging insects are the pest of modern travellers. Cattle plagues make ravage there, and hideous diseases of the skin are still as common as when the Lord promised to reward the obedience of Israel to sanitary law by putting upon them none of "the evil diseases of Egypt" which they knew (Deut. vii. 15). \[11\] The locust is still dreaded. But some of the other visitations were more direful because not only their intensity but even their existence was almost unprecedented: hail in Egypt was only not quite unknown; and such veiling of the sun as occurs for a few minutes during the storms of sand in the desert ought scarcely to be quoted as even a suggestion of the prolonged horror of the ninth plague.
+Now, the same remark applies to the miracles of Moses, to the coming of God in judgment, as to His revelation of Himself in grace; and therefore we need not be surprised to hear that natural phenomena are not unknown which offer a sort of dim hint or foreshadowing of the terrible ten plagues. Either cryptogamic vegetation or the earth borne down from upper Africa is still seen to redden the river, usually dark, but not so as to destroy the fish. Frogs and vermin and stinging insects are the pest of modern travellers. Cattle plagues make ravage there, and hideous diseases of the skin are still as common as when the Lord promised to reward the obedience of Israel to sanitary law by putting upon them none of "the evil diseases of Egypt" which they knew (Deut. vii. 15). [fn. 11: To this day, amid squalid surroundings for which nominal Christians are responsible, the immunity of the Jewish race from such suffering is conspicuous, and at least a remarkable coincidence.] The locust is still dreaded. But some of the other visitations were more direful because not only their intensity but even their existence was almost unprecedented: hail in Egypt was only not quite unknown; and such veiling of the sun as occurs for a few minutes during the storms of sand in the desert ought scarcely to be quoted as even a suggestion of the prolonged horror of the ninth plague.
 
 Now, this accords exactly with the moral effect which was to be produced. The rescued people were not to think of God as one who strikes down into nature from outside, with strange and unwonted powers, superseding utterly its familiar forces. They were to think of Him as the Author of all; and of the common troubles of mortality as being indeed the effects of sin, yet ever controlled and governed by Him, let loose at His will, and capable of mounting to unimagined heights if His restraints be removed from them. By the east wind He brought the locusts, and removed them by the south-west wind. By a storm He divided the sea. The common things of life are in His hands, often for tremendous results. And this is one of the chief lessons of the narrative for us. Let the mind range over the list of the nine which stop short of absolute destruction, and reflect upon the vital importance of immunities for which we are scarcely grateful.
 
@@ -1304,14 +1222,13 @@ The purity of water is now felt to be among the foremost necessities of life. It
 
 But we are insensible to the every-day teaching of this narrative: we turn our rivers into fluid poison; we spread all around us deleterious influences, which breed by minute forms of parasitical life the germs of cruel disease; we load the atmosphere with fumes which slay our cattle with periodical distempers, and are deadlier to vegetation than the hail-storm or the locust; we charge it with carbon so dense that multitudes have forgotten that the sky is blue, and on our Metropolis comes down at frequent intervals the darkness of the ninth plague, and all the time we fail to see that God, Who enacts and enforces every law of nature, does really plague us whenever these outraged laws avenge themselves. The miraculous use of nature in special emergencies is such as to show the Hand which regularly wields its powers.
 
-At the same time there is no more excuse for the rationalism which would reduce the calamities of Egypt to a coincidence, than for explaining away the manna which fed a nation during its wanderings by the drug which is gathered, in scanty morsels, upon the acacia tree. The awful severity of the judgments, the series which they formed, their advent and removal at the menace and the prayer of Moses, are considerations which make such a theory absurd. The older scepticism, which supposed Moses to have taken advantage of some epidemic, to have learned in the wilderness the fords of the Red Sea, \[12\] to have discovered water, when the caravan was perishing of thirst, by his knowledge of the habits of wild beasts, and finally to have dazzled the nation at Horeb with some kind of fireworks, is itself almost a miracle in its violation of the laws of mind. The concurrence of countless favourable accidents and strange resources of leadership is like the chance arrangement of a printer's type to make a poem.
+At the same time there is no more excuse for the rationalism which would reduce the calamities of Egypt to a coincidence, than for explaining away the manna which fed a nation during its wanderings by the drug which is gathered, in scanty morsels, upon the acacia tree. The awful severity of the judgments, the series which they formed, their advent and removal at the menace and the prayer of Moses, are considerations which make such a theory absurd. The older scepticism, which supposed Moses to have taken advantage of some epidemic, to have learned in the wilderness the fords of the Red Sea, [fn. 12: But indeed this notion is not yet dead. "A high wind left the shallow sea so low that it became possible to ford it. Moses eagerly accepted the suggestion, and made the venture with success," etc.--_Wellhausen_, "Israel," in _Encyc. Brit._] to have discovered water, when the caravan was perishing of thirst, by his knowledge of the habits of wild beasts, and finally to have dazzled the nation at Horeb with some kind of fireworks, is itself almost a miracle in its violation of the laws of mind. The concurrence of countless favourable accidents and strange resources of leadership is like the chance arrangement of a printer's type to make a poem.
 
 There is a common notion that the ten plagues followed each other with breathless speed, and were completed within a few weeks. But nothing in the narrative asserts or even hints this, and what we do know is in the opposite direction. The seventh plague was wrought in February, for the barley was in the ear and the flax in blossom (ix. 31); and the feast of passover was kept on the fourteenth day of the month Abib, so that the destruction of the firstborn was in the middle of April, and there was an interval of about two months between the last four plagues. Now, the same interval throughout would bring back the first plague to September or October. But the natural discoloration of the river, mentioned above, is in the middle of the year, when the river begins to rise; and this, it may possibly be inferred, is the natural period at which to fix the first plague. They would then range over a period of about nine months. During the interval between them, the promises and treacheries of the king excited alternate hope and rage in Israel; the scribes of their own race (once the vassals of their tyrants, but already estranged by their own oppression) began to take rank as officers among the Jews, and to exhibit the rudimentary promise of national order and government; and the growing fears of their enemies fostered that triumphant sense of mastery, out of which national hope and pride are born. When the time came for their departure, it was possible to transmit orders throughout all their tribes, and they came out of Egypt by their armies, which would have been utterly impossible a few months before. It was with them, as it is with every man that breathes: the delay of God's grace was itself a grace; and the slowly ripening fruit grew mellower than if it had been forced into a speedier maturity.
 
+_THE FIRST PLAGUE._
 
-#### The First Plague
-
-vii. 14--25.
+Vii. 14-25.
 
 It was perhaps when the Nile was rising, and Pharaoh was coming to the bank, in pomp of state, to make official observation of its progress, on which the welfare of the kingdom depended, and to do homage before its divinity, that the messenger of another Deity confronted him, with a formal declaration of war. It was a strange contrast. The wicked was in great prosperity, neither was he plagued like another man. Upon his head, if this were Menephtah, was the golden symbol of his own divinity. Around him was an obsequious court. And yet there was moving in his heart some unconfessed sense of awe, when confronted once more by the aged shepherd and his brother, who had claimed a commission from above, and had certainly met his challenge, and made a short end of the rival snakes of his own seers. Once he had asked "Who is Jehovah?" and had sent His ambassadors to their tasks again with insult. But now he needs to harden his heart, in order not to yield to their strange and persistent demands. He remembers how they had spoken to him already, "Thus saith the Lord, Israel is My son, My firstborn, and I have said unto thee, Let My son go that he may serve Me; and thou hast refused to let him go: behold, I will slay thy son, thy firstborn" (iv. 22, R.V.). Did this awful warning come back to him, when the worn, solemn and inflexible face of Moses again met him? Did he divine the connection between this ultimate penalty and what is now announced--the turning of the pride and refreshment of Egypt into blood? Or was it partly because each plague, however dire, seemed to fall short of the tremendous threat, that he hoped to find the power of Moses more limited than his warnings? "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
 
@@ -1321,16 +1238,15 @@ It is in clear allusion to his vaunt, "I know not Jehovah," that Moses and Aaron
 
 But we are expressly told that it was possible to obtain water by digging wells. Therefore there is no point whatever in the cavil that if Moses turned all the water into blood, none was left for the operations of the magicians. But no comparison whatever existed between their petty performances and the immense and direful work of vengeance which rolled down a putrid mass of corrupt waters through the land, spoiling the great stores of water by which later drought should be relieved, destroying the fish, that important part of the food of the nation, for which Israel afterwards lusted, and sowing the seeds of other plagues, by the pollution of that balmy air in which so many of our own suffering countrymen still find relief, but which was now infected and loathsome. Even Pharaoh must have felt that his gods might do better for him than this, and that it would be much more to the point just then to undo his plague than to increase it--to turn back the blood to water than contribute a few drops more. If this was their best effort, he was already helpless in the hand of his assailant, who, by the uplifting of his rod, and the bold avowal in advance of responsibility for so great a calamity, had formally defied him. But Pharaoh dared not accept the challenge: it was effort enough for him to "set his heart" against surrender to the portent, and he sullenly turned back into the palace from the spot where Moses met him.
 
-Two details remain to be observed. The seven days which were fulfilled do not measure the interval between this plague and the next, but the period of its infliction. And this information is not given us concerning any other, until we come to the three days of darkness. \[13\] It is important here, because the natural discoloration lasts for three weeks, and mythical tendencies would rather exaggerate than shorten the term.
+Two details remain to be observed. The seven days which were fulfilled do not measure the interval between this plague and the next, but the period of its infliction. And this information is not given us concerning any other, until we come to the three days of darkness. [fn. 13: x. 22. The accurate Kalisch is therefore wrong in speaking of "The duration of the first plague, a statement not made with regard to any of the subsequent inflictions."--Commentary _in loco_.] It is important here, because the natural discoloration lasts for three weeks, and mythical tendencies would rather exaggerate than shorten the term.
 
-Again, it is contended that only with the fourth plague did Israel begin to enjoy exemption, because then only is their immunity recorded. \[14\] But it is strange indeed to suppose that they were involved in punishments the design of which was their relief; and in fact their exemption is implied in the statement that the Egyptians (only) had to dig wells. It is to be understood that large stores of water would everywhere be laid up, because the Nile water, however delicious, carries much sediment which must be allowed to settle down. They would not be forced, therefore, to fall back upon the polluted common sources for a supply.
+Again, it is contended that only with the fourth plague did Israel begin to enjoy exemption, because then only is their immunity recorded. [fn. 14: _Speaker's Commentary_, i., p. 242; Kalisch on viii. 18; Kiel, i. 484.] But it is strange indeed to suppose that they were involved in punishments the design of which was their relief; and in fact their exemption is implied in the statement that the Egyptians (only) had to dig wells. It is to be understood that large stores of water would everywhere be laid up, because the Nile water, however delicious, carries much sediment which must be allowed to settle down. They would not be forced, therefore, to fall back upon the polluted common sources for a supply.
 
 And now let us contrast this miracle with the first of the New Testament. One spoiled the happiness of the guilty; the other rescued the overclouded joy of the friends of Jesus, not turning water into blood but into wine; declaring at one stroke all the difference between the law which worketh wrath, and the gospel of the grace of God. The first was impressive and public, as the revelation upon Sinai; the other appealed far more to the heart than to the imagination, and befitted well the kingdom that was not with observation, the King who grew up like a tender plant, and did not strive nor cry, the redeeming influence which was at first unobtrusive as the least of all seeds, but became a tree, and the shelter of the fowls of heaven.
 
-
 ### Chapter VIII — The Second Plague
 
-viii. 1--15.
+Viii. 1-15.
 
 Although Pharaoh had warning of the first plague, no appeal was made to him to avert it by submission. But before the plague of frogs he was distinctly commanded, "Let My people go." It is an advancing lesson. He has felt the power of Jehovah: now he is to connect, even more closely, his suffering with his disobedience; and when this is accomplished, the third plague will break upon him unannounced--a loud challenge to his conscience to become itself his judge.
 
@@ -1348,12 +1264,11 @@ If the frogs passed away at once, the relief might chance to be a natural one; a
 
 But "when Pharaoh saw that there was respite, he made his heart heavy and hearkened not unto them." It is a graphic sentence: it implies rather than affirms their indignant remonstrances, and the sullen, dull, spiritless obstinacy with which he held his base and unkingly purpose.
 
+_THE THIRD PLAGUE._
 
-#### The Third Plague
+Viii. 16-19.
 
-viii. 16--19.
-
-There is no sufficient reason for discarding the ordinary opinion of this plague. Gnats have been suggested (with beetles instead of flies for the fourth, since gnats and flies would scarcely make two several judgments), but these, which spring from marshy ground, would unfitly be connected with the dust whence Aaron was to evoke the pest. Sir Samuel Baker, on the other hand, has said of modern Egypt that "it seemed as if the very dust were turned into lice" (quoted in Speaker's Commentary in loco).
+There is no sufficient reason for discarding the ordinary opinion of this plague. Gnats have been suggested (with beetles instead of flies for the fourth, since gnats and flies would scarcely make two several judgments), but these, which spring from marshy ground, would unfitly be connected with the dust whence Aaron was to evoke the pest. Sir Samuel Baker, on the other hand, has said of modern Egypt that "it seemed as if the very dust were turned into lice" (quoted in Speaker's Commentary _in loco_).
 
 Two features in this plague deserve attention. It came without any warning whatever. The faithless king who gave his word and broke it found himself involved in fresh miseries without an opportunity of humbling himself again. He was flung back into deep waters, because he refused to fulfil the terms upon which he had been extricated.
 
@@ -1365,27 +1280,25 @@ It is a mistake to suppose that thereupon they confessed the mission of the brot
 
 Nevertheless, their grudging and insufficient avowal was meant to induce a surrender. But "Pharaoh's heart was strong, and he hearkened not unto them." To this statement it is not added, "because the Lord had hardened him," for this had not even yet taken place; but only, "as the Lord had spoken."
 
+_THE FOURTH PLAGUE._
 
-#### The Fourth Plague
+Viii. 20-32.
 
-viii. 20--32.
+When the third plague had died away, when the sense of reaction and exhaustion had replaced agitation and distress, and when perhaps the fear grew strong that at any moment a new calamity might befal the land as abruptly as the last, God orders a solemn and urgent appeal to be made to the oppressor. And the same occurs three times: after each plague which arrives unexpectedly the next is introduced by a special warning. On each of these occasions, moreover, the appeal is made in the morning, at the hour when reason ought to be clearest and the passions least agitating; and this circumstance is perhaps alluded to in the favourite phrase of Jeremiah when he would speak of condescending earnestness--"I sent my prophets, rising up early and sending them" (Jer. xxv. 4, xxvi. 5, xxix. 19, and many more; cf. also vii. 13, and 2 Chron. xxxvi. 15). So far is the Scripture from regarding Pharaoh as propelled by destiny, as by a machine, down iron grooves to ruin.
 
-When the third plague had died away, when the sense of reaction and exhaustion had replaced agitation and distress, and when perhaps the fear grew strong that at any moment a new calamity might befal the land as abruptly as the last, God orders a solemn and urgent appeal to be made to the oppressor. And the same occurs three times: after each plague which arrives unexpectedly the next is introduced by a special warning. On each of these occasions, moreover, the appeal is made in the morning, at the hour when reason ought to be clearest and the passions least agitating; and this circumstance is perhaps alluded to in the favourite phrase of Jeremiah when he would speak of condescending earnestness-- "I sent my prophets, rising up early and sending them" (Jer. xxv. 4, xxvi. 5, xxix. 19, and many more; cf. also vii. 13, and 2 Chron. xxxvi. 15). So far is the Scripture from regarding Pharaoh as propelled by destiny, as by a machine, down iron grooves to ruin.
+We have now come to the group of plagues which inflict actual bodily damage, and not inconvenience and humiliation only: the dogfly (or beetle); the murrain among beasts, which was a precursor of the crowning evil that struck at human life; and the boils. Of the fourth plague the precise nature is uncertain. There is a beetle which gnaws both man and beast, destroys clothes, furniture, and plants, and even now they "are often seen in millions" (Munk, _Palestine_, p. 120). "In a few minutes they filled the whole house.... Only after the most laborious exertions, and covering the floor of the house with hot coals, they succeeded in mastering them. If they make such attacks during the night, the inmates are compelled to give up the houses, and little children or sick persons, who are unable to rise alone, are then exposed to the greatest danger of life" (Pratte, _Abyssinia_, p. 143, in Kalisch).
 
-We have now come to the group of plagues which inflict actual bodily damage, and not inconvenience and humiliation only: the dogfly (or beetle); the murrain among beasts, which was a precursor of the crowning evil that struck at human life; and the boils. Of the fourth plague the precise nature is uncertain. There is a beetle which gnaws both man and beast, destroys clothes, furniture, and plants, and even now they "are often seen in millions" (Munk, Palestine, p. 120). "In a few minutes they filled the whole house.... Only after the most laborious exertions, and covering the floor of the house with hot coals, they succeeded in mastering them. If they make such attacks during the night, the inmates are compelled to give up the houses, and little children or sick persons, who are unable to rise alone, are then exposed to the greatest danger of life" (Pratte, Abyssinia, p. 143, in Kalisch).
+Now, this explanation has one advantage over that of dogflies--that special mention is made of their afflicting "the ground whereon they are" (ver. 21), which is less suitable to a plague of flies. But it may be that no one creature is meant. The Hebrew word means "a mixture." Jewish interpreters have gone so far as to make it mean "all kinds of noxious animals and serpents and scorpions mixed together," and although it is palpably absurd to believe that Pharaoh should have survived if these had been upon him and upon his servants, yet the expression "a mixture," following after one kind of vermin had tormented the land, need not be narrowed too exactly. With deliberate particularity the king was warned that they should come "upon thee, and upon thy servants, and upon thy people, and into thine houses, and the houses of the Egyptians shall be full of \[them [fn. 15: The Revised Version has "swarms of flies," which is clearly an attempt to meet the case. But it is worth notice that in the Psalms the expression was twice rendered "divers kinds of flies" (lxxviii. 45, cv. 31, A.V.) The word occurs only of this plague.]\], and also the ground whereon they are."
 
-Now, this explanation has one advantage over that of dogflies--that special mention is made of their afflicting "the ground whereon they are" (ver. 21), which is less suitable to a plague of flies. But it may be that no one creature is meant. The Hebrew word means "a mixture." Jewish interpreters have gone so far as to make it mean "all kinds of noxious animals and serpents and scorpions mixed together," and although it is palpably absurd to believe that Pharaoh should have survived if these had been upon him and upon his servants, yet the expression "a mixture," following after one kind of vermin had tormented the land, need not be narrowed too exactly. With deliberate particularity the king was warned that they should come "upon thee, and upon thy servants, and upon thy people, and into thine houses, and the houses of the Egyptians shall be full of \[them \[15\] \], and also the ground whereon they are."
-
-It has been supposed, from the special mention of the exemption of the land of Goshen, that this was a new thing. We have seen reason, however, to think otherwise, and the emphatic assertion now made is easy to understand. The plague was especially to be expected in low flat ground: the king may not even have been aware of the previous freedom of Israel; and in any case its importance as an evidence had not been pressed upon him. The spirit of the seventy-eighth Psalm, though not perhaps any one specific phrase, contrasts the earlier as well as the later plagues with the protection of His own people, whom He led like sheep (vers. 42--52).
+It has been supposed, from the special mention of the exemption of the land of Goshen, that this was a new thing. We have seen reason, however, to think otherwise, and the emphatic assertion now made is easy to understand. The plague was especially to be expected in low flat ground: the king may not even have been aware of the previous freedom of Israel; and in any case its importance as an evidence had not been pressed upon him. The spirit of the seventy-eighth Psalm, though not perhaps any one specific phrase, contrasts the earlier as well as the later plagues with the protection of His own people, whom He led like sheep (vers. 42-52).
 
 After the appointed interval (the same which Pharaoh had indicated for the removal of the frogs) the plague came. We are told that the land was corrupted, but it is significant that more stress is laid upon the suffering of Pharaoh and his court in the event than in the menace. It came home to himself more cruelly than any former plague, and he at once attempted to make terms: "Go ye, sacrifice to your God in the land." It is a natural speech, at first not asking to be trusted as before by getting relief before the Hebrews actually enjoy their liberty; and yet conceding as little as possible, and in hot haste to have that little done and the relief obtained. They may even serve their God on the sacred soil, so completely has He already defeated all His rivals. But this was not what was demanded; and Moses repeated the claim of a three days' journey, basing it upon the ground, still more insulting to the national religion, that "We will sacrifice to Jehovah our God the abomination of the Egyptians," that is to say, sacred animals, which it is horror in their eyes to sacrifice. Any faith in his own creed which Pharaoh ever had is surrendered when this argument, instead of making their cause hopeless, forces him to yield--adding, however, like a thoroughly weak man who wishes to refuse but dares not, "only ye shall not go very far away: intreat for me." And again Moses concedes the point, with only the courteous remonstrance, "But let not Pharaoh deal deceitfully any more."
 
 It is necessary to repeat that we have not a shred of evidence that Moses would have violated his compact and failed to return: it would have sufficed as a first step to have asserted the nationality of his people and their right to worship their own God: all the rest would speedily have followed. But the terms which were rejected again and again did not continue for ever to bind the victorious party: the story of their actual departure makes it plain that both sides understood it to be a final exodus; and thence came the murderous pursuit of Pharaoh (cf. xv. 9), which in itself would have cancelled any compact which had existed until then.
 
-
 ### Chapter IX — The Fifth Plague
 
-ix. 1--7.
+Ix. 1-7.
 
 Our Lord when on earth came not to destroy men's lives. And yet it was necessary, for our highest instruction, that we should not think of Him as revealing a Divinity wholly devoid of sternness. Twice, therefore, a gleam of the fires of justice fell on the eyes which followed Him--through the destruction once of a barren tree, and once of a herd of swine, which property no Jew should have possessed. So now, when half the gloomy round of the plagues was being completed, it was necessary to prove that life itself was staked on this desperate hazard; and this was done first by the very same expedient--the destruction of life which was not human. There is something pathetic, if one thinks of it, in the extent to which domestic animals share our fortunes, and suffer through the brutality or the recklessness of their proprietors. If all men were humane, self-controlled, and (as a natural result) prosperous, what a weight would be uplifted from the lower levels also of created life, all of which groaneth and travaileth in pain together until now! The dumb animal world is partner with humanity, and shares its fate, as each animal is dependent on its individual owner.
 
@@ -1401,14 +1314,13 @@ There was nothing to indicate that he had now reached a crisis--that God Himself
 
 Instead of spiritual conflict, there was intellectual curiosity. "Pharaoh sent, and behold there was not so much as one of the cattle of the Israelites dead. But the heart of Pharaoh was heavy, and he did not let the people go." This inquiry into a phenomenon which was surprising indeed, but yet quite unable to affect his action, recalls the spiritual condition of Herod, who was conscience-stricken when first he heard of Christ, and said, "It is John whom I beheaded" (Mark vi. 16), but afterwards felt merely vulgar curiosity and desire to behold a sign of Him. In the case of Pharaoh it was the next step to judicial infatuation. When Christ confronted Herod, He, Who had explained Himself to Pilate, was absolutely silent. And this warns us not to think that an interest in religious problems is itself of necessity religious. One may understand all mysteries, and yet it may profit him nothing. And many a reprobate soul is controversial, acute, and keenly orthodox.
 
+_THE SIXTH PLAGUE._
 
-#### The Sixth Plague
-
-ix. 8--12.
+Ix. 8-12.
 
 At the close of the second triplet, as of the first, stands a plague without a warning, but not without the clearest connection between the blow and Him who deals it.
 
-To the Jews Egypt was a furnace in which they were being consumed--whether literally in human sacrifice, or metaphorically in the hard labour which wasted them (Deut. iv. 20). And now the brothers were commanded to fill both hands with ashes of the furnace and throw them upon the wind, \[16\] either to symbolise the suffering which was to be spread wide over the land, or because the ashes of human sacrifices were thus presented to their evil genius, Typhon. If this were its meaning, the irony was keen, when at the same action a feverish inflammation breaking out in blains spread over all the nation.
+To the Jews Egypt was a furnace in which they were being consumed--whether literally in human sacrifice, or metaphorically in the hard labour which wasted them (Deut. iv. 20). And now the brothers were commanded to fill both hands with ashes of the furnace and throw them upon the wind, [fn. 16: The passage in Deuteronomy had not this event specially in mind, or it would have used the same term for a furnace. The word for ashes implies what can be blown upon the wind.] either to symbolise the suffering which was to be spread wide over the land, or because the ashes of human sacrifices were thus presented to their evil genius, Typhon. If this were its meaning, the irony was keen, when at the same action a feverish inflammation breaking out in blains spread over all the nation.
 
 But, apart from any such reference to their cruel idolatry, it was right that they should suffer in the flesh. When the higher nature is dead, there is no appeal so sharp and certain as to the physical sensibility. And moreover, there are other sins which have their root in the flesh besides sloth and bodily indulgence. Wrath and cruelty and pride are strangely stimulated and excited by self-indulgence. Not in vain does St. Paul describe a "mind of the flesh," and reckon among the fruits of the flesh not only uncleanness and drunkenness, but, just as truly, strife, jealousies, wraths, factions, divisions, heresies (Col. ii. 18; Gal. v. 19, 20). From such evil tempers, stimulated by evil appetites, the slaves of Egypt had suffered bitterly; and now the avenging rod fell upon the bodies of their tyrants.
 
@@ -1418,12 +1330,11 @@ But even this strength of heart did not reach the height of attempting any repri
 
 In the narrative of this plague there is an expression which deserves attention for another reason. The ashes, it says, "shall become dust." Is there no controversy, turning upon the too rigid and prosaic straining of a New Testament construction, which might be simplified by considering the Hebrew use of language, exemplified in such an assertion as "It shall become dust," and soon after, "It is the Lord's passover"? Do these announce transubstantiations? Did two handfuls of ashes literally become the blains upon the bodies of all the Egyptians?
 
+_THE SEVENTH PLAGUE._
 
-#### The Seventh Plague
+Ix. 13-35.
 
-ix. 13--35.
-
-The hardening of Pharaoh's heart, we have argued, was not the debauching of his spirit, but only the strengthening of his will. "Wait on the Lord and be of good courage"; "Be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josadak the high priest; and be strong, all ye people" (Ps. xxvii. 14; Hag. ii. 4), are clear proofs that what was implied in this word was not wickedness, but only that iron determination which his choice directed in a wicked channel. And therefore it was no mockery, no insincere appeal by one who had provided against the mischance of its succeeding, when God again addressed Himself to the reason, and even to the rational fears of Pharaoh. He had only provided against a terror-stricken submission, as wholly immoral and valueless, as the ceasing to resist of one who has swooned through fright. Now, to give such an one a stimulant and thus to enable him to exercise his volition, would be different from inciting him to rebel.
+The hardening of Pharaoh's heart, we have argued, was not the debauching of his spirit, but only the strengthening of his will. "Wait on the Lord and _be of good courage_"; "_Be strong_, O Zerubbabel, saith the Lord; and _be strong_, O Joshua, son of Josadak the high priest; and _be strong_, all ye people" (Ps. xxvii. 14; Hag. ii. 4), are clear proofs that what was implied in this word was not wickedness, but only that iron determination which his choice directed in a wicked channel. And therefore it was no mockery, no insincere appeal by one who had provided against the mischance of its succeeding, when God again addressed Himself to the reason, and even to the rational fears of Pharaoh. He had only provided against a terror-stricken submission, as wholly immoral and valueless, as the ceasing to resist of one who has swooned through fright. Now, to give such an one a stimulant and thus to enable him to exercise his volition, would be different from inciting him to rebel.
 
 The seventh plague, then, is ushered in by an expostulation more earnest, resolute and minatory than attended any of the previous ones. And this is the more necessary because human life is now for the first time at stake. First the king is solemnly reminded that Jehovah, Whom he no longer can refuse to know, is the God of the Hebrews, has a claim upon their services, and demands them. In oppressing the nation, therefore, Pharaoh usurped what belonged to the Lord. Now, this is the eternal charter of the rights of all humanity. Whoever encroaches on the just sphere of the free action of his neighbour deprives him, to exactly the same extent, of the power to glorify God by a free obedience. The heart glorifies God by submission to so hard a lot, but the co-operation of the "whole body and soul and spirit" does not visibly bear testimony to the regulating power of grace. The oppressor may contend (like some slave-owners) that he guides his human property better than it would guide itself. But one assertion he cannot make: namely, that God is receiving the loyal homage of a life spontaneously devoted; that a man and not a machine is glorifying God in this body and spirit which are God's. For the body is but a chattel. This is why the Christian doctrine of the religious equality of all men in Christ carries with it the political assertion of the equal secular rights of the whole human race. I must not transfer to myself the solemn duty of my neighbour to offer up to God the sacrifice not only of his chastened spirit but also of his obedient life.
 
@@ -1431,7 +1342,7 @@ And these words were also a lifelong admonition to every Israelite. He held his 
 
 Well, it is not otherwise to-day. As truly as Moses, the champions of our British liberties were earnest and God-fearing men. Not for leave to revel, to accumulate enormous fortunes, and to excite by their luxuries the envy and rage of neglected brothers, while possessing more enormous powers to bless them than ever were entrusted to a class,--not for this our heroes bled on the field and on the scaffold. Tyrants rarely deny to rich men leave to be self-indulgent. And self-indulgence rarely nerves men to heroic effort. It is for the freedom of the soul that men dare all things. And liberty is doomed wherever men forget that the true freeman is the servant of Jehovah. On these terms the first demand for a national emancipation was enforced.
 
-And next, Pharaoh is warned that God, who at first threatened to destroy his firstborn, but had hitherto come short of such a deadly stroke, had not, as he might flatter himself, exhausted His power to avenge. Pharaoh should yet experience "all My plagues." And there is a dreadful significance in the phrase which threatens to put these plagues, with regard to others "upon thy servants and upon thy people," but with regard to Pharaoh himself "upon thine heart."
+And next, Pharaoh is warned that God, who at first threatened to destroy his firstborn, but had hitherto come short of such a deadly stroke, had not, as he might flatter himself, exhausted His power to avenge. Pharaoh should yet experience "_all_ My plagues." And there is a dreadful significance in the phrase which threatens to put these plagues, with regard to others "upon thy servants and upon thy people," but with regard to Pharaoh himself "upon thine heart."
 
 There it was that the true scourge smote. Thence came ruin and defeat. His infatuation was more dreadful than hail in the cloud and locusts on the blast, than the darkness at noon and the midnight wail of a bereaved nation. For his infatuation involved all these.
 
@@ -1447,7 +1358,7 @@ To make the connection between Jehovah and the impending storm more obvious stil
 
 In such a storm, the terror was even greater than the peril. When a great writer of our own time called attention to the elaborate machinery by which God in nature impresses man with the sense of a formidable power above, he chose a thunderstorm as the most striking example of his meaning.
 
-"Nothing appears to me more remarkable than the array of scenic magnificence by which the imagination is appalled, in myriads of instances when the actual danger is comparatively small; so that the utmost possible impression of awe shall be produced upon the minds of all, though direct suffering is inflicted upon few. Consider, for instance, the moral effect of a single thunderstorm. Perhaps two or three persons may be struck dead within a space of a hundred square miles; and their death, unaccompanied by the scenery of the storm, would produce little more than a momentary sadness in the busy hearts of living men. But the preparation for the judgment, by all that mighty gathering of the clouds; by the questioning of the forest leaves, in their terrified stillness, which way the winds shall go forth; by the murmuring to each other, deep in the distance, of the destroying angels before they draw their swords of fire; by the march of the funeral darkness in the midst of the noonday, and the rattling of the dome of heaven beneath the chariot wheels of death;--on how many minds do not these produce an impression almost as great as the actual witnessing of the fatal issue! and how strangely are the expressions of the threatening elements fitted to the apprehensions of the human soul! The lurid colour, the long, irregular, convulsive sound, the ghastly shapes of flaming and heaving cloud, are all true and faithful in their appeal to our instinct of danger."--Ruskin, Stones of Venice, III. 197--8.
+"Nothing appears to me more remarkable than the array of scenic magnificence by which the imagination is appalled, in myriads of instances when the actual danger is comparatively small; so that the utmost possible impression of awe shall be produced upon the minds of all, though direct suffering is inflicted upon few. Consider, for instance, the moral effect of a single thunderstorm. Perhaps two or three persons may be struck dead within a space of a hundred square miles; and their death, unaccompanied by the scenery of the storm, would produce little more than a momentary sadness in the busy hearts of living men. But the preparation for the judgment, by all that mighty gathering of the clouds; by the questioning of the forest leaves, in their terrified stillness, which way the winds shall go forth; by the murmuring to each other, deep in the distance, of the destroying angels before they draw their swords of fire; by the march of the funeral darkness in the midst of the noonday, and the rattling of the dome of heaven beneath the chariot wheels of death;--on how many minds do not these produce an impression almost as great as the actual witnessing of the fatal issue! and how strangely are the expressions of the threatening elements fitted to the apprehensions of the human soul! The lurid colour, the long, irregular, convulsive sound, the ghastly shapes of flaming and heaving cloud, are all true and faithful in their appeal to our instinct of danger."--Ruskin, _Stones of Venice_, III. 197-8.
 
 Such a tempest, dreadful anywhere, would be most appalling of all in the serene atmosphere of Egypt, to unaccustomed spectators, and minds troubled by their guilt. Accordingly we find that Pharaoh was less terrified by the absolute mischief done than by the "voices of God," when, unnerved for the moment, he confessed at least that he had sinned "this time" (a singularly weak repentance for his long and daring resistance, even if we explain it, "this time I confess that I have sinned"), and went on in his terror to pour out orthodox phrases and professions with suspicious fluency. The main point was the bargain which he proposed: "Intreat the Lord, for there hath been enough of mighty thunderings and hail; and I will let you go, and ye shall stay no longer."
 
@@ -1455,16 +1366,15 @@ Looking attentively at all this, we discern in it a sad resemblance to some conf
 
 And by these signs, every experienced observer expects that if they are delivered out of trouble they will forget their vows.
 
-Moses was exceedingly meek. And therefore, or else because the message of God implied that other plagues were to succeed this, he consented to intercede, yet adding the simple and dignified protest, "As for thee and thy people, I know that ye will not yet fear Jehovah God." \[17\] And so it came to pass. The heart of Pharaoh was made heavy, and he would not let Israel go.
+Moses was exceedingly meek. And therefore, or else because the message of God implied that other plagues were to succeed this, he consented to intercede, yet adding the simple and dignified protest, "As for thee and thy people, I know that ye will not yet fear Jehovah God." [fn. 17: Except in one passage (Gen. ii. 4 to iii. 23) these titles of Deity are nowhere else combined in the books of Moses.] And so it came to pass. The heart of Pharaoh was made heavy, and he would not let Israel go.
 
-Looking back upon this miracle, we are reminded of the mighty part which atmospheric changes have played in the history of the world. Snowstorms saved Europe from the Turk and from Napoleon: the wind played almost as important a part in our liberation from James, and again in the defeat of the plans of the French Revolution to invade us, as in the destruction of the Armada. And so we read, "Hast thou entered the treasuries of the snow? or hast thou seen the treasuries of the hail, which I have reserved against the time of trouble, against the day of battle and war?" (Job xxxviii. 22--3).
-
+Looking back upon this miracle, we are reminded of the mighty part which atmospheric changes have played in the history of the world. Snowstorms saved Europe from the Turk and from Napoleon: the wind played almost as important a part in our liberation from James, and again in the defeat of the plans of the French Revolution to invade us, as in the destruction of the Armada. And so we read, "Hast thou entered the treasuries of the snow? or hast thou seen the treasuries of the hail, which I have reserved against the time of trouble, against the day of battle and war?" (Job xxxviii. 22-3).
 
 ### Chapter X — The Eighth Plague
 
-x. 1--20.
+**X.** 1-20.
 
-The Lord would not command His servant again to enter the dangerous presence of the sullen prince, without a reason which would sustain his faith: "For I have made heavy his heart." The pronoun is emphatic: it means to say, His foolhardiness is My doing and cannot go beyond My will: thou art safe.' And the same encouragement belongs to all who do the sacred will: not a hair of their head shall truly perish, since life and death are the servants of their God. Thus, in the storm of human passion, as of the winds, He says, "It is I, be not afraid"; making the wrath of man to praise Him, stilling alike the tumult of the waves and the madness of the people.
+The Lord would not command His servant again to enter the dangerous presence of the sullen prince, without a reason which would sustain his faith: "For I have made heavy his heart." The pronoun is emphatic: it means to say, 'His foolhardiness is My doing and cannot go beyond My will: thou art safe.' And the same encouragement belongs to all who do the sacred will: not a hair of their head shall truly perish, since life and death are the servants of their God. Thus, in the storm of human passion, as of the winds, He says, "It is I, be not afraid"; making the wrath of man to praise Him, stilling alike the tumult of the waves and the madness of the people.
 
 It is possible that even the merciful mitigations of the last plague were used by infatuated hearts to justify their wilfulness: the most valuable crops of all had escaped; so that these judgments, however dire, were not quite beyond endurance. Just such a course of reasoning deludes all who forget that the goodness of God leadeth to repentance.
 
@@ -1472,7 +1382,7 @@ Besides the reasons already given for lengthening out the train of judgments, it
 
 Accordingly it became a favourite title--"The Lord which brought thee up out of the land of Egypt." Even the apostates under Sinai would not reject so illustrious a memory: their feast was nominally to Jehovah; and their idol was an image of "the gods which brought thee up out of the land of Egypt" (xxxii. 4, 5).
 
-Has our land no deliverances for which to be thankful? Instead of boastful self-assertion, should we not say, "We have heard with our ears, O God, and our fathers have declared unto us, the noble works that Thou didst in their days and in the old time before them?" Have we forgotten that national mercies call aloud for national thanksgiving? And in the family, and in the secret life of each, are there no rescues, no emancipations, no enemies overcome by a hand not our own, which call for reverent acknowledgment? "These things were our examples, and are written for our admonition."
+Has _our_ land no deliverances for which to be thankful? Instead of boastful self-assertion, should we not say, "We have heard with our ears, O God, and our fathers have declared unto us, the noble works that Thou didst in their days and in the old time before them?" Have we forgotten that national mercies call aloud for national thanksgiving? And in the family, and in the secret life of each, are there no rescues, no emancipations, no enemies overcome by a hand not our own, which call for reverent acknowledgment? "These things were our examples, and are written for our admonition."
 
 The reproof now spoken to Pharaoh is sterner than any previous one. There is no reasoning in it. The demand is peremptory: "How long wilt thou refuse to humble thyself?" With it is a sharp and short command: "Let My people go, that they may serve Me." And with this is a detailed and tremendous threat. It is strange, in the face of the knowledge accumulated since the objection called for it, to remember that once this narrative was challenged, because locusts, it was said, are unknown in Egypt. They are mentioned in the inscriptions. Great misery was caused by them in 1463, and just three hundred years later Niebuhr was himself at Cairo during a plague of them. Equally arbitrary is the objection that Joel predicted locusts "such as there hath not been ever the like, neither shall be any more after them, even to the years of many generations" (ii. 2), whereas we read of these that "before them there were no such locusts as they, neither after them shall be such" (x. 14). The objection is whimsical in its absurdity, when we remember that Joel spoke distinctly of Zion and the holy mountain (ii. 1), and Exodus of "the borders of Egypt" (x. 14).
 
@@ -1490,9 +1400,9 @@ Well, it was quite as hard for the Pharaoh to surrender at discretion, as for th
 
 But he and they have long been in a state of war: menaces, submissions, and treacheries have followed each other fast, and he has no reason to complain if their demands are raised. Moreover, his own nation celebrated religious festivals in company with their wives and children, so that his rejoinder is an empty outburst of rage. And of a Jewish feast it was said, a little later, "Thou shalt rejoice before the Lord thy God, thou and thy son and thy daughter, and thy manservant and thy maidservant ... and the stranger, and the fatherless, and the widow" (Deut. xvi. 11). There was no insincerity in the demand; and although the suspicions of the king were naturally excited by the exultant and ever-rising hopes of the Hebrews, and the defiant attitude of Moses, yet even now there is as little reason to suspect bad faith as to suppose that Israel, once released, could ever have resumed the same abject attitude toward Egypt as before. They would have come back victorious, and therefore ready to formulate new demands; already half emancipated, and therefore prepared for the perfecting of the work.
 
-And now, at a second command as explicit as that which bade him utter the warning, Moses, anxiously watched by many, stretched out his hand over the devoted realm. At the gesture, the spectators felt that a fiat had gone forth. But the result was strangely different from that which followed his invocation, both of the previous and the following plague, when we may believe that as he raised his hand, the hail-storm burst in thunder, and the curtain fell upon the sky. Now there only arose a gentle east wind (unlike the "exceeding strong west wind" that followed), but it blew steadily all that day and all the following night. The forebodings of Egypt would understand it well: the prolonged period during which the curse was being steadily wafted toward them was an awful measure of the wide regions over which the power of Jehovah reached; and when it was morning, the east wind brought the locusts, that dreadful curse which Joel has compared to a disciplined and devastating invader, "the army of the Lord," and the first woe that heralds the Day of the Lord in the Apocalypse (Joel ii. 1--11; Rev. ix. 1--11).
+And now, at a second command as explicit as that which bade him utter the warning, Moses, anxiously watched by many, stretched out his hand over the devoted realm. At the gesture, the spectators felt that a fiat had gone forth. But the result was strangely different from that which followed his invocation, both of the previous and the following plague, when we may believe that as he raised his hand, the hail-storm burst in thunder, and the curtain fell upon the sky. Now there only arose a gentle east wind (unlike the "exceeding strong west wind" that followed), but it blew steadily all that day and all the following night. The forebodings of Egypt would understand it well: the prolonged period during which the curse was being steadily wafted toward them was an awful measure of the wide regions over which the power of Jehovah reached; and when it was morning, the east wind brought the locusts, that dreadful curse which Joel has compared to a disciplined and devastating invader, "the army of the Lord," and the first woe that heralds the Day of the Lord in the Apocalypse (Joel ii. 1-11; Rev. ix. 1-11).
 
-The completeness of the ruin brought a swift surrender, but it has been well said that folly is the wisdom which is only wise too late, and, let us add, too fitfully. If Pharaoh had only submitted before the plague instead of after it! \[18\] If he had only respected himself enough to be faithful, instead of being too vain really to yield!
+The completeness of the ruin brought a swift surrender, but it has been well said that folly is the wisdom which is only wise too late, and, let us add, too fitfully. If Pharaoh had only submitted before the plague instead of after it! [fn. 18: Oddly enough, the same historian already quoted, relating the story of the same day at Leipsic, says of Napoleon's dialogue with M. de Merfeld, that he "used an expression which, if uttered at the Congress of Prague, would have changed his lot and ours. Unfortunately, it was now too late."] If he had only respected himself enough to be faithful, instead of being too vain really to yield!
 
 It is an interesting coincidence that, since he had this time defied the remonstrances of his advisers, his confession of sin is entirely personal: it is no longer, "I and my people are sinners," but "I have sinned against the Lord your God, and against you." This last clause was bitter to his lips, but the need for their intercession was urgent: life and death were at stake upon the removal of this dense cloud of creatures which penetrated everywhere, leaving everywhere an evil odour, and of which a later sufferer complains, "We could not eat, but we bit a locust; nor open our mouths, but locusts filled them."
 
@@ -1506,22 +1416,18 @@ This narrative throws light upon a thousand vows made upon sick beds, but broken
 
 Thoroughness, decision, depth, and self-surrender, needed by Pharaoh, are needed by every soul of man.
 
+THE NINTH PLAGUE.
 
-#### The Ninth Plague
-
-x. 21--29.
+**X.** 21-29.
 
 We have taken it as settled that the Pharaoh of the Exodus was Menephtah, the Beloved of the God Ptah. If so, his devotion to the gods throws a curious light upon his first scorn of Jehovah, and his long continued resistance; and also upon the threat of vengeance to be executed upon the gods of Egypt, as if they were a resisting power. But there is a special significance in the ninth plague, when we connect it with Menephtah.
 
 In the Tombs of the Kings at Thebes there is to be seen, fresh and lifelike, the admirably sculptured effigy of this king--a weak and cruel face, with the receding forehead of his race, but also their nose like a beak, and their sharp chin. Over his head is the inscription--
 
-"Lord of the Two Lands, Beloved of the God Amen;
-
-Lord of Diadems, Beloved of the God Ptah:
-
-Crowned by Amen with dominion of the world:
-
-Cherished by the Sun in the great abode."
+"Lord of the Two Lands, Beloved of the God Amen;  
+Lord of Diadems, Beloved of the God Ptah:  
+Crowned by Amen with dominion of the world:  
+Cherished by the Sun in the great abode."  
 
 This formidable personage is delineated by the court sculptor with his hand stretched out in worship, and under it is written "He adores the Sun: he worships Hor of the solar horizons."
 
@@ -1533,23 +1439,20 @@ There is a terrible abruptness about the coming of the ninth plague. Like the th
 
 But not only is there no announcement: the narrative is so concentrated and brief as to give a graphic rendering of the surprise and terror of the time. Not a word is wasted:--
 
-"The Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness that may be felt. And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: they saw not one another, neither rose any from his place three days; but all the children of Israel had light in their dwellings" (vers. 21--3). We are not told anything of the emotions of the king, as the prophet strides into his presence, and before the cowering court, silently raises his hand and quenches the day. We may infer his temper, if we please, from the frantic outbreak of menace and rage in which he presently warns the man whose coming is the same thing as calamity to see his face no more. Nothing is said, again, about the evil angels by which, according to later narratives, that long night was haunted. \[19\] And after all it is more impressive to think of the blank, utter paralysis of dread in which a nation held its breath, benumbed and motionless, until vitality was almost exhausted, and even Pharaoh chose rather to surrender than to die.
+"The Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness that may be felt. And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days: they saw not one another, neither rose any from his place three days; but all the children of Israel had light in their dwellings" (vers. 21-3). We are not told anything of the emotions of the king, as the prophet strides into his presence, and before the cowering court, silently raises his hand and quenches the day. We may infer his temper, if we please, from the frantic outbreak of menace and rage in which he presently warns the man whose coming is the same thing as calamity to see his face no more. Nothing is said, again, about the evil angels by which, according to later narratives, that long night was haunted. [fn. 19: Such is probably not the meaning in Ps. lxxviii. 49 (see R.V.), though from it the tradition may have sprung.] And after all it is more impressive to think of the blank, utter paralysis of dread in which a nation held its breath, benumbed and motionless, until vitality was almost exhausted, and even Pharaoh chose rather to surrender than to die.
 
 As the people lay cowering in their fear, there was plenty to occupy their minds. They would remember the first dreadful threat, not yet accomplished, to slay their firstborn; and the later assertion that if pestilence had not destroyed them, it was because God would plague them with all His plagues. They would reflect upon all their defeated duties, and how the sun himself was now withdrawn at the waving of the prophet's hand. And then a ghastly foreboding would complete their dread. What was it that darkness typified, in every Oriental nation--nay, in all the world? Death! Job speaks of
 
-"The land of darkness and of the shadow of death;
-
-A land of thick darkness, as darkness itself;
-
-A land of the shadow of death without any order,
-
-And where the light is as darkness" (x. 21, 22).
+"The land of darkness and of the shadow of death;  
+A land of thick darkness, as darkness itself;  
+A land of the shadow of death without any order,  
+And where the light is as darkness" (x. 21, 22).  
 
 With us, a mortal sentence is given in a black cap; in the East, far more expressively, the head of the culprit was covered, and the darkness which thus came upon him expressed his doom. Thus "they covered Haman's face" (Esther vii. 8). Thus to destroy "the face of the covering that is cast over all peoples and the veil that is spread over all nations," is the same thing as to "swallow up death," being the visible destruction of the embodied death-sentence (Isa. xxv. 7, 8). And now this veil was spread over all the radiant land of Egypt. Chill, and hungry, and afraid to move, the worst horror of all that prolonged midnight was the mental agony of dire anticipation.
 
 In other respects there had been far worse calamities, but through its effect upon the imagination this dreadful plague was a fit prelude to the tenth, which it hinted and premonished.
 
-In the Apocryphal Book of Wisdom there is a remarkable study of this plague, regarded as retribution in kind. It avenges the oppression of Israel. "For when unrighteous men thought to oppress the holy nation, they being shut up in their houses, the prisoners of darkness, and fettered with the bonds of a long night, lay exiled from the eternal Providence" (xvii. 2). It expresses in the physical realm their spiritual misery: "For while they supposed to lie hid in their secret sins, they were scattered under a thick veil of forgetfulness" (ver. 3). It retorted on them the illusions of their sorcerers: "as for the illusions of art magick, they were put down.... For they, that promised to drive away terrors and troubles from a sick soul, were sick themselves of fear, worthy to be laughed at" (vers. 7, 8). In another place the Egyptians are declared to be worse than the men of Sodom, because they brought into bondage friends and not strangers, and grievously afflicted those whom they had received with feasting; "therefore even with blindness were these stricken, as those were at the doors of the righteous man." (xix. 14--17). And we may well believe that the long night was haunted with special terrors, if we add this wise explanation: "For wickedness, condemned by her own witness, is very timorous, and being pressed by conscience, always forecasteth grievous things. For"--and this is a sentence of transcendent merit--"fear is nothing else than a betrayal of the succours that reason offereth" (xvii. 11, 12). Therefore it is concluded that their own hearts were their worst tormentors, alarmed by whistling winds, or melodious song of birds, or pleasing fall of waters, "for the whole world shined with clear light, and none were hindered in their labour: over them only was spread a heavy night, an image of that darkness which should afterward receive them: yet were they unto themselves more grievous than the darkness" (vers. 20, 21).
+In the Apocryphal Book of Wisdom there is a remarkable study of this plague, regarded as retribution in kind. It avenges the oppression of Israel. "For when unrighteous men thought to oppress the holy nation, they being shut up in their houses, the prisoners of darkness, and fettered with the bonds of a long night, lay exiled from the eternal Providence" (xvii. 2). It expresses in the physical realm their spiritual misery: "For while they supposed to lie hid in their secret sins, they were scattered under a thick veil of forgetfulness" (ver. 3). It retorted on them the illusions of their sorcerers: "as for the illusions of art magick, they were put down.... For they, that promised to drive away terrors and troubles from a sick soul, were sick themselves of fear, worthy to be laughed at" (vers. 7, 8). In another place the Egyptians are declared to be worse than the men of Sodom, because they brought into bondage friends and not strangers, and grievously afflicted those whom they had received with feasting; "therefore even with blindness were these stricken, as those were at the doors of the righteous man." (xix. 14-17). And we may well believe that the long night was haunted with special terrors, if we add this wise explanation: "For wickedness, condemned by her own witness, is very timorous, and being pressed by conscience, always forecasteth grievous things. For"--and this is a sentence of transcendent merit--"fear is nothing else than a betrayal of the succours that reason offereth" (xvii. 11, 12). Therefore it is concluded that their own hearts were their worst tormentors, alarmed by whistling winds, or melodious song of birds, or pleasing fall of waters, "for the whole world shined with clear light, and none were hindered in their labour: over them only was spread a heavy night, an image of that darkness which should afterward receive them: yet were they unto themselves more grievous than the darkness" (vers. 20, 21).
 
 Isaiah, too, who is full of allusions to the early history of his people, finds in this plague of darkness an image of all mental distress and spiritual gloom. "We look for light, but behold darkness; for brightness, but we walk in obscurity: we grope for the wall like the blind, yea, we grope as those that have no eyes: we stumble at noonday as in the twilight" (lix. 10). Here the sinful nation is reduced to the misery of Egypt. But if she were obedient she would enjoy all the immunities of her forefathers amid Egyptian gloom: "Then shall thy light rise in darkness and thy obscurity as the noonday" (lviii. 10); "Darkness shall cover the earth, and gross darkness the people, but the Lord shall arise upon thee, and His glory shall be seen upon thee" (lx. 2).
 
@@ -1561,14 +1464,13 @@ In the conduct of the prophet, all through these stormy scenes, we see the diffe
 
 In the series of sharp contrasts, all the true dignity is with the servant of God, all the meanness and the shame with the proud king, who begins by insulting him, goes on to impose on him, and ends by the most ignominious of surrenders, crowned with the most abortive of treacheries and the most abject of defeats.
 
-
 ### Chapter XI — The Last Plague Announced
 
-xi. 1--10.
+Xi. 1-10.
 
 The eleventh chapter is, strictly speaking, a supplement to the tenth: the first verses speak, as if in parenthesis, of a revelation made before the ninth plague, but held over to be mentioned in connection with the last, which it now announces; and the conversation with Pharaoh is a continuation of the same in which they mutually resolved to see each other's face no more. To account for the confidence of Moses, we are now told that God had revealed to him the close approach of the final blow, so long foreseen. In spite of seeming delays, the hour of the promise had arrived; in spite of his long reluctance, the king should even thrust them out; and then the order and discipline of their retreat would exhibit the advantages gained by expectation, by promises ofttimes disappointed, but always, like a false alarm which tries the readiness of a garrison, exhibiting the weak points in their organisation, and carrying their preparations farther.
 
-The command given already to the women (iii. 22) is now extended to them all--that they should ask of the terror-stricken people such portable things as, however precious, poorly requited their generations of unpaid and cruel toil. (It has been already shown that the word absurdly rendered "borrow" means to ask; and is the same as when Sisera asked water and Jael gave him milk, and when Solomon asked wisdom, and did not ask long life, neither asked riches, neither asked the life of his enemies.) They were now to claim such wages as they could carry off, and thus the pride of Egypt was presently dedicated to construct and beautify the tabernacle of Jehovah. We read that the people found favour with the Egyptians, who were doubtless overjoyed to come to any sort of terms with them; "moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people." This is no unbecoming vaunt: it speaks only of the high place he held, as God's deputy and herald; and this tone of keen appreciation of the rank conceded him, compared with the utter absence of any insistence upon any action of his own, is evidence much rather of the authenticity of the work than the reverse.
+The command given already to the women (iii. 22) is now extended to them all--that they should ask of the terror-stricken people such portable things as, however precious, poorly requited their generations of unpaid and cruel toil. (It has been already shown that the word absurdly rendered "borrow" means to ask; and is the same as when Sisera _asked_ water and Jael gave him milk, and when Solomon _asked_ wisdom, and did not _ask_ long life, neither _asked_ riches, neither _asked_ the life of his enemies.) They were now to claim such wages as they could carry off, and thus the pride of Egypt was presently dedicated to construct and beautify the tabernacle of Jehovah. We read that the people found favour with the Egyptians, who were doubtless overjoyed to come to any sort of terms with them; "moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people." This is no unbecoming vaunt: it speaks only of the high place he held, as God's deputy and herald; and this tone of keen appreciation of the rank conceded him, compared with the utter absence of any insistence upon any action of his own, is evidence much rather of the authenticity of the work than the reverse.
 
 By these demands expectation and faith were intensified; while the tidings of such confidence on one side, and such tame submission on the other, goes far to explain the suspicions and the rage of Pharaoh.
 
@@ -1576,14 +1478,13 @@ With this the narrative is resumed. Moses had said, "Thou shalt see my face no m
 
 The ninth and tenth verses are a kind of summary: the appeals to Pharaoh are all over, and henceforth we shall find Moses preparing his own followers for their exodus. "And the Lord (had) said unto Moses, Pharaoh will not hearken unto you, that My wonders may be multiplied in the land of Egypt. And Moses and Aaron did all these wonders before Pharaoh; and the Lord made strong Pharaoh's heart, and he did not let the children of Israel go out of his land."
 
-In the Gospel of St. John there comes just such a period. The record of miracle and controversy is at an end, and Jesus withdraws into the bosom of His intimate circle. It is scarcely possible that the evangelist was unconscious of the influence of this passage when he wrote: "But though He had done so many signs before them, yet they believed not on Him, that the word of Isaiah the prophet might be fulfilled which he spoke, Lord, who hath believed our report?... For this cause they could not believe, because that Isaiah said again, He hath blinded their eyes and hardened their heart, lest they should see with their eyes and perceive with their heart, and should turn, and I should heal them" (John xii. 37--40).
+In the Gospel of St. John there comes just such a period. The record of miracle and controversy is at an end, and Jesus withdraws into the bosom of His intimate circle. It is scarcely possible that the evangelist was unconscious of the influence of this passage when he wrote: "But though He had done so many signs before them, yet they believed not on Him, that the word of Isaiah the prophet might be fulfilled which he spoke, Lord, who hath believed our report?... For this cause they could not believe, because that Isaiah said again, He hath blinded their eyes and hardened their heart, lest they should see with their eyes and perceive with their heart, and should turn, and I should heal them" (John xii. 37-40).
 
 This is the tragedy of Egypt repeated in Israel; and the fact that the chosen seed is now the reprobate suffices, if any doubt remain, to prove that reprobation itself was not caprice, but retribution.
 
-
 ### Chapter XII — The Passover
 
-xii. 1--28.
+Xii. 1-28.
 
 We have now reached the birthday of the great Hebrew nation, and with it the first national institution, the feast of passover, which is also the first sacrifice of directly Divine institution, the earliest precept of the Hebrew legislation, and the only one given in Egypt.
 
@@ -1595,13 +1496,13 @@ Now for the first time we read of "the congregation of Israel" (xii. 3, 6), whic
 
 Accordingly, the feast might not be celebrated by any solitary man. Companionship was vital to it. At every table one animal, complete and undissevered, should give to the feast a unity of sentiment; and as many should gather around as were likely to leave none of it uneaten. Neither might any of it be reserved to supply a hasty ration amid the confusion of the predicted march. The feast was to be one complete event, whole and perfect as the unity which it expressed. The very notion of a people is that of "community" in responsibilities, joys, and labours; and the solemn law by virtue of which, at this same hour, one blow will fall upon all Egypt, must now be accepted by Israel. Therefore loneliness at the feast of Passover is by the law, as well as in idea, impossible to any Jew. Every one can see the connection between this festival of unity and another, of which it is written, "We, being many, are one body, one loaf, for we are all partakers of that one loaf."
 
-Now, the sentiment of nationality may so assert itself, like all exaggerated sentiments, as to assail others equally precious. In this century we have seen a revival of the Spartan theories which sacrificed the family to the state. Socialism and the phalanstère have proposed to do by public organisation, with the force of law, what natural instinct teaches us to leave to domestic influences. It is therefore worthy of notice that, as the chosen nation is carefully traced by revelation back to a holy family, so the national festival did not ignore the family tie, but consecrated it. The feast was to be eaten "according to their fathers' houses"; if a family were too small, it was to the "neighbour next unto his house" that each should turn for co-operation; and the patriotic celebration was to live on from age to age by the instruction which parents should carefully give their children (xii. 3, 26, xiii. 8).
+Now, the sentiment of nationality may so assert itself, like all exaggerated sentiments, as to assail others equally precious. In this century we have seen a revival of the Spartan theories which sacrificed the family to the state. Socialism and the _phalanstère_ have proposed to do by public organisation, with the force of law, what natural instinct teaches us to leave to domestic influences. It is therefore worthy of notice that, as the chosen nation is carefully traced by revelation back to a holy family, so the national festival did not ignore the family tie, but consecrated it. The feast was to be eaten "according to their fathers' houses"; if a family were too small, it was to the "neighbour next unto his house" that each should turn for co-operation; and the patriotic celebration was to live on from age to age by the instruction which parents should carefully give their children (xii. 3, 26, xiii. 8).
 
 The first ordinance of the Jewish religion was a domestic service. And this arrangement is divinely wise. Never was a nation truly prosperous or permanently strong which did not cherish the sanctities of home. Ancient Rome failed to resist the barbarians, not because her discipline had degenerated, but because evil habits in the home had ruined her population. The same is notoriously true of at least one great nation to-day. History is the sieve of God, in which He continually severs the chaff from the grain of nations, preserving what is temperate and pure and calm, and therefore valorous and wise.
 
 In studying the institution of the Passover, with its profound typical analogies, we must not overlook the simple and obvious fact that God built His nation upon families, and bade their great national institution draw the members of each home together.
 
-The national character of the feast is shown further because no Egyptian family escaped the blow. Opportunities had been given to them to evade some of the previous plagues. When the hail was announced, "he that feared the word of the Lord among the servants of Pharaoh made his servants and his cattle flee into the house"; and this renders the national solidarity, the partnership even of the innocent in the penalties of a people's guilt, the community' of a nation, more apparent now. There was not a house where there was not one dead. The mixed multitude which came up with Israel came not because they had shared his exemptions, but because they dared not stay. It was an object-lesson given to Israel, which might have warned all his generations.
+The national character of the feast is shown further because no Egyptian family escaped the blow. Opportunities had been given to them to evade some of the previous plagues. When the hail was announced, "he that feared the word of the Lord among the servants of Pharaoh made his servants and his cattle flee into the house"; and this renders the national solidarity, the partnership even of the innocent in the penalties of a people's guilt, the 'community' of a nation, more apparent now. There was not a house where there was not one dead. The mixed multitude which came up with Israel came not because they had shared his exemptions, but because they dared not stay. It was an object-lesson given to Israel, which might have warned all his generations.
 
 And if there is hideous vice in our own land to-day, or if the contrasts of poverty and wealth are so extreme that humanity is shocked by so much luxury insulting so much squalor,--if in any respect we feel that our own land, considering its supreme advantages, merits the wrath of God for its unworthiness,--then we have to fear and strive, not through public spirit alone, but as knowing that the chastisement of nations falls upon the corporate whole, upon us and upon our children.
 
@@ -1615,19 +1516,19 @@ But neither may we overlook the first palpable significance of any institution. 
 
 What, then, might a pious and well-instructed Israelite discern beneath the surface of this institution?
 
-To this question there have been many discordant answers, and the variance is by no means confined to unbelieving critics. Thus, a distinguished living expositor says in connection with the Paschal institution, "We speak not of blood as it is commonly understood, but of blood as the life, the love, the heart,--the whole quality of Deity." But it must be answered that Deity is the last suggestion which blood would convey to a Jewish mind: distinctly it is creature-life that it expresses; and the New Testament commentators make it plain that no other notion had even then evolved itself: they think of the offering of the Body of Jesus Christ, not of His Deity. \[20\] Neither of this feast, nor of that which the gospel of Jesus has evolved from it, can we find the solution by forgetting that the elements of the problem are, not deity, but a Body and Blood.
+To this question there have been many discordant answers, and the variance is by no means confined to unbelieving critics. Thus, a distinguished living expositor says in connection with the Paschal institution, "We speak not of blood as it is commonly understood, but of blood as the life, the love, the heart,--the whole quality of Deity." But it must be answered that Deity is the last suggestion which blood would convey to a Jewish mind: distinctly it is creature-life that it expresses; and the New Testament commentators make it plain that no other notion had even then evolved itself: they think of the offering of the Body of Jesus Christ, not of His Deity. [fn. 20: Though of course the Person Whose Body was thus offered is Divine (Acts xx. 28), and this gives inestimable value to the offering.] Neither of this feast, nor of that which the gospel of Jesus has evolved from it, can we find the solution by forgetting that the elements of the problem are, not deity, but a Body and Blood.
 
 But when we approach the theories of rationalistic thinkers, we find a perfect chaos of rival speculations.
 
-We are told that the Hebrew feasts were really agricultural--"Harvest festivals," and that the epithet Passover had its origin in the passage of the sun into Aries. But this great festival had a very secondary and subordinate connection with harvest (only the waving of a sheaf upon the second day) while the older calendar which was displaced to do it honour was truly agricultural, as may still be seen by the phrase, "The feast of ingathering at the end of the year, when thou gatherest in thy labours out of the field" (Exod. xxiii. 16).
+We are told that the Hebrew feasts were really agricultural--"Harvest festivals," and that the epithet Passover had its origin in the passage of the sun into Aries. But this great festival had a very secondary and subordinate connection with harvest (only the waving of a sheaf upon the second day) while the older calendar which was displaced to do it honour was truly agricultural, as may still be seen by the phrase, "The feast of ingathering _at the end of the year_, when thou gatherest in thy labours out of the field" (Exod. xxiii. 16).
 
 In dealing with unbelief we must look at things from the unbelieving angle of vision. No sceptical theory has any right to invoke for its help a special and differentiating quality in Hebrew thought. Reject the supernatural, and the Jewish religion is only one among a number of similar creations of the mind of man "moving about in worlds unrecognised." And therefore we must ask, What notions of sacrifice were entertained, all around, when the Hebrew creed was forming itself?
 
-Now, we read that "in the early days ... a sacrifice was a meal.... Year after year, the return of vintage, corn-harvest, and sheep-shearing brought together the members of the household to eat and drink in the presence of Jehovah.... When an honoured guest arrives there is slaughtered for him a calf, not without an offering of the blood and fat to the Deity" (Wellhausen, Israel, p. 76). Of the sense of sin and propitiation "the ancient sacrifices present few traces.... An underlying reference of sacrifice to sin, speaking generally, was entirely absent. The ancient sacrifices were wholly of a joyous nature--a merry-making before Jehovah with music" (ibid., p. 81).
+Now, we read that "in the early days ... a sacrifice was a meal.... Year after year, the return of vintage, corn-harvest, and sheep-shearing brought together the members of the household to eat and drink in the presence of Jehovah.... When an honoured guest arrives there is slaughtered for him a calf, not without an offering of the blood and fat to the Deity" (Wellhausen, _Israel_, p. 76). Of the sense of sin and propitiation "the ancient sacrifices present few traces.... An underlying reference of sacrifice to sin, speaking generally, was entirely absent. The ancient sacrifices were wholly of a joyous nature--a merry-making before Jehovah with music" (_ibid._, p. 81).
 
-We are at once confronted by the question, Where did the Jewish nation come by such a friendly conception of their deity? They had come out of Egypt, where human sacrifices were not rare. They had settled in Palestine, where such idyllic notions must have been as strange as in modern Ashantee. And we are told that human sacrifices (such as that of Isaac and of Jephthah's daughter) belong to this older period (p. 69). Are they joyous and festive? are they not an endeavour, by the offering up of something precious, to reconcile a Being Who is estranged? With our knowledge of what existed in Israel in the period confessed to be historical, and of the meaning of sacrifices all around in the period supposed to be mythical, and with the admission that human sacrifices must be taken into account, it is startling to be asked to believe that Hebrew sacrifices, with all their solemn import and all their freight of Christian symbolism, were originally no more than a gift to the Deity of a part of some happy banquet.
+We are at once confronted by the question, Where did the Jewish nation come by such a friendly conception of their deity? They had come out of Egypt, where human sacrifices were not rare. They had settled in Palestine, where such idyllic notions must have been as strange as in modern Ashantee. And we are told that human sacrifices (such as that of Isaac and of Jephthah's daughter) belong to this older period (p. 69). Are _they_ joyous and festive? are they not an endeavour, by the offering up of something precious, to reconcile a Being Who is estranged? With our knowledge of what existed in Israel in the period confessed to be historical, and of the meaning of sacrifices all around in the period supposed to be mythical, and with the admission that human sacrifices must be taken into account, it is startling to be asked to believe that Hebrew sacrifices, with all their solemn import and all their freight of Christian symbolism, were originally no more than a gift to the Deity of a part of some happy banquet.
 
-It is quite plain that no such theory can be reconciled with the story of the first passover. And accordingly this is declared to be non-historical, and to have originated in the time of the later kings. The offering of the firstborn is only "the expression of thankfulness to the Deity for fruitful flocks and herds. If claim is also laid to the human firstborn, this is merely a later generalisation" (Wellhausen, p. 88). \[21\]
+It is quite plain that no such theory can be reconciled with the story of the first passover. And accordingly this is declared to be non-historical, and to have originated in the time of the later kings. The offering of the firstborn is only "the expression of thankfulness to the Deity for fruitful flocks and herds. If claim is also laid to the human firstborn, this is merely a later generalisation" (Wellhausen, p. 88). [fn. 21: Here the sceptical theorists are widely divided among themselves. Kuenen has discussed this whole theory, and rejected it as "irreconcilable with what the Old Testament itself asserts in justification of this sacrifice." And he is driven to connect it with the notion of atonement. "Jahveh appears as a severe being who must be propitiated with sacrifices." He has therefore to introduce the notion of human sacrifice, in order to get rid of the connection with the penal death of the Egyptians, and of the miraculous, which this example would establish. (_Religion of Israel_, Eng. Trans., i., 239, 240.)]
 
 But this claim is by no means the only stumbling-block in the way of the theory, serious a stumbling-block though it be. How came the bright festival to be spoiled by bitter herbs and "bread of affliction"? Is it natural that a merry feast should grow more austere as time elapses? Do we not find it hard enough to prevent the most sacred festivals from reversing the supposed process, and degenerating into revels? And is not this the universal experience, from San Francisco to Bombay? Why was the mandate given to sprinkle the door of every house with blood, if the story originated after the feast had been centralised in Jerusalem, when, in fact, this precept had to be set aside as impracticable, their homes being at a distance? Why, again, were they bidden to slaughter the lamb "between the two evenings" (Exod. xii. 6)--that is to say, between sunset and the fading out of the light--unless the story was written long before such numbers had to be dealt with that the priests began to slaughter early in the afternoon, and continued until night? Why did the narrative set forth that every man might slaughter for his own house (a custom which still existed in the time of Hezekiah, when the Levites only slaughtered "the passovers" for those who were not ceremonially clean, 2 Chron. xxx. 17), if there were no stout and strong historical foundation for the older method?
 
@@ -1643,17 +1544,17 @@ But he would also learn that the exemption which he did not possess by right (al
 
 Nor was the salvation without price. It was not a prayer nor a fast which bought it, but a life. The conviction that a redemption was necessary if God should be at once just and a justifier of the ungodly sprang neither from a later hairsplitting logic, nor from a methodising theological science; it really lay upon the very surface of this and every offering for sin, as distinguished from those offerings which expressed the gratitude of the accepted.
 
-We have not far to search for evidence that the lamb was really regarded as a substitute and ransom. The assertion is part and parcel of the narrative itself. For, in commemoration of this deliverance, every firstborn of Israel, whether of man or beast, was set apart unto the Lord. The words are, "Thou shall cause to pass over unto the Lord all that openeth the womb, and every firstling which thou hast that cometh of a beast; the males shall be the Lord's" (xiii. 12). What, then, should be done with the firstborn of a creature unfit for sacrifice? It should be replaced by a clean offering, and then it was said to be redeemed. Substitution or death was the inexorable rule. "Every firstborn of an ass thou shalt redeem with a lamb, and if thou wilt not redeem it, then thou shalt break its neck." The meaning of this injunction is unmistakable. But it applies also to man: "All thy firstborn of man among thy sons thou shalt redeem." And when their sons should ask "What meaneth this?" they were to explain that when Pharaoh hardened himself against letting them go from Egypt, "the Lord slew all the firstborn in the land; ... therefore I sacrifice to the Lord all that openeth the womb being males; but all the firstborn of my sons I redeem" (xiii. 12--15).
+We have not far to search for evidence that the lamb was really regarded as a substitute and ransom. The assertion is part and parcel of the narrative itself. For, in commemoration of this deliverance, every firstborn of Israel, whether of man or beast, was set apart unto the Lord. The words are, "Thou shall cause to PASS OVER unto the Lord all that openeth the womb, and every firstling which thou hast that cometh of a beast; the males shall be the Lord's" (xiii. 12). What, then, should be done with the firstborn of a creature unfit for sacrifice? It should be replaced by a clean offering, and then it was said to be redeemed. Substitution or death was the inexorable rule. "Every firstborn of an ass thou shalt redeem with a lamb, and if thou wilt not redeem it, then thou shalt break its neck." The meaning of this injunction is unmistakable. But it applies also to man: "All thy firstborn of man among thy sons thou shalt redeem." And when their sons should ask "What meaneth this?" they were to explain that when Pharaoh hardened himself against letting them go from Egypt, "the Lord slew all the firstborn in the land; ... therefore I sacrifice to the Lord all that openeth the womb being males; but all the firstborn of my sons I redeem" (xiii. 12-15).
 
-Words could not more plainly assert that the lives of the firstborn of Israel were forfeited, that they were bought back by the substitution of another creature, which died instead, and that the transaction answered to the Passover ("thou shalt cause to pass over unto the Lord"). Presently the tribe of Levi was taken "instead of all the firstborn of the children of Israel." But since there were two hundred and seventy-three of such firstborn children over and above the number of the Levites, it became necessary to "redeem" these; and this was actually done by a cash payment of five shekels apiece. Of this payment the same phrase is used: it is "redemption-money"--the money wherewith the odd number of them is redeemed (Num. iii. 44--51).
+Words could not more plainly assert that the lives of the firstborn of Israel were forfeited, that they were bought back by the substitution of another creature, which died instead, and that the transaction answered to the Passover ("thou shalt cause to pass over unto the Lord"). Presently the tribe of Levi was taken "instead of all the firstborn of the children of Israel." But since there were two hundred and seventy-three of such firstborn children over and above the number of the Levites, it became necessary to "redeem" these; and this was actually done by a cash payment of five shekels apiece. Of this payment the same phrase is used: it is "redemption-money"--the money wherewith the odd number of them is redeemed (Num. iii. 44-51).
 
 The question at present is not whether modern taste approves of all this, or resents it: we are simply inquiring whether an ancient Jew was taught to think of the lamb as offered in his stead.
 
-And now let it be observed that this idea has sunk deep into all the literature of Palestine. The Jews are not so much the beloved of Jehovah as His redeemed--"Thy people whom Thou hast redeemed" (1 Chron. xvii. 21). In fresh troubles the prayer is, "Redeem Israel, O Lord" (Ps. xxv. 22), and the same word is often used where we have ignored the allusion and rendered it "Deliver me because of mine enemies ... deliver me from the oppression of men" (Ps. lxix. 18, cxix. 134). And the future troubles are to end in a deliverance of the same kind: "The ransomed of the Lord shall return and come with singing unto Zion" (Isa. xxxv. 10, li. 11); and at the last "I will ransom them from the power of the grave" (Hos. xiii. 14). In all these places, the word is the same as in this narrative.
+And now let it be observed that this idea has sunk deep into all the literature of Palestine. The Jews are not so much the beloved of Jehovah as His redeemed--"Thy people whom Thou hast redeemed" (1 Chron. xvii. 21). In fresh troubles the prayer is, "Redeem Israel, O Lord" (Ps. xxv. 22), and the same word is often used where we have ignored the allusion and rendered it "_Deliver_ me because of mine enemies ... _deliver_ me from the oppression of men" (Ps. lxix. 18, cxix. 134). And the future troubles are to end in a deliverance of the same kind: "The _ransomed_ of the Lord shall return and come with singing unto Zion" (Isa. xxxv. 10, li. 11); and at the last "I will _ransom_ them from the power of the grave" (Hos. xiii. 14). In all these places, the word is the same as in this narrative.
 
 It is not too much to say that if modern theology were not affected by this ancient problem, if we regarded the creed of the Hebrews simply as we look at the mythologies of other peoples, there would be no more doubt that the early Jews believed in propitiatory sacrifice than that Phoenicians did. We should simply admire the purity, the absence of cruel and degrading accessories, with which this most perilous and yet humbling and admonitory doctrine was held in Israel.
 
-The Christian applications of this doctrine must be considered along with the whole question of the typical character of the history. But it is not now premature to add, that even in the Old Testament there is abundant evidence that the types were semi-transparent, and behind them something greater was discerned, so that after it was written "Bring no more vain oblations," Isaiah could exclaim, "The Lord hath laid on Him the iniquity of us all. He was led as a lamb to the slaughter. When Thou shalt make His soul a trespass-offering He shall see His seed" (Isa. i. 13, liii. 6, 7, 10). And the full power of this last verse will only be felt when we remember the statement made elsewhere of the principle which underlay the sacrifices: "the life (or soul) of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that maketh atonement by reason of the life" (or "soul"--Lev. xvii. 11, R.V.) It is even startling to read the two verses together: "Thou shalt make His soul a trespass-offering;" "The blood maketh atonement by reason of the soul ... the soul of the flesh is in the blood." \[22\]
+The Christian applications of this doctrine must be considered along with the whole question of the typical character of the history. But it is not now premature to add, that even in the Old Testament there is abundant evidence that the types were semi-transparent, and behind them something greater was discerned, so that after it was written "Bring no more vain oblations," Isaiah could exclaim, "The Lord hath laid on Him the iniquity of us all. He was led as a lamb to the slaughter. When Thou shalt make His soul a trespass-offering He shall see His seed" (Isa. i. 13, liii. 6, 7, 10). And the full power of this last verse will only be felt when we remember the statement made elsewhere of the principle which underlay the sacrifices: "the life (_or_ soul) of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that maketh atonement by reason of the life" (_or_ "soul"--Lev. xvii. 11, R.V.) It is even startling to read the two verses together: "Thou shalt make His soul a trespass-offering;" "The blood maketh atonement by reason of the soul ... the soul of the flesh is in the blood." [fn. 22: The astonishing significance of this declaration would only be deepened if we accepted the theories now so fashionable, and believed that the later passage in Isaiah was the fruit of a period when the full-blown Priestly Code was in process of development out of "the small body of legislation contained in Lev. xvii.--xxvi." What a strange time for such a spiritual application of sacrificial language!]
 
 It is still more impressive to remember that a Servant of Jehovah has actually arisen in Whom this doctrine has assumed a form acceptable to the best and holiest intellects and consciences of ages and civilisations widely remote from that in which it was conceived.
 
@@ -1679,11 +1580,11 @@ But now it has to be observed that throughout the poetic literature the people i
 
 It is impossible that this incongruity could be devised, for the sake of plausibility, in a narrative which rested on no solid basis. It goes far to establish what has been so anxiously denied--the reality of the centralised worship in the time of Hezekiah. And it also establishes the great doctrine that priesthood was held not by a superior caste, but on behalf of the whole nation, in whom it was theoretically vested, and for whom the priest acted, so that they were "a nation of priests."
 
-(Ver. 8.) The use of unleavened bread is distinctly said to be in commemoration of their haste-- "for thou camest out of Egypt in haste" (Deut. xvi. 3)--but it does not follow that they were forced by haste to eat their bread unleavened at the first. It was quite as easy to prepare leavened bread as to provide the paschal lamb four days previously.
+(Ver. 8.) The use of unleavened bread is distinctly said to be in commemoration of their haste--"for thou camest out of Egypt in haste" (Deut. xvi. 3)--but it does not follow that they were forced by haste to eat their bread unleavened at the first. It was quite as easy to prepare leavened bread as to provide the paschal lamb four days previously.
 
 We may therefore seek for some further explanation, and this we find in the same verse in Deuteronomy, in the expression "bread of affliction." They were to receive the meat of passover with a reproachful sense of their unworthiness: humbly, with bread of affliction and with bitter herbs.
 
-Moreover, we learn from St. Paul that unleavened bread represents simplicity and truth; and our Lord spoke of the leaven of the Pharisees and of Herod (Mark viii. 15). And this is not only because leaven was supposed to be of the same nature as corruption. We ourselves always mean something unworthy when we speak of mixed motives, possible though it be to act from two motives, both of them high-minded. Now, leaven represents mixture in its most subtle and penetrating form.
+Moreover, we learn from St. Paul that unleavened bread represents simplicity and truth; and our Lord spoke of the leaven of the Pharisees and of Herod (Mark viii. 15). And this is not only because leaven was supposed to be of the same nature as corruption. We ourselves always mean something unworthy when we speak of _mixed_ motives, possible though it be to act from two motives, both of them high-minded. Now, leaven represents mixture in its most subtle and penetrating form.
 
 The paschal feast did not express any such luxurious and sentimental religionism as finds in the story of the cross an easy joy, or even a delicate and pleasing stimulus for the softer emotions, "a very lovely song of one that hath a pleasant voice, and playeth well on an instrument." No, it has vigour and nourishment for those who truly hunger, but its bread is unfermented, and it must be eaten with bitter herbs.
 
@@ -1693,7 +1594,7 @@ The paschal feast did not express any such luxurious and sentimental religionism
 
 (Ver. 12.) In describing the coming wrath, we understand the inclusion equally of innocent and guilty men, because it is thus that all national vengeance operates; and we receive the benefits of corporate life at the cost, often heavy, of its penalties. The animal world also has to suffer with us; the whole creation groaneth together now, and all expects together the benefit of our adoption hereafter. But what were the judgments against the idols of Egypt, which this verse predicts, and another (Num. xxxiii. 4) declares to be accomplished? They doubtless consisted chiefly in the destruction of sacred animals, from the beetle and the frog to the holy ox of Apis--from the cat, the monkey, and the dog, to the lion, the hippopotamus, and the crocodile. In their overthrow a blow was dealt which shook the whole system to its foundation; for how could the same confidence be felt in sacred images when all the sacred beasts had once been slain by a rival invisible Spiritual Being! And more is implied than that they should share the common desolation: the text says plainly, of men and beasts the firstborn must die, but all of these. The difference in the phrase is obvious and indisputable; and in its fulfilment all Egypt saw the act of a hostile and victorious deity.
 
-(Ver. 13.) "And the blood shall be to you for a token upon the houses where ye are." That it was a token to the destroying angel we see plainly; but why to them? Is it enough to explain the assertion, with some, as meaning, upon their behalf? Rather let us say that the publicity, the exhibition upon their doorposts of the sacrifice offered within, was not to inform and guide the angel, but to edify the people. They should perform an open act of faith. Their houses should be visibly set apart. "With the mouth confession" (of faith) "is made unto salvation," unto that deliverance from a hundred evasions and equivocations, and as many inward doubts and hesitations, which comes when any decisive act is done, when the die is cast and the Rubicon crossed. A similar effect upon the mind, calming and steadying it, was produced when the Israelite carried out the blood of the lamb, and by sprinkling it upon the doorpost formally claimed his exemption, and returned with the consciousness that between him and the imminent death a visible barrier interposed itself.
+(Ver. 13.) "And the blood shall be to you for a token upon the houses where ye are." That it was a token to the destroying angel we see plainly; but why _to them?_ Is it enough to explain the assertion, with some, as meaning, upon their behalf? Rather let us say that the publicity, the exhibition upon their doorposts of the sacrifice offered within, was not to inform and guide the angel, but to edify the people. They should perform an open act of faith. Their houses should be visibly set apart. "With the mouth confession" (of faith) "is made unto salvation," unto that deliverance from a hundred evasions and equivocations, and as many inward doubts and hesitations, which comes when any decisive act is done, when the die is cast and the Rubicon crossed. A similar effect upon the mind, calming and steadying it, was produced when the Israelite carried out the blood of the lamb, and by sprinkling it upon the doorpost formally claimed his exemption, and returned with the consciousness that between him and the imminent death a visible barrier interposed itself.
 
 Will any one deny that a similar help is offered to us of the later Church in our many opportunities of avowing a fixed and personal belief? Whoever refuses to comply with an unholy custom because he belongs to Christ, whoever joins heartily in worship at the cost of making himself remarkable, whoever nerves himself to kneel at the Holy Table although he feels himself unworthy, that man has broken through many snares; he has gained assurance that his choice of God is a reality: he has shown his flag; and this public avowal is not only a sign to others, but also a token to himself.
 
@@ -1703,7 +1604,7 @@ And in the day of our peril what shall be our reliance? That our doors are trodd
 
 Therefore (ver. 22) the blood was sprinkled with hyssop, of which the light and elastic sprays were admirably suited for such use, but which was reserved in the Law for those sacrifices which expiated sin (Lev. xiv. 49; Num. xix. 18, 19). And therefore also none should go forth out of his house until the morning, for we are not to content ourselves with having once invoked the shelter of God: we are to abide under its protection while danger lasts.
 
-And (ver. 23) upon the condition of this marking of their doorposts the Lord should pass over their houses. The phrase is noteworthy, because it recurs throughout the narrative, being employed nine times in this chapter; and because the same word is found in Isaiah, again in contrast with the ruin of others, and with an interesting and beautiful expansion of the hovering poised notion which belongs to the word. \[23\]
+And (ver. 23) upon the condition of this marking of their doorposts the Lord should _pass over_ their houses. The phrase is noteworthy, because it recurs throughout the narrative, being employed nine times in this chapter; and because the same word is found in Isaiah, again in contrast with the ruin of others, and with an interesting and beautiful expansion of the hovering poised notion which belongs to the word. [fn. 23: So that it is used equally of the slow action of the lame, and of the lingering movements of the false prophets when there was none to answer (2 Sam. iv. 4; 1 Kings xviii. 26). "The Lord of Hosts shall come down to fight upon Mount Zion.... As birds flying, so will the Lord of Hosts protect Jerusalem; He will PASS OVER and preserve it" (Isa. xxxi. 4, 5).]
 
 Repeated commandments are given to parents to teach the meaning of this institution to their children, (xii. 26, xiii. 8). And there is something almost cynical in the notion of a later mythologist devising this appeal to a tradition which had no existence at all; enrolling, in support of his new institutions, the testimony (which had never been borne) of fathers who had never taught any story of the kind.
 
@@ -1713,16 +1614,15 @@ When all these instructions were given to Israel, the people bowed their heads a
 
 On these terms, they cannot be Christ's disciples.
 
-It is apparently the mention of a mixed multitude, who came with Israel out of Egypt, which suggests the insertion, in a separate and dislocated paragraph, of the law of the passover concerning strangers (vers. 38, 43--49).
+It is apparently the mention of a mixed multitude, who came with Israel out of Egypt, which suggests the insertion, in a separate and dislocated paragraph, of the law of the passover concerning strangers (vers. 38, 43-49).
 
 An alien was not to eat thereof: it belonged especially to the covenant people. But who was a stranger? A slave should be circumcised and eat thereof; for it was one of the benignant provisions of the law that there should not be added, to the many severities of his condition, any religious disabilities. The time would come when all nations should be blessed in the seed of Abraham. In that day the poor would receive a special beatitude; and in the meantime, as the first indication of catholicity beneath the surface of an exclusive ritual, it was announced, foremost among those who should be welcomed within the fold, that a slave should be circumcised and eat the passover.
 
 And if a sojourner desired to eat thereof, he should be mindful of his domestic obligations: all his males should be circumcised along with him, and then his disabilities were at an end. Surely we can see in these provisions the germ of the broader and more generous welcome which Christ offers to the world. Let it be added that this admission of strangers had been already implied at verse 19; while every form of coercion was prohibited by the words "a sojourner and a hired servant shall not eat of it," in verse 45.
 
+_THE TENTH PLAGUE._
 
-#### The Tenth Plague
-
-xii. 29--36.
+Xii. 29-36.
 
 And now the blow fell. Infants grew cold in their mothers' arms; ripe statesmen and crafty priests lost breath as they reposed: the wisest, the strongest and the most hopeful of the nation were blotted out at once, for the firstborn of a population is its flower.
 
@@ -1736,16 +1636,15 @@ Thus the cup which they had made their slaves to drink was put in larger measure
 
 Then came such a moment as the Hebrew temperament keenly enjoyed, when "the sons of them that oppressed them came bending unto them, and all they that despised them bowed themselves down at the soles of their feet." Pharaoh sent at midnight to surrender everything that could possibly be demanded, and in his abject fear added, "and bless me also"; and the Egyptians were urgent on them to begone, and when they demanded the portable wealth of the land,--a poor ransom from a vanquished enemy, and a still poorer payment for generations of forced labour,--"the Lord gave them favour" (is there not a saturnine irony in the phrase?) "in the sight of the Egyptians, so that they let them have what they asked. And they spoiled the Egyptians."
 
-By this analogy St. Augustine defended the use of heathen learning in defence of Christian truth. Clogged by superstitions, he said, it contained also liberal instruction, and truths even concerning God--"gold and silver which they did not themselves create, but dug out of the mines of God's providence, and misapplied. These we should reclaim, and apply to Christian use" (De Doct. Chr., 60, 61).
+By this analogy St. Augustine defended the use of heathen learning in defence of Christian truth. Clogged by superstitions, he said, it contained also liberal instruction, and truths even concerning God--"gold and silver which they did not themselves create, but dug out of the mines of God's providence, and misapplied. These we should reclaim, and apply to Christian use" (_De Doct. Chr._, 60, 61).
 
-And the main lesson of the story lies so plainly upon the surface that one scarcely needs to state it. What God requires must ultimately be done; and human resistance, however stubborn and protracted, will only make the result more painful and more signal at the last.
+And the main lesson of the story lies so plainly upon the surface that one scarcely needs to state it. What God requires _must_ ultimately be done; and human resistance, however stubborn and protracted, will only make the result more painful and more signal at the last.
 
 Now, every concern of our obscure daily lives comes under this law as surely as the actions of a Pharaoh.
 
+_THE EXODUS._
 
-#### Exod
-
-xii. 37--42.
+Xii. 37-42.
 
 The children of Israel journeyed from Rameses to Succoth. Already, at the outset of their journey, controversy has had much to say about their route. Much ingenuity has been expended upon the theory which brought their early journey along the Mediterranean coast, and made the overthrow of the Egyptians take place in "that Serbonian bog where armies whole have sunk." But it may fairly be assumed that this view was refuted even before the recent identification of the sites of Rameses and Pi-hahiroth rendered it untenable.
 
@@ -1757,22 +1656,21 @@ May not this verse point to something unrecorded, some event before their final 
 
 But here we come upon a problem of another kind. How long was Israel in the house of bondage? Can we rely upon the present Hebrew text, which says that "their sojourning which they sojourned in Egypt, was four hundred and thirty years. And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord came out of the land of Egypt" (xii. 40, 41).
 
-Certain ancient versions have departed from this text. The Septuagint reads, "The sojourning of the children of Israel which they sojourned in Egypt and in the land of Canaan, was four hundred and thirty years"; and the Samaritan agrees with this, except that it has "the sojourning of the children of Israel and of their fathers." The question is, which reading is correct? Must we date the four hundred and thirty years from Abraham's arrival in Canaan, or from Jacob's descent into Egypt?
+Certain ancient versions have departed from this text. The Septuagint reads, "The sojourning of the children of Israel which they sojourned in Egypt and _in the land of Canaan_, was four hundred and thirty years"; and the Samaritan agrees with this, except that it has "the sojourning of the children of Israel and _of their fathers_." The question is, which reading is correct? Must we date the four hundred and thirty years from Abraham's arrival in Canaan, or from Jacob's descent into Egypt?
 
-For the shorter period there are two strong arguments. The genealogies in the Pentateuch range from four persons to six between Jacob and the Exodus, which number is quite unable to reach over four centuries. And St. Paul says of the covenant with Abraham that "the law which came four hundred and thirty years after" (i.e. after the time of Abraham) "could not disannul it" (Gal. iii. 17).
+For the shorter period there are two strong arguments. The genealogies in the Pentateuch range from four persons to six between Jacob and the Exodus, which number is quite unable to reach over four centuries. And St. Paul says of the covenant with Abraham that "the law which came four hundred and thirty years after" (_i.e._ after the time of Abraham) "could not disannul it" (Gal. iii. 17).
 
 This reference by St. Paul is not so decisive as it may appear, because he habitually quotes the Septuagint, even where he must have known that it deviates from the Hebrew, provided that the deviation does not compromise the matter in hand. Here, he was in nowise concerned with the chronology, and had no reason to perplex a Gentile church by correcting it. But it was a different matter with St. Stephen, arguing his case before the Hebrew council. And he quotes plainly and confidently the prediction that the seed of Abraham should be four hundred years in bondage, and that one nation should entreat them evil four hundred years (Acts vii. 6). Again, this is the clear intention of the words in Genesis (xv. 13). And as to the genealogies, we know them to have been cut down, so that seven names are omitted from that of Ezra, and three at least from that of our Lord Himself. Certainly when we consider the great population implied in an army of six hundred thousand adult men, we must admit that the longer period is inherently the more probable of the two. But we can only assert with confidence that just when their deliverance was due it was accomplished, and they who had come down a handful, and whom cruel oppression had striven to decimate, came forth, no undisciplined mob, but armies moving in organised and regulated detachments: "the Lord did bring the children of Israel forth by their hosts" (ver. 51). "And the children of Israel went up armed out of the land of Egypt" (xiii. 18).
 
-
 ### Chapter XIII — The Law of the Firstborn
 
-xiii. 1.
+Xiii. 1.
 
 Much that was said in the twelfth chapter is repeated in the thirteenth. And this repetition is clearly due to a formal rehearsal, made when all "their hosts" had mustered in Succoth after their first march; for Moses says, "Remember this day, in which ye came out" (ver. 3). Already it had been spoken of as a day much to be remembered, and for its perpetuation the ordinance of the Passover had been founded.
 
 But now this charge is given as a fit prologue for the remarkable institution which follows--the consecration to God of all unblemished males who are the firstborn of their mothers--for such is the full statement of what is claimed.
 
-In speaking to Moses the Lord says, "Sanctify unto Me all the firstborn ... it is Mine." But Moses addressing the people advances gradually, and almost diplomatically. First he reminds them of their deliverance, and in so doing he employs a phrase which could only have been used at the exact stage when they were emancipated and yet upon Egyptian soil: "By strength of hand the Lord brought you out from this place" (ver. 3). Then he charges them not to forget their rescue, in the dangerous time of their prosperity, when the Lord shall have brought them into the land which He swore to give them; and he repeats the ordinance of unleavened bread. And it is only then that he proceeds to announce the permanent consecration of all their firstborn--the abiding doctrine that these, who naturally represent the nation, are for its unworthiness forfeited, and yet by the grace of God redeemed.
+In speaking to Moses the Lord says, "Sanctify unto Me all the firstborn ... it is Mine." But Moses addressing the people advances gradually, and almost diplomatically. First he reminds them of their deliverance, and in so doing he employs a phrase which could only have been used at the exact stage when they were emancipated and yet upon Egyptian soil: "By strength of hand the Lord brought you out _from this place_" (ver. 3). Then he charges them not to forget their rescue, in the dangerous time of their prosperity, when the Lord shall have brought them into the land which He swore to give them; and he repeats the ordinance of unleavened bread. And it is only then that he proceeds to announce the permanent consecration of all their firstborn--the abiding doctrine that these, who naturally represent the nation, are for its unworthiness forfeited, and yet by the grace of God redeemed.
 
 God, Who gave all and pardons all, demands a return, not as a tax which is levied for its own sake, but as a confession of dependence, and like the silk flag presented to the sovereign, on the anniversaries of the two greatest of English victories, by the descendants of the conquerors, who hold their estates upon that tenure. The firstborn, thus dedicated, should have formed a sacred class, a powerful element in Hebrew life enlisted on the side of God.
 
@@ -1788,7 +1686,7 @@ And twice over this emancipator and lawgiver, in the first flush of his success,
 
 This, accordingly, the Psalmist learned, and in his turn transmitted. He heard with his ears and his fathers told him what God did in their days, in the days of old. And he told the generation to come the praises of Jehovah, and His strength, and His wondrous works (Ps. xliv. 1, lxxviii. 4).
 
-But it is absurd to treat these verses, as Kuenen does, as evidence that the story is mere legend: "transmitted from mouth to mouth, it gradually lost its accuracy and precision, and adopted all sorts of foreign elements." To prove which, we are gravely referred to passages like this. (Religion of Israel, i. 22, Eng. Vers.) The duty of oral instruction is still acknowledged, but this does not prove that the narrative is still unwritten.
+But it is absurd to treat these verses, as Kuenen does, as evidence that the story is mere legend: "transmitted from mouth to mouth, it gradually lost its accuracy and precision, and adopted all sorts of foreign elements." To prove which, we are gravely referred to passages like this. (_Religion of Israel_, i. 22, Eng. Vers.) The duty of oral instruction is still acknowledged, but this does not prove that the narrative is still unwritten.
 
 From the emphatic language in which Moses urged this double duty, too much forgotten still, of remembering and showing forth the goodness of God, sprang the curious custom of the wearing of phylacteries. But the Jews were not bidden to wear signs and frontlets: they were bidden to let hallowed memories be unto them in the place of such charms as they had seen the Egyptians wear, "for a sign unto thee, upon thine hand, and for a frontlet between thine eyes, that the law of the Lord may be in thy mouth" (ver. 9). Such language is frequent in the Old Testament, where mercy and truth should be bound around their necks; their fathers' commandments should be tied around their necks, bound on their fingers, written on their hearts; and Sion should clothe herself with her converts as an ornament, and gird them upon her as a bride doth (Prov. iii. 3, vi. 21, vii. 3; Isa. xlix. 18).
 
@@ -1798,16 +1696,15 @@ We have already observed the connection between the thirteenth verse and the eve
 
 Some time before this, a new and fierce race, whose name declared them to be "emigrants," had thrust itself in among the tribes of Canaan--a race which was long to wage equal war with Israel, and not seldom to see his back turned in battle. They now held all the south of Palestine, from the brook of Egypt to Ekron (Josh. xv. 4, 47). And if Moses in the flush of his success had pushed on by the straight and easy route into the promised land, the first shock of combat with them would have been felt in a few weeks. But "God led them not by the way of the Philistines, though that was near, for God said, Lest peradventure the people repent them when they see war, and they return to Egypt" (ver. 17).
 
-From this we learn two lessons. Why did not He, Who presently made strong the hearts of the Egyptians to plunge into the bed of the sea, make the hearts of His own people strong to defy the Philistines? The answer is a striking and solemn one. Neither God in the Old Testament, nor God manifested in the flesh, is ever recorded to have wrought any miracle of spiritual advancement or overthrow. Thus the Egyptians were but confirmed in their own choice: their decision was carried further. And even Saul of Tarsus was illuminated, not coerced: he might have disobeyed the heavenly vision. He was not an insincere man suddenly coerced into earnestness, nor a coward suddenly made brave. In the moral world, adequate means are always employed for the securing of desired effects. Love, gratitude, the sense of danger and of grace, are the powers which elevate characters. And persons who live in sensuality, fraud, or falsehood, hoping to be saved some day by a sort of miracle of grace, ought to ponder this truth, which may not be the gospel now fashionable, but is unquestionably the statement of a Scriptural fact: in the moral sphere, God works by means and not by miracle.
+From this we learn two lessons. Why did not He, Who presently made strong the hearts of the Egyptians to plunge into the bed of the sea, make the hearts of His own people strong to defy the Philistines? The answer is a striking and solemn one. Neither God in the Old Testament, nor God manifested in the flesh, is ever recorded to have wrought any miracle of spiritual advancement or overthrow. Thus the Egyptians were but confirmed in their own choice: their decision was carried further. And even Saul of Tarsus was illuminated, not coerced: he might have disobeyed the heavenly vision. He was not an insincere man suddenly coerced into earnestness, nor a coward suddenly made brave. In the moral world, adequate means are always employed for the securing of desired effects. Love, gratitude, the sense of danger and of grace, are the powers which elevate characters. And persons who live in sensuality, fraud, or falsehood, hoping to be saved some day by a sort of miracle of grace, ought to ponder this truth, which may not be the gospel now fashionable, but is unquestionably the statement of a Scriptural fact: _in the moral sphere, God works by means and not by miracle_.
 
 A free life, the desert air, the rejection of the unfit by many visitations, and the growth of a new generation amid thrilling events, in a soul-stirring region, and under the pure influences of the law,--these were necessary before Israel could cross steel with the warlike children of the Philistines; and even then, it was not with them that he should begin.
 
 The other lesson we learn is the tender fidelity of God, Who will not suffer us to be tempted above that we are able to bear. He led them aside into the desert, whither He still in mercy leads very many who think it a heavy judgment to be there.
 
+_THE BONES OF JOSEPH._
 
-#### The Bones of Joseph
-
-xiii. 19.
+Xiii. 19.
 
 It is certain that Moses, in the days of his greatness, must often have mused by the sepulchre of the one Israelite before himself who held high rank in Egypt. The knowledge that Joseph's elevation was providential must have helped him at that time, now many years ago, to think rightly of his own. And now we read that Moses took the bones of Joseph with him. In the Epistle to the Hebrews (xi. 22) it is recorded as the most characteristic example of the faith of the patriarch, that instead of desiring to be carried, like his father, at once to Canaan, he made mention of the departure of the children of Israel, and gave commandment concerning his bones. To him Egypt was no longer an alien land. There only he had known honour without envy, and happiness without betrayal. There his bones could rest in quiet; but not for ever. Personal elevation, which had not rent the cord between him and his unworthy family, could still less sever the bands between him and the sacred race. Let him sleep in Egypt while his grave there was honoured: let the remembrance of him be kept fresh, to protect awhile his kindred; and when the predicted days of evil came, let his ashes share the neglect and dishonour of his people, if only they would remember his remains when the Lord would lead them forth. This confidence in their emancipation was his faith--which meant, here as always, not a clear view of truth, but an assuring grasp of it. He had straitly sworn the children of Israel saying, "God will surely visit you; and ye shall carry up my bones away hence with you."
 
@@ -1821,22 +1718,18 @@ Bearing this hallowed burden, which might easily have become an object of supers
 
 But it has been well observed that, amid the various allusions to it in Hebrew poetry, not one treats it as modern literature has done, with an eye to its marvellous sublimity and picturesque effects:
 
-"By day, along the astonished lands
+"By day, along the astonished lands  
+The cloudy pillar glided slow:  
+By night, Arabia's crimsoned sands  
+Returned the fiery column's glow."  
 
-The cloudy pillar glided slow:
-
-By night, Arabia's crimsoned sands
-
-Returned the fiery column's glow."
-
-The Hebrew poetry is vivid and passionate, but all its concerns are human or divine--God, and the life of man. It is not artistic, but inspired. "The modern poet is delighting in the scenic effect; the ancient chronicler was wholly occupied with the overshadowing power of God." \[24\]
-
+The Hebrew poetry is vivid and passionate, but all its concerns are human or divine--God, and the life of man. It is not artistic, but inspired. "The modern poet is delighting in the scenic effect; the ancient chronicler was wholly occupied with the overshadowing power of God." [fn. 24: Hutton's _Essays_, Vol. ii., _Literary: The Poetry of the Old Test._]
 
 ### Chapter XIV — The Red Sea
 
-xiv. 1--31.
+Xiv. 1-31.
 
-It would seem that the Israelites recoiled before a frontier fortress of Egypt at Khetam (Etham). This is probable, whatever theory of the route of the Exodus one may adopt; and it is still open to every reader to adopt almost any theory he pleases, provided that two facts are borne in mind: viz., first, that the narrative certainly means to describe a miraculous interference, not superseding the forces of nature, but wielding them in a fashion impossible to man; and second, that the phrase translated "Red Sea" \[25\] (xiii. 18, xv. 4) is the same which is confessed by all persons to have that meaning in chap. xxiii. 31, and in Numbers xxi. 4 and xxxiii. 10.
+It would seem that the Israelites recoiled before a frontier fortress of Egypt at Khetam (Etham). This is probable, whatever theory of the route of the Exodus one may adopt; and it is still open to every reader to adopt almost any theory he pleases, provided that two facts are borne in mind: viz., first, that the narrative certainly means to describe a miraculous interference, not superseding the forces of nature, but wielding them in a fashion impossible to man; and second, that the phrase translated "Red Sea" [fn. 25: The Sea of Zuph, or reeds, the word being used of the reeds in which Moses was laid by his mother and found by Pharaoh's daughter (ii. 3, 5), rendered "flags" in the Revised Version.] (xiii. 18, xv. 4) is the same which is confessed by all persons to have that meaning in chap. xxiii. 31, and in Numbers xxi. 4 and xxxiii. 10.
 
 Checked, without loss or with it, they were bidden to "turn back," and encamp at Pi-hahiroth, between Migdol and the sea. And since Migdol is simply a watch-tower (there were several in the Holy Land, including that which gave her name to Mary Magdal-ene), we are to infer that from thence their inexplicable movements were signalled back to Pharaoh. It was the natural signal for all the wild passions of a baffled and half-ruined tyrant to leap into flame. We are scarcely able to imagine the mental condition of men who conceived that a God Who had dealt out death and destruction might be far from invincible from another side. But ages after this, a campaign was planned upon the ingenious theory that "Jehovah is a god of the hills but He is not a god of the valleys" (1 Kings xx. 28); and plenty of people who would scorn this simple notion are still of opinion that He is a God of eternity and can save them from hell, but a little falsehood and knavery are much better able to save them from want in the meanwhile. Nay, there are many excellent persons who are not at all of opinion that the prince of this world has been dethroned.
 
@@ -1850,29 +1743,27 @@ And yet these men had lately, for the very promise of so much emancipation as th
 
 How did Moses feel when this outcry told him of the unworthiness and cowardice of the nation of his heart? Much as we feel, perhaps, when we see the frailties and failures of converts in the mission-field, and the lapse of the intemperate who have seemed to be reclaimed for ever. We thought that perfection was to be reached at a bound. Now we think that the whole work was unreal. Both extremes are wrong: we have much to learn from the failures of that ancient church, in which was the germ of hero, psalmist, and prophet, which was indeed the church in the wilderness, and whose many relapses were so tenderly borne with by God and His messenger.
 
-The settled faith of Moses, and the assurances which he could give the agitated people, \[26\] contrast nobly with their alarm. But his confidence also had its secret springs in prayer, for the Lord said to him, "Wherefore criest thou unto Me? speak unto the children of Israel that they go forward."
+The settled faith of Moses, and the assurances which he could give the agitated people, [fn. 26: But his assurance is, "The Lord shall fight for you, and ye shall hold your peace." When Wellhausen would summarise the work of Moses, he tells us that "he taught them to regard self-assertion against the Egyptians as an article of religion" (_History_, p. 430). It would be impossible, within the compass of so many words, more completely to miss the remarkable characteristic which differentiates this whole narrative from all other revolutionary movements. Expectancy and dependence here take the place of "self-assertion."] contrast nobly with their alarm. But his confidence also had its secret springs in prayer, for the Lord said to him, "Wherefore criest thou unto Me? speak unto the children of Israel that they go forward."
 
 The words are remarkable on two accounts. Can prayer ever be out of place? Not if we mean a prayerful dependent mental attitude toward God. But certainly, yes, if God has already revealed that for which we still importune Him, and we are secretly disquieted lest His promise should fail. It is misplaced if our own duty has to be done, and we pass the golden moments in inactivity, however pious. Christ spoke of men who should leave their gift before the altar, unpresented, because of a neglected duty which should be discharged. And perhaps there are men who pray for the conversion of the heathen, or of friends at home, to whom God says, Wherefore criest thou unto Me? because their money and their faithful efforts must be given, as Moses must arouse himself to lead the people forward, and to stretch his wand over the sea.
 
-And again the forces of nature are on the side of God: the strong wind makes the depths of the sea a way for the ransomed to pass over. History has no scene more picturesque than this wild night march, in the roar of tempest, amid the flying foam which "baptized" them unto Moses, \[27\] while the glimmering waters stood up like a rampart to protect their flanks; the full moon of passover above them, shown and hidden as the swift clouds raced before the storm, while high and steadfast overhead, unshaken by the fiercest blast, illumined by a mysterious splendour, "stood" the vast cloud which veiled like a curtain their whole host from the pursuer. This it was, and the experience of such protection that the Egyptians, overawed, came not near them, which gave them courage to enter the bed of the sea; and as they trod the strange road they found that not only were the waters driven off the surface, but the sands were left firm to traverse.
+And again the forces of nature are on the side of God: the strong wind makes the depths of the sea a way for the ransomed to pass over. History has no scene more picturesque than this wild night march, in the roar of tempest, amid the flying foam which "baptized" them unto Moses, [fn. 27: Not the adults only; nor yet by immersion, whether in the rain-cloud or the surf.] while the glimmering waters stood up like a rampart to protect their flanks; the full moon of passover above them, shown and hidden as the swift clouds raced before the storm, while high and steadfast overhead, unshaken by the fiercest blast, illumined by a mysterious splendour, "stood" the vast cloud which veiled like a curtain their whole host from the pursuer. This it was, and the experience of such protection that the Egyptians, overawed, came not near them, which gave them courage to enter the bed of the sea; and as they trod the strange road they found that not only were the waters driven off the surface, but the sands were left firm to traverse.
 
 But when the blind fury of Pharaoh, "hardened" against everything but the sense that his prey was escaping, sent his army along the same track, and this after long delay, at a crisis when every moment was priceless, then a new element of terrible sublimity was added. Through the pillar of cloud and fire Jehovah looked forth on the Egyptian host, as they pressed on behind, unable to penetrate the supernatural gloom, cold fear creeping into every heart, while the chariot wheels laboured heavily in the wet sand. In that direful vision at last the question was answered, "Who is Jehovah, that I should let His people go?" Now it was the turn of those who said "Israel is entangled in the land, the wilderness hath shut them in," themselves to be taken in a worse net. For at that awful gaze the iron curb of military discipline gave way; their labouring chariots, the pride and defence of the nation, were forsaken; and a wild cry broke out, "Let us fly from the face of Israel, for Jehovah"--He who plagued us--"fighteth for them against the Egyptians." But their humiliation came too late,--for in the morning watch, at a natural time for atmospheric changes, but in obedience to the rod of Moses, the furious wind veered or fell, and the sea returned to its accustomed limits; and first, as the sands beneath became saturated, the chariots were overturned and the mail-clad charioteers went down "like lead," and then the hissing line of foam raced forward and closed around and over the shrieking mob which was the pride and strength of Egypt only an hour before.
 
 But, as the story repeats twice over, with a very natural and glad reiteration, "the children of Israel walked on dry land in the midst of the sea, and the waters were a wall unto them on their right hand, and on their left" (ver. 29, cf. 22).
 
+_ON THE SHORE._
 
-#### On the Shore
-
-xiv. 30, 31.
+Xiv. 30, 31.
 
 After the haste and agitation of their marvellous deliverance the children of Israel seem to have halted for awhile at the only spot in the neighbourhood where there is water, known as the Ayoun Musa or springs of Moses to this day. There they doubtless brought into some permanent shape their rudimentary organisation. There, too, their impressions were given time to deepen. They "saw the Egyptians dead on the sea-shore," and realised that their oppression was indeed at an end, their chains broken, themselves introduced into a new life,--"baptized unto Moses." They reflected upon the difference between all other deities and the God of their fathers, Who, in that deadly crisis, had looked upon them and their tyrants out of the fiery pillar. "They feared Jehovah, and they believed in Jehovah and in His servant Moses."
 
-"They believed in Jehovah." This expression is noteworthy, because they had all believed in Him already. "By faith they' forsook Egypt. By faith they' kept the passover and the sprinkling of blood. By faith they' passed through the Red Sea." But their former trust was poor and wavering compared with that which filled their bosoms now. So the disciples followed Jesus because they believed on Him; yet when His first miracle manifested forth His glory, "His disciples believed on Him there." And again they said, "By this we believe that Thou camest forth from God." And after the resurrection He said, "Because thou hast seen Me thou hast believed" (John ii. 11, xvi. 30, xx. 29). Faith needs to be edified by successive experiences, as the enthusiasm of a recruit is converted into the disciplined valour of the veteran. From each new crisis of the spiritual life the soul should obtain new powers. And that is a shallow and unstable religion which is content with the level of its initial act of faith (however genuine and however important), and seeks not to go from strength to strength.
-
+"They believed in Jehovah." This expression is noteworthy, because they had all believed in Him already. "By faith 'they' forsook Egypt. By faith 'they' kept the passover and the sprinkling of blood. By faith 'they' passed through the Red Sea." But their former trust was poor and wavering compared with that which filled their bosoms now. So the disciples followed Jesus because they believed on Him; yet when His first miracle manifested forth His glory, "His disciples believed on Him there." And again they said, "By this we believe that Thou camest forth from God." And after the resurrection He said, "Because thou hast seen Me thou hast believed" (John ii. 11, xvi. 30, xx. 29). Faith needs to be edified by successive experiences, as the enthusiasm of a recruit is converted into the disciplined valour of the veteran. From each new crisis of the spiritual life the soul should obtain new powers. And that is a shallow and unstable religion which is content with the level of its initial act of faith (however genuine and however important), and seeks not to go from strength to strength.
 
 ### Chapter XV — The Song of Moses
 
-xv. 1--22.
+Xv. 1-22.
 
 During this halt they prepared that great song of triumph which St. John heard sung by them who had been victorious over the beast, standing by the sea of glass, having the harps of God. For by that calmer sea, triumphant over a deadlier persecution, they still found their adoration and joy expressed in this earliest chant of sacred victory. Because all holy hearts give like thanks to Him Who sitteth upon the throne, therefore "deep answers unto deep," and every great crisis in the history of the Church has legacies for all time and for eternity; and therefore the triumphant song of Moses the servant of God enriches the worship of heaven, as the penitence and hope and joy of David enrich the worship of the Church on earth (Rev. xv. 3).
 
@@ -1886,7 +1777,7 @@ The former part is again subdivided, by a noble and instinctive art, into two ve
 
 Each of these three divisions closes in praise, and as in the "Israel in Egypt," it was probably at these points that the voices of Miriam and the women broke in, repeating the first verse of the ode as a refrain (vers. 1 and 21). It is the earliest recognition of the place of women in public worship. And it leads us to remark that the whole service was responsive. Moses and the men are answered by Miriam and the women, bearing timbrels in their hands; for although instrumental music had been sorely misused in Egypt, that was no reason why it should be excluded now. Those who condemn the use of instruments in Christian worship virtually contend that Jesus has, in this respect, narrowed the liberty of the Church, and that a potent method of expression, known to man, must not be consecrated to the honour of God. And they make the present time unlike the past, and also unlike what is revealed of the future state.
 
-Moreover there was movement, as in very many ancient religious services, within and without the pale of revelation. \[28\] Such dances were generally slow and graceful; yet the motion and the clang of metal, and the vast multitudes congregated, must be taken into account, if we would realise the strange enthusiasm of the emancipated host, looking over the blue sea to Egypt, defeated and twice bereaved, and forward to the desert wilds of freedom.
+Moreover there was movement, as in very many ancient religious services, within and without the pale of revelation. [fn. 28: There is no warrant in the use of Scripture for Stanley's assertion that the word translated "dances" should be rendered "guitars." (Smith's _Dict. of Bible_, Article _Miriam_.)] Such dances were generally slow and graceful; yet the motion and the clang of metal, and the vast multitudes congregated, must be taken into account, if we would realise the strange enthusiasm of the emancipated host, looking over the blue sea to Egypt, defeated and twice bereaved, and forward to the desert wilds of freedom.
 
 The poem is steeped in a sense of gratitude. In the great deliverance man has borne no part. It is Jehovah Who has triumphed gloriously, and cast the horse and charioteer--there was no "rider"--into the sea. And this is repeated again and again by the women as their response, in the deepening passion of the ode. "With the breath of His nostrils the waters were piled up.... He blew with His wind and the sea covered them." And such is indeed the only possible explanation of the Exodus, so that whoever rejects the miracle is beset with countless difficulties. One of these is the fact that Moses, their immortal leader, has no martial renown whatever. Hebrew poetry is well able to combine gratitude to God with honour to the men of Zebulun who jeopardised their lives unto the death, to Jael who put her hand to the nail, to Saul and Jonathan who were swifter than eagles and stronger than lions. Joshua and David can win fame without dishonour to God. Why is it that here alone no mention is made of human agency, except that, in fact, at the outset of their national existence, they were shown, once for all, the direct interposition of their God?
 
@@ -1902,31 +1793,31 @@ From exultant gratitude and trust, what is next to spring? That which is reproac
 
 Human affection cannot go forth to God without believing that like affection meets and responds to it. If He is indeed the best and purest, we must think of Him as sharing all that is best and purest in our souls, all that we owe to His inspiring Spirit.
 
-"So through the thunder comes a human voice,
-
-Saying O heart I made, a heart beats here.'"
+"So through the thunder comes a human voice, Saying 'O heart I made, a heart beats here.'"
 
 If ever any religion was sternly jealous of the Divine prerogatives, profoundly conscious of the incommunicable dignity of the Lord our God Who is one Lord, it was the Jewish religion. Yet when Jesus was charged with making Himself God, He could appeal to the doctrine of their own Scripture--that the judges of the people exercised so divine a function, and could claim such divine support, that God Himself spoke through them, and found representatives in them. "Is it not written in your law, I said Ye are gods?" (John x. 34). Not in vain did He appeal to such scriptures--and there are many such--to vindicate His doctrine. For man is never lifted above himself, but God in the same degree stoops towards us, and identifies Himself with us and our concerns. Who then shall limit His condescension? What ground in reason or revelation can be taken up for denying that it may be perfect, that it may develop into a permanent union of God with the creature whom He inspired with His own breath? It is by such steps that the Old Testament prepared Israel for the Incarnation. Since the Incarnation we have actually needed help from the other side, to prevent us from humanising our conceptions over-much. And this has been provided in the ever-expanding views of His creation given to us by science, which tell us that if He draws nigh to us it is from heights formerly undreamed of. Now, such a step as we have been considering is taken unawares in the bold phrase "Jehovah is a man of war." For in the original, as in the English, this includes the assertion "Jehovah is a man." Of course it is only a bold figure. But such a figure prepares the mind for new light, suggesting more than it logically asserts.
 
 The phrase is more striking when we remember that remarkable peculiarity of the Exodus and its revelations which has been already pointed out. Elsewhere God appears in human likeness. To Abraham it was so, just before, and to Manoah soon afterwards. Ezekiel saw upon the likeness of the throne the likeness of the appearance of a man (Ezek. i. 26). But Israel saw no similitude, only he heard a voice. This was obviously a safeguard against idolatry. And it makes the words more noteworthy, "Jehovah is a man of war," marching with us, our champion, into the battle. And we know Him as our fathers knew Him not,--"Jehovah is His name."
 
+* * * * *
+
 The poem next describes the overthrow of the enemy: the heavy plunge of men in armour into the deeps, the arm of the Lord dashing them in pieces, His "fire" consuming them, while the blast of His nostrils is the storm which "piles up" the waters, solid as a wall of ice, "congealed in the heart of the sea." Then the singers exultantly rehearse the short panting eager phrases, full of greedy expectation, of the enemy breathless in pursuit--a passage well remembered by Deborah, when her triumphant song closed by an insulting repetition of the vain calculations of the mother of Sisera and "her wise ladies."
 
-The eleventh verse is remarkable as being the first announcement of the holiness of God. "Who is like unto Thee, glorious in holiness?" And what does holiness mean? The Hebrew word is apparently suggestive of "brightness," and the two ideas are coupled by Isaiah (x. 17): "The Light of Israel shall be for a fire, and his Holy One for a flame." There is indeed something in the purity of light, in its absolute immunity from stain--no passive cleanness, as of the sand upon the shore, but intense and vital--and in its remoteness from the conditions of common material substances, that well expresses and typifies the lofty and awful quality which separates holiness from mere virtue. "God is called the Holy One because He is altogether pure, the clear and spotless Light; so that in the idea of the holiness of God there are embodied the absolute moral purity and perfection of the Divine nature, and His unclouded glory" (Keil, Pent., ii. 99). In this thought there is already involved separation, a lofty remoteness.
+The eleventh verse is remarkable as being the first announcement of the holiness of God. "Who is like unto Thee, glorious in holiness?" And what does holiness mean? The Hebrew word is apparently suggestive of "brightness," and the two ideas are coupled by Isaiah (x. 17): "The Light of Israel shall be for a fire, and his Holy One for a flame." There is indeed something in the purity of light, in its absolute immunity from stain--no passive cleanness, as of the sand upon the shore, but intense and vital--and in its remoteness from the conditions of common material substances, that well expresses and typifies the lofty and awful quality which separates holiness from mere virtue. "God is called the Holy One because He is altogether pure, the clear and spotless Light; so that in the idea of the holiness of God there are embodied the absolute moral purity and perfection of the Divine nature, and His unclouded glory" (Keil, _Pent._, ii. 99). In this thought there is already involved separation, a lofty remoteness.
 
 And when holiness is attributed to man, it never means innocence, nor even virtue, merely as such. It is always a derived attribute: it is reflected upon us, like light upon our planet; and like consecration, it speaks not of man in himself, but in his relation to God. It expresses a kind of separation to God, and thus it can reach to lifeless things which bear a true relation to the Divine. The seventh day is thus "hallowed." It is the very name of the "Holy Place," the "Sanctuary." And the ground where Moses was to stand unshod beside the burning bush was pronounced "holy," not by any concession to human weakness, but by the direct teaching of God. Very inseparable from all true holiness is separation from what is common and unclean. Holy men may be involved in the duties of active life; but only on condition that in their bosom shall be some inner shrine, whither the din of worldliness never penetrates, and where the lamp of God does not go out.
 
-It is a solemn truth that a kind of inverted holiness is known to Scripture. Men "sanctify themselves" (it is this very word), "and purify themselves to go into the gardens, ... eating swine's flesh and the abomination and the mouse" (Isa. lxvi. 17). The same word is also used to declare that the whole fruit of a vineyard sown with two kinds of fruit shall be forfeited (Deut. xxii. 9), although the notion there is of something unnatural and therefore interdicted, which notion is carried to the utmost extreme in another derivative from the same root, expressing the most depraved of human beings.
+It is a solemn truth that a kind of inverted holiness is known to Scripture. Men "sanctify themselves" (it is this very word), "and purify themselves to go into the gardens, ... eating swine's flesh and the abomination and the mouse" (Isa. lxvi. 17). The same word is also used to declare that the whole fruit of a vineyard sown with two kinds of fruit shall be _forfeited_ (Deut. xxii. 9), although the notion there is of something unnatural and therefore interdicted, which notion is carried to the utmost extreme in another derivative from the same root, expressing the most depraved of human beings.
 
 Just so, the Greek word "anathema" means both "consecrated" and "marked out for wrath" (Luke xxi. 5; 1 Cor. xvi. 22: the difference in form is insignificant.) And so again our own tongue calls the saints "devoted," and speaks of the "devoted" head of the doomed sinner, being aware that there is a "separation" in sin as really as in purity. The gods of the heathen, like Jehovah, claimed an appropriate "holiness," sometimes unspeakably degraded. They too were separated, and it was through long lines of sphinxes, and many successive chambers, that the Egyptian worshipper attained the shrine of some contemptible or hateful deity. The religion which does not elevate depresses. But the holiness of Jehovah is noble as that of light, incapable of defilement. "Who among the gods is like Thee ... glorious in holiness?" And Israel soon learned that the worshipper must become assimilated to his Ideal: "Ye shall be holy men unto Me" (xxii. 31). It is so with us. Jesus is separated from sinners. And we are to go forth unto Him out of the camp, bearing His reproach (Heb. vii. 26, xiii. 13).
 
-The remainder of the song is remarkable chiefly for the confidence with which the future is inferred from the past. And the same argument runs through all Scripture. As Moses sang, "Thou shalt bring them in and plant them in the mountain of Thine inheritance," because "Thou stretchedst out Thy right hand, the earth  [fn. 29: This is to be taken literally; it does not mean the waves, but the quicksands in which they "drave heavily," and which, when steeped in the returning waters, engulfed them.] swallowed" their enemies, so David was sure that goodness and mercy should follow him all the days of his life, because God was already leading him in green pastures and beside still waters. And so St. Paul, knowing in Whom he had believed, was persuaded that He was able to keep his deposit until that day (2 Tim. i. 12).
+The remainder of the song is remarkable chiefly for the confidence with which the future is inferred from the past. And the same argument runs through all Scripture. As Moses sang, "Thou shalt bring them in and plant them in the mountain of Thine inheritance," because "Thou stretchedst out Thy right hand, the earth [fn. 29: This is to be taken literally; it does not mean the waves, but the quicksands in which they "drave heavily," and which, when steeped in the returning waters, engulfed them.] swallowed" their enemies, so David was sure that goodness and mercy should follow him all the days of his life, because God was already leading him in green pastures and beside still waters. And so St. Paul, knowing in Whom he had believed, was persuaded that He was able to keep his deposit until that day (2 Tim. i. 12).
 
 So should pardon and Scripture and the means of grace reassure every doubting heart; for "if the Lord were pleased to kill us, He would not have ... showed us all these things" (Judg. xiii. 23). And in theory, and in good hours, we confess that this is so. But after our song of triumph, if we come upon bitter waters we murmur; and if our bread fail, we expect only to die in the wilderness.
 
-SHUR.
+_SHUR._
 
-xv. 22--7.
+Xv. 22-7.
 
 From the Red Sea the Israelites marched into the wilderness of Shur--a general name, of Egyptian origin, for the district between Egypt and Palestine, of which Etham, given as their route in Numbers (xxxiii. 8), is a subdivision. The rugged way led over stone and sand, with little vegetation and no water. And the "three days' journey" to Marah, a distance of thirty-three miles, was their first experience of absolute hardship, for not even the curtain of miraculous cloud could prevent them from suffering keenly by heat and thirst.
 
@@ -1942,13 +1833,13 @@ We read that the Lord showed him a tree, which when he had cast into the waters,
 
 Shall we say with the fathers that the tree cast into the waters represents the cross of Christ? At least it is a type of the sweetening and assuaging influences of religion--a new element, entering life, and as well fitted to combine with it as medicinal bark with water, making all wholesome and refreshing to the disappointed wayfarer, who found it so bitter hitherto.
 
-The Lord was not content with removing the grievance of the hour; He drew closer the bonds between His people and Himself, to guard them against another transgression of the kind: "there He made for them a statute and an ordinance, and there He proved them." It is pure assumption to pretend that this refers to another account of the giving of the Jewish law, inconsistent with that in the twentieth chapter, and placed at Marah instead of Sinai. \[30\] It is a transaction which resembles much rather the promises given (and at various times, although confusion and repetition cannot be inferred) to Abraham and Jacob (Gen. xii. 1--3, xv. 1, 18--21, xvii. 1--14, xxii. 15--18, xxviii. 13--15, xxxv. 10--12). He said, "If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in His eyes, and wilt give ear to His commandments, and wilt keep all His statutes, I will put none of the diseases upon thee which I have put upon the Egyptians, for I am the Lord which healeth thee." It is a compact of obedient trust on one side, and protection on the other. If they felt their own sinfulness, it asserted that He who had just healed the waters could also heal their hearts. From the connection between these is perhaps derived the comparison between human hearts and a fountain of sweet water or bitter (Jas. iii. 11).
+The Lord was not content with removing the grievance of the hour; He drew closer the bonds between His people and Himself, to guard them against another transgression of the kind: "there He made for them a statute and an ordinance, and there He proved them." It is pure assumption to pretend that this refers to another account of the giving of the Jewish law, inconsistent with that in the twentieth chapter, and placed at Marah instead of Sinai. [fn. 30: Wellhausen, _Israel_, p. 439.] It is a transaction which resembles much rather the promises given (and at various times, although confusion and repetition cannot be inferred) to Abraham and Jacob (Gen. xii. 1-3, xv. 1, 18-21, xvii. 1-14, xxii. 15-18, xxviii. 13-15, xxxv. 10-12). He said, "If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in His eyes, and wilt give ear to His commandments, and wilt keep all His statutes, I will put none of the diseases upon thee which I have put upon the Egyptians, for I am the Lord which healeth thee." It is a compact of obedient trust on one side, and protection on the other. If they felt their own sinfulness, it asserted that He who had just healed the waters could also heal their hearts. From the connection between these is perhaps derived the comparison between human hearts and a fountain of sweet water or bitter (Jas. iii. 11).
 
 But certainly the promised protection takes an unexpected shape. What in their circumstances leads to this specific offer of exemption from certain foul diseases--"the boil of Egypt, and the emerods, and the scurvy, and the itch, whereof thou canst not be healed" (Deut. xxviii. 27)? How does this meet the case? Doubtless by reminding them that there are better exemptions than from hardship, and worse evils than privations. If they do not realise this at the spiritual level, at least they can appreciate the threat that "He will bring upon thee again all the diseases of Egypt which thou wast afraid of" (Deut. xxviii. 60). To be even a luxurious and imperial race, but infected by repulsive and hopeless ailments, is not a desirable alternative. Now, such evils, though certainly not in each individual, yet in a race, are the punishments of non-natural conditions of life, such as make the blood run slowly and unhealthily, and charge it with impure deposits. It was God who put them upon the Egyptians.
 
 If Israel would follow His guidance, and accept a somewhat austere destiny, then the desert air and exercise, and even its privations, would become the efficacious means for their exemption from the scourges of indulgence. A time arrived when they looked back with remorse upon crimes which forfeited their immunity, when the Lord said, "I have sent among you the pestilence after the manner of Egypt; your young men have I slain with the sword" (Amos iv. 10).
 
-But it is a significant fact that at this day, after eighteen hundred years of oppression, hardship, and persecution, of the ghetto and the old-clothes trade, the Hebrew race is proverbially exempt from repulsive and contagious disease. They also "certainly do enjoy immunity from the ravages of cholera, fever and smallpox in a remarkable degree. Their blood seems to be in a different condition from that of other people.... They seem less receptive of disease caused by blood poisoning than others" (Journal of Victoria Institute, xxi. 307). Imperfect as was their obedience, this covenant at least has been literally fulfilled to them.
+But it is a significant fact that at this day, after eighteen hundred years of oppression, hardship, and persecution, of the ghetto and the old-clothes trade, the Hebrew race is proverbially exempt from repulsive and contagious disease. They also "certainly do enjoy immunity from the ravages of cholera, fever and smallpox in a remarkable degree. Their blood seems to be in a different condition from that of other people.... They seem less receptive of disease caused by blood poisoning than others" (_Journal of Victoria Institute_, xxi. 307). Imperfect as was their obedience, this covenant at least has been literally fulfilled to them.
 
 It is by such means that God is wont to reward His children. Most commonly the seal of blessing from the skies is not rich fare, but bread and fish by the lake side with the blessing of Christ upon them; not removal from the desert, but a closer sense of the protection and acceptance of Heaven, the nearness of a loving God, and with this, an elevation and purification of the life, and of the body as well as of the soul. Not in vain has St. Paul written "The Lord for the body." Nor was there ever yet a race of men who accepted the covenant of God, and lived in soberness, temperance and chastity, without a signal improvement of the national physique, no longer unduly stimulated by passion, jaded by indulgence, or relaxed by the satiety which resembles but is not repose.
 
@@ -1956,24 +1847,21 @@ From Marah and its agitations there was a journey of but a few hours to Elim, wi
 
 The picture is still true to the Christian life, with the Palace Beautiful just beyond the lions, and the Delectable Mountains next after Doubting Castle.
 
-
 ### Chapter XVI — Murmuring for Food
 
-xvi. 1--14.
+Xvi. 1-14.
 
-The Israelites were now led farther away from all the associations of their accustomed life. From the waters and the palms of Elim they marched deeper into the savage recesses of the desert, haunted by fierce and hostile tribes, such as presently hung upon their rear-guard and cut off their stragglers (Deut. xxv. 18). Nor had they quite emerged from the shadow of their old oppressions, since Egyptian garrisons were scattered, though sparsely, through this district, in which gems and copper were obtained. Here, cut off from all natural modes of sustenance, the hearts of the people failed them. Such is the frequent experience of renewed souls, when privilege and joy are followed by trouble from without or from within, and the peace of God is broken by the strife of tongues, by mental perplexities, by temptations, by physical pain. It is quite as wonderful that paltry disturbances should mar for us the life divine, when once that life has become a realised experience, as that men who moved under the shadow of the marvellous cloud could be agitated by fear for their supplies. And of this our experience, what befel Israel is not a mere type or symbol, it is a case in point, a parallel example. For it also meant the breaking-in of the flesh upon the spirit, the refusal of fallen nature to rise above earthly wants and cravings even in the light of trust and acceptance, the self-assertion of the baser instincts, and the sacrifice to them of the higher life. We recognise the herd of slaves, from whence it must perplex the unbeliever to remember that the seed of immortal heroism and prophetic insight and apostolic service was yet to ripen, in their poor desire, if they must perish, to perish well fed rather than emancipated (ver. 3). Most people, we may fear, would choose to live enslaved rather than to die free men. But there is a special meanness in their regret, since die they must, that they had not died satiated, like the firstborn whom God had slain: "Would that we had died by the hand of Jehovah in the land of Egypt, when we sat by the flesh-pots and when we ate bread to the full, for ye have brought us forth into this wilderness to kill this whole assembly with hunger." And to-day, among those who scorn them, how many are far less ambitious of dying holy and pure than rich, famous or powerful, having glutted their vanity if not their appetite. In the sight of angels this is not a much loftier aim; and the apostle reckoned among the works of the flesh, emulation as well as drunkenness (Gal. v. 19--21).
+The Israelites were now led farther away from all the associations of their accustomed life. From the waters and the palms of Elim they marched deeper into the savage recesses of the desert, haunted by fierce and hostile tribes, such as presently hung upon their rear-guard and cut off their stragglers (Deut. xxv. 18). Nor had they quite emerged from the shadow of their old oppressions, since Egyptian garrisons were scattered, though sparsely, through this district, in which gems and copper were obtained. Here, cut off from all natural modes of sustenance, the hearts of the people failed them. Such is the frequent experience of renewed souls, when privilege and joy are followed by trouble from without or from within, and the peace of God is broken by the strife of tongues, by mental perplexities, by temptations, by physical pain. It is quite as wonderful that paltry disturbances should mar for us the life divine, when once that life has become a realised experience, as that men who moved under the shadow of the marvellous cloud could be agitated by fear for their supplies. And of this our experience, what befel Israel is not a mere type or symbol, it is a case in point, a parallel example. For it also meant the breaking-in of the flesh upon the spirit, the refusal of fallen nature to rise above earthly wants and cravings even in the light of trust and acceptance, the self-assertion of the baser instincts, and the sacrifice to them of the higher life. We recognise the herd of slaves, from whence it must perplex the unbeliever to remember that the seed of immortal heroism and prophetic insight and apostolic service was yet to ripen, in their poor desire, if they must perish, to perish well fed rather than emancipated (ver. 3). Most people, we may fear, would choose to live enslaved rather than to die free men. But there is a special meanness in their regret, since die they must, that they had not died satiated, like the firstborn whom God had slain: "Would that we had died by the hand of Jehovah in the land of Egypt, when we sat by the flesh-pots and when we ate bread to the full, for ye have brought us forth into this wilderness to kill this whole assembly with hunger." And to-day, among those who scorn them, how many are far less ambitious of dying holy and pure than rich, famous or powerful, having glutted their vanity if not their appetite. In the sight of angels this is not a much loftier aim; and the apostle reckoned among the works of the flesh, emulation as well as drunkenness (Gal. v. 19-21).
 
-Tertullian draws a striking contrast between Israel, just now baptized into Moses, but caring more for appetite than for God, and Christ, after His baptism, also in the desert, fasting forty days. "The Lord figuratively retorted upon Israel His reproach" (Baptism, xx.)
+Tertullian draws a striking contrast between Israel, just now baptized into Moses, but caring more for appetite than for God, and Christ, after His baptism, also in the desert, fasting forty days. "The Lord figuratively retorted upon Israel His reproach" (_Baptism_, xx.)
 
-We are not to suppose that but for their complaining God would have suffered them to hunger, although Moses declared that the reason why flesh should be given to them in the evening, and in the morning bread to the full, is "for that the Lord heareth your murmurings." But there would have been some difference in the time of the grant, to ripen their faith, some more direct manifestation of His grace, to reward their patience, if unbelief had not precipitated His design. Thus the disciples, when they awakened Jesus in the storm, received the rescue for which they clamoured, but forfeited some higher experience which would have crowned a serener confidence: "Wherefore did ye doubt?" Israel receives what is best in the circumstances, rather than the ideal best, now made unsuitable by their impatience and infidelity. But while the Lord discontinued the test of need and penury, which had proved to be too severe a discipline, He substituted the test of fulness. For we read that the removal of their suspense and anxiety by the gift of manna from heaven was "to prove them whether they will walk in My laws or no" (ver. 4). And in so doing it was seen that worldly and unthankful natures are not to be satisfied; that the disloyal at heart will complain, however favoured. For "the children of Israel wept again and said, Who will give us flesh to eat? We remember the fish which we did eat in Egypt for nought, the cucumbers and the melons and the leeks and the onions and the garlick: but now our soul is dried away; there is nothing at all: we have nought save this manna to look to" (Num. xi. 4--6). Onions and garlick were more satisfactory to gross appetites than angels' food.
+We are not to suppose that but for their complaining God would have suffered them to hunger, although Moses declared that the reason why flesh should be given to them in the evening, and in the morning bread to the full, is "for that the Lord heareth your murmurings." But there would have been some difference in the time of the grant, to ripen their faith, some more direct manifestation of His grace, to reward their patience, if unbelief had not precipitated His design. Thus the disciples, when they awakened Jesus in the storm, received the rescue for which they clamoured, but forfeited some higher experience which would have crowned a serener confidence: "Wherefore did ye doubt?" Israel receives what is best in the circumstances, rather than the ideal best, now made unsuitable by their impatience and infidelity. But while the Lord discontinued the test of need and penury, which had proved to be too severe a discipline, He substituted the test of fulness. For we read that the removal of their suspense and anxiety by the gift of manna from heaven was "to prove them whether they will walk in My laws or no" (ver. 4). And in so doing it was seen that worldly and unthankful natures are not to be satisfied; that the disloyal at heart will complain, however favoured. For "the children of Israel wept again and said, Who will give us flesh to eat? We remember the fish which we did eat in Egypt for nought, the cucumbers and the melons and the leeks and the onions and the garlick: but now our soul is dried away; there is nothing at all: we have nought save this manna to look to" (Num. xi. 4-6). Onions and garlick were more satisfactory to gross appetites than angels' food.
 
 At this point we learn that what is called prosperity may indeed be a result of spiritual failure; that God may sometimes abstain from strong measures with a soul because what ought to mould would only crush; and may grant them their hearts' lust, yet send leanness withal into their souls. Perhaps we are allowed to be comfortable because we are unfit to be heroic.
 
 And we also learn, when prosperous, to remember that plenty, equally with want, has its moral aspect. The Lord tries fortunate men, whether they will be grateful and obedient, trusting in Him and not in uncertain riches, or whether they will forget Him who has done so great things for them, and so perish in calm weather--
 
-"Like ships that have gone down at sea
-
-When heaven was all tranquillity."
+"Like ships that have gone down at sea When heaven was all tranquillity."
 
 There is an experiment being tried upon the soul, curious, slow, little-suspected, but incessant, in the giving of daily bread.
 
@@ -1993,11 +1881,11 @@ And now the Lord Himself repeats the promise of relief, but first solemnly annou
 
 Well for them if they learn the lesson, and "know that I am Jehovah your God," mindful of their needs, entitled to their fealty. In the evening, therefore, came a flight of quails; and in the morning they found a small round thing, small as the hoar-frost, upon the ground.
 
-MANNA.
+_MANNA._
 
-xvi. 15--36.
+Xvi. 15-36.
 
-The manna which miraculously supplied the wants of Israel was to them an utterly strange food, the use of which they had to learn. Thus it was another means of severing their habitual course of life and association of ideas from their degraded past. And while we may not press too far the assertion that it was the "corn of heaven" and "angels' food" (i.e. "the bread of the mighty"--Psalm lxxviii. 24--5, R.V.), yet the narrative shows, even without help from later scriptures, that it was calculated to sustain their energies and yet to leave their appetites unstimulated and unpampered. For they were now called to purer joys than those of the senses--to liberty, a divine vocation, the presence of God, the revelation of His law and the unfolding of His purposes. Failing to rise to these heights, they fell far, murmured again, and perished by the destroyer, not merely to avenge the petulance of an hour, but for all that it betrayed, for treason to their vocation and radical inability to even comprehend its meaning. In the language of modern science, it answered to Nature's rejection of the unfit.
+The manna which miraculously supplied the wants of Israel was to them an utterly strange food, the use of which they had to learn. Thus it was another means of severing their habitual course of life and association of ideas from their degraded past. And while we may not press too far the assertion that it was the "corn of heaven" and "angels' food" (_i.e._ "the bread of the mighty"--Psalm lxxviii. 24-5, R.V.), yet the narrative shows, even without help from later scriptures, that it was calculated to sustain their energies and yet to leave their appetites unstimulated and unpampered. For they were now called to purer joys than those of the senses--to liberty, a divine vocation, the presence of God, the revelation of His law and the unfolding of His purposes. Failing to rise to these heights, they fell far, murmured again, and perished by the destroyer, not merely to avenge the petulance of an hour, but for all that it betrayed, for treason to their vocation and radical inability to even comprehend its meaning. In the language of modern science, it answered to Nature's rejection of the unfit.
 
 Their calling was thus, though under very different forms, that which the apostles found so hard, yet did not quite refuse: it was to mind the things of God and not the things of men.
 
@@ -2015,9 +1903,9 @@ And, in curious harmony with the manner of all the gifts of nature, the manna se
 
 Moreover, there was a protest against the grasping, unbelieving temper which cannot trust God with to-morrow, but longs to have much goods laid up. That is the temper which forfeits the smile of God, and grinds the faces of the poor, to make an ignoble "provision" for the future. How often, since the time of Moses, has the unblessed accumulation become hateful! How often, since the time of St. James, the rust of such possession has eaten the flesh like fire! Men would be far more generous, the difference between wealth and poverty would be less portentous, and the resources of religion and charity less crippled, if we lived in the spirit of the Lord's prayer, desirous of the advance of the kingdom, but not asking to be given to-morrow's bread until to-morrow. That lesson was taught by the manner of the dispensation of the manna, but the covetousness of Israel would not learn it. The people actually strove to be dishonest in their enjoyment of a miracle. It is no wonder that Moses was wroth with them.
 
-Among the strange properties of their supernatural food not the least curious was this: that when they came to measure what they had collected, and compare it with what Moses had bidden, \[31\] the most eager and able-bodied had nothing over, and the feeblest had no lack. Every real worker was supplied, and none was glutted. This result is apparently miraculous. St. Paul's use of it does not, as some have supposed, represent it as a result of Hebrew benevolence, sharing with the weak the more abundant supplies of the strong: the miracle is not cited as an example of charity, but of that practical equality, divinely approved, which Christian charity should reproduce; the Christian Church is bidden to do voluntarily what was done by miracle in the wilderness: "your abundance being a supply at this present time for their want, that their abundance also may become a supply for your want, that there may be equality; as it is written, He that gathered much had nothing over, and he that gathered little had no lack" (2 Cor. viii. 15).
+Among the strange properties of their supernatural food not the least curious was this: that when they came to measure what they had collected, and compare it with what Moses had bidden, [fn. 31: The "omer" of this passage is not mentioned elsewhere in Scripture: it is known to have been the one-hundredth part of the homer with which careless readers sometimes confuse it, and its capacity is variously estimated, from somewhat under half a gallon to somewhat above three-quarters.] the most eager and able-bodied had nothing over, and the feeblest had no lack. Every real worker was supplied, and none was glutted. This result is apparently miraculous. St. Paul's use of it does not, as some have supposed, represent it as a result of Hebrew benevolence, sharing with the weak the more abundant supplies of the strong: the miracle is not cited as an example of charity, but of that practical equality, divinely approved, which Christian charity should reproduce; the Christian Church is bidden to do voluntarily what was done by miracle in the wilderness: "your abundance being a supply at this present time for their want, that their abundance also may become a supply for your want, that there may be equality; as it is written, He that gathered much had nothing over, and he that gathered little had no lack" (2 Cor. viii. 15).
 
-It is quite in vain to appeal to this passage in favour of socialistic theories. In the first place it applies only to the necessities of existence; and even granting that the state should enforce the principle to which it points, the duty would not extend beyond a liberal poor rate. When contributions were afterwards demanded for the sanctuary, there is no trace of a dead level in their resources: the rulers gave the gems and spices and oil, some brought gold, with some were found blue and linen and skins, and others had acacia-wood to offer (xxxv. 22--4).
+It is quite in vain to appeal to this passage in favour of socialistic theories. In the first place it applies only to the necessities of existence; and even granting that the state should enforce the principle to which it points, the duty would not extend beyond a liberal poor rate. When contributions were afterwards demanded for the sanctuary, there is no trace of a dead level in their resources: the rulers gave the gems and spices and oil, some brought gold, with some were found blue and linen and skins, and others had acacia-wood to offer (xxxv. 22-4).
 
 In the second place, this arrangement was only temporary; and while the soil of Canaan was distinctly claimed for the Lord, the enjoyment of it by individuals was secured, and perpetuated in their families, by stringent legislation. Now, land is the kind of property which socialists most vehemently assail; but persons who appeal to Exodus must submit to the authority of Judges.
 
@@ -2025,10 +1913,9 @@ Socialism, therefore, and its coercive measures, find no more real sanction here
 
 When will the world, or even the Church, awaken to the great truth that our politics also need to be steeped in Christian feeling--that humanity requires not a revolution but a pentecost--that a millennium cannot be enacted, but will dawn whenever human bosoms are emptied of selfishness and lust, and filled with brotherly kindness and compassion? Such, and no more, was the socialism which St. Paul deduced from the equality in the supply of manna.
 
+_SPIRITUAL MEAT._
 
-#### Spiritual Meat
-
-xvi. 15--36.
+Xvi. 15-36.
 
 Since the journey of Israel is throughout full of sacred meaning, no one can fail to discern a mystery in the silent ceaseless daily miracle of bread-giving. But we are not left to our conjectures. St. Paul calls manna "spiritual meat," not because it nourished the higher life (for the eaters of it murmured for flesh, and were not estranged from their lust), but because it answered to realities of the spiritual world (1 Cor. x. 3). And Christ Himself said, "It was not Moses that gave you the bread out of heaven, but My Father giveth you the true Bread from heaven," making manna the type of sustenance which the soul needs in the wilderness, and which only God can give (John vi. 32).
 
@@ -2050,10 +1937,9 @@ The Lord of the Sabbath already taught His people to respect His day. Upon it no
 
 Lastly, an omer of manna was to be kept throughout all generations, before the Testimony. Grateful remembrance of past mercies, temporal as well as spiritual, was to connect itself with the deepest and most awful mysteries of religion. So let it be with us. The bitter proverb that eaten bread is soon forgotten must never be true of the Christian. He is to remember all the way that the Lord his God hath led him. He is bidden to "forget not all His benefits, Who forgiveth all thine iniquities, Who healeth all thy diseases ... Who satisfieth thy mouth with good things." So foolish is the slander that religion is too transcendental for the common life of man.
 
-
 ### Chapter XVII — Meribah
 
-xvii. 1--7.
+Xvii. 1-7.
 
 The people, miraculously fed, are therefore called to exhibit more confidence in God than hitherto, because much is required of him to whom much is given. They have now to plunge deeper into the wilderness; and after two stages which Exodus omits (Num. xxxiii. 12, 13), and just as they approach the mount of God, they find themselves without water. Even the Son of Man Himself was led into the wilderness next after the descent of the Spirit, and the avowal by the voice of God; nor is any true Christian to marvel if his seasons of special privilege are succeeded by special demands upon his firmness.
 
@@ -2061,7 +1947,7 @@ One finds himself conjecturing, very often, what nobler history, what grander an
 
 It would be more practical and edifying to reflect how often we ourselves, like Israel, might have learned and exemplified deep things of the grace of God, when all we really exhibited was the well-worn lesson of human frailty and divine forbearance.
 
-In the story of our Lord, it has been observed that before the Pharisees directly assailed Himself, they found fault with His disciples who fasted not, or accosted them concerning Him Who ate with sinners. And so here the people really tempted God, but openly "strove with Moses," and with Aaron too, for the verb is a plural one: "Give ye water" (ver. 2).
+In the story of our Lord, it has been observed that before the Pharisees directly assailed Himself, they found fault with His disciples who fasted not, or accosted them concerning Him Who ate with sinners. And so here the people really tempted God, but openly "strove with Moses," and with Aaron too, for the verb is a plural one: "Give _ye_ water" (ver. 2).
 
 But as Aaron is merely an agent and spokesman, the chief value of this tacit allusion to him, besides proving his fidelity, is to refute the notion that he sinks into comparative obscurity only after the sin of the golden calf. Already his position is one to be indicated rather than expressed; and Moses said, "Why do ye quarrel with me? wherefore do ye try the Lord?"
 
@@ -2077,15 +1963,15 @@ A true religion is progressive: every stage of it leans on the past and sustains
 
 Reserving the symbolic meaning of this event for a future study, we have to remember meanwhile the warning which the apostle here discovered. All the people drank of the rock, yet with many of them God was not pleased. Privilege is one thing--acceptance is quite another; and it shall be more tolerable at last for Sodom and Gomorrah than for nations, churches and men, who were content to resemble soil that drinketh in the rain that cometh upon it oft, and yet to remain unfruitful. Already the conduct of Israel was such that the place was named from human worthlessness rather than Divine beneficence. Too often, it is the more conspicuous part of the story of the relations of God and man.
 
-AMALEK.
+_AMALEK._
 
-xvii. 8--16.
+Xvii. 8-16.
 
 Nothing can be more natural, to those who remember the value of a fountain in the East, than that Amalek should swoop down from his own territories upon Israel, as soon as this abundant river tempted his cupidity. This unprovoked attack of a kindred nation leads to another advance in the education of the people.
 
 They had hitherto been the sheep of God: now they must become His warriors. At the Red Sea it was said to them, "Stand still, and see the salvation of the Lord ... the Lord shall fight for you, and ye shall hold your peace" (xiv. 13). But it is not so now. Just as the function of every true miracle is to lead to a state of faith in which miracles are not required; just as a mother reaches her hand to a tottering infant, that presently the boy may go alone, so the Lord fought for Israel, that Israel might learn to fight for the Lord. The herd of slaves who came out of Egypt could not be trusted to stand fast in battle; and what a defeat would have done with them we may judge by their outcries at the very sight of Pharaoh. But now they had experience of Divine succour, and had drawn the inspiring breath of freedom. And so it was reasonable to expect that some chosen men of them at least will be able to endure the shock of battle. And if so, it was a matter of the last importance to develop and render conscious the national spirit, a spirit so noble in its unselfish readiness to die, and in its scorn of such material ills as anguish and mutilation compared with baseness and dishonour, that the re-kindling of it in seasons of peril and conflict is more than half a compensation for the horrors of a battle-field.
 
-We do not now inquire what causes avail to justify the infliction and endurance of those horrors. Probably they will vary from age to age; and as the ties grow strong which bind mankind together, the rupture of them will be regarded with an ever-deepening shudder,--just as England to-day would certainly refuse to make war upon our American kinsmen for a provocation which (rightly or wrongly) she would not endure from Russians. But the point to be observed is that war cannot be inherently immoral, since God instructed in war the first nation that He ever trained, not using its experience of His immediate interpositions to supersede all need of human strife, but to make valiant soldiers, and adding some of the most precious lessons of all their later experience on the battle-field and by the sword. Now, it assuredly cannot be shown that anything in itself immoral is fostered and encouraged by the Old Testament. Slavery and divorce, which it was not yet possible to extirpate, were hampered, restricted, and reduced to a minimum, being "suffered" "because of the hardness of their' hearts" (Matt. xix. 8). The wildest assailant of the Pentateuch will scarcely pretend that it fosters and incites either divorce or slavery, as, beyond all question, it encourages the martial ardour of the Jews.
+We do not now inquire what causes avail to justify the infliction and endurance of those horrors. Probably they will vary from age to age; and as the ties grow strong which bind mankind together, the rupture of them will be regarded with an ever-deepening shudder,--just as England to-day would certainly refuse to make war upon our American kinsmen for a provocation which (rightly or wrongly) she would not endure from Russians. But the point to be observed is that war cannot be inherently immoral, since God instructed in war the first nation that He ever trained, not using its experience of His immediate interpositions to supersede all need of human strife, but to make valiant soldiers, and adding some of the most precious lessons of all their later experience on the battle-field and by the sword. Now, it assuredly cannot be shown that anything in itself immoral is fostered and encouraged by the Old Testament. Slavery and divorce, which it was not yet possible to extirpate, were hampered, restricted, and reduced to a minimum, being "suffered" "because of the hardness of 'their' hearts" (Matt. xix. 8). The wildest assailant of the Pentateuch will scarcely pretend that it fosters and incites either divorce or slavery, as, beyond all question, it encourages the martial ardour of the Jews.
 
 And yet war, though permissible, and in certain circumstances necessary, is only necessary as the lesser of two evils; it is not in itself good. Solomon, not David, could build the temple of the Lord; and Isaiah sharply contrasts the Messiah with even that providentially appointed conqueror, the only pagan who is called by God "My anointed," in that the one comes upon rulers as upon mortar, and as the potter treadeth clay, but the Other breaks not a bruised reed, nor quenches the smoking flax (Isa. xli. 25, xlii. 3, xlv. 1). The ideal of humanity is peace, and also it is happiness, but war may not yet have ceased to be a necessity of life, sometimes as ruinous to evade as any other form of suffering.
 
@@ -2101,16 +1987,17 @@ Observe, however, that as the active exertion of the host does not displace the 
 
 Thus it came to pass that Israel won its first victory in battle. Another step was taken toward the fulfilment of the promise to Abraham to make of him a great nation; and also toward the gradual transference of the national faith from a passive reliance in Divine interposition to an abiding confidence in Divine help. Let it be clearly understood that this latter is the nobler and the more mature faith.
 
-With martial ardour, God took care to inculcate the sense of national responsibility, without which warriors become no more than brigands. So it was with Amalek: he had not been attacked or even menaced; he had marched out from his own territories to assail an innocent and kindred race ("then came Amalek" ver. 8), and his attack had been cruel and cowardly, he smote the hindmost, all that were feeble and in the rear, when they were faint and weary, and he feared not God (Deut. xxv. 18). Against all such tactics the wrath of God was denounced when, because of them, Amalek was doomed to total extirpation.
+With martial ardour, God took care to inculcate the sense of national responsibility, without which warriors become no more than brigands. So it was with Amalek: he had not been attacked or even menaced; he had marched out from his own territories to assail an innocent and kindred race ("then _came_ Amalek" ver. 8), and his attack had been cruel and cowardly, he smote the hindmost, all that were feeble and in the rear, when they were faint and weary, and he feared not God (Deut. xxv. 18). Against all such tactics the wrath of God was denounced when, because of them, Amalek was doomed to total extirpation.
 
 Moses now built an altar, to imprint on the mind of the people this new lesson. And he called it, "The Lord is my Banner," a title which called the nation at once to valour and to obedience, which asserted that they were an army, but a consecrated one.
 
-Now let us ask whether this simple story is at all the kind of thing which legend or myth would have created, for the first martial exploit of Israel. The obscure part played by Moses is not what we would expect; nor, even as a mediator, is the position of one whose arms must be held up a very romantic conception. If the object is to inspire the Jews for later struggles with more formidable foes, the story is ill-contrived, for we read of no surprising force of Amalek, and no inspiriting exploit of Joshua. Everything is as prosaic as the real course of events in this poor world is wont to be. And on that account it is all the more useful to us who live prosaic lives, and need the help of God among prosaic circumstances.
+* * * * *
 
+Now let us ask whether this simple story is at all the kind of thing which legend or myth would have created, for the first martial exploit of Israel. The obscure part played by Moses is not what we would expect; nor, even as a mediator, is the position of one whose arms must be held up a very romantic conception. If the object is to inspire the Jews for later struggles with more formidable foes, the story is ill-contrived, for we read of no surprising force of Amalek, and no inspiriting exploit of Joshua. Everything is as prosaic as the real course of events in this poor world is wont to be. And on that account it is all the more useful to us who live prosaic lives, and need the help of God among prosaic circumstances.
 
 ### Chapter XVIII — Jethro
 
-xviii. 1--27.
+Xviii. 1-27.
 
 The defeat of Amalek is followed by the visit of Jethro; the opposite pole of the relation between Israel and the nations, the coming of the Gentiles to his brightness. And already that is true which repeats itself all through the history of the Church, that much secular wisdom, the art of organisation, the structure and discipline of societies, may be drawn from the experience and wisdom of the world.
 
@@ -2120,7 +2007,7 @@ Jethro is the kinsman, and probably the brother-in-law of Moses; for if he were 
 
 But the relations between Moses and Jethro are charming, whether we look at the obeisance rendered to the official minister of God by him whom God had honoured so specially, by the prosperous man to the friend of his adversity, or at the interest felt by the priest of Midian in all the details of the great deliverance of which he had heard already, or his joy in a Divine manifestation, probably not in all respects according to the prejudices of his race, or his praise of Jehovah as "greater than all gods, yea, in the thing wherein they dealt proudly against them" (ver. 11, R.V.). The meaning of this phrase is either that the gods were plagued in their own domains, or that Jehovah had finally vanquished the Egyptians by the very element in which they were most oppressive, as when Moses himself had been exposed to drown.
 
-There is another expression, in the first verse, which deserves to be remarked. How do the friends of a successful man think of the scenes in which he has borne a memorable part? They chiefly think of them in connection with their own hero. And amid all the story of the Exodus, in which so little honour is given to the human actor, the one trace of personal exultation is where it is most natural and becoming; it is in the heart of his relative: "When Jethro ... heard of all that the Lord had done for Moses and for Israel."
+There is another expression, in the first verse, which deserves to be remarked. How do the friends of a successful man think of the scenes in which he has borne a memorable part? They chiefly think of them in connection with their own hero. And amid all the story of the Exodus, in which so little honour is given to the human actor, the one trace of personal exultation is where it is most natural and becoming; it is in the heart of his relative: "When Jethro ... heard of all that the Lord had done _for Moses_ and for Israel."
 
 We are told, with marked emphasis, that this Midianite, a priest, and accustomed to act as such with Moses in his family, "took a burnt-offering and sacrifices for God; and Aaron came, and all the elders of Israel, to eat bread with Moses' father-in-law before God." Nor can we doubt that the writer of the Epistle to the Hebrews, who laid such stress upon the subordination of Abraham to Melchizedek, would have discerned in the relative position of Jethro and Aaron another evidence that the ascendency of the Aaronic priesthood was only temporary. We shall hereafter see that priesthood is a function of redeemed humanity, and that all limitations upon it were for a season, and due to human shortcoming. But for this very reason (if there were no other) the chief priest could only be He Who represents and embodies all humanity, in Whom is neither Jew nor Greek, barbarian, Scythian, bond nor free, because He is all and in all.
 
@@ -2132,16 +2019,15 @@ On the morrow, Jethro saw Moses, all day long, deciding the small matters and gr
 
 But the true statesman and administrator is he who employs to the utmost all the capabilities and energies of his subordinates. And Jethro made a deep mark in history when he taught Moses the distinction between the lawgiver and the judge, between him who sought from God and proclaimed to the people the principles of justice and their form, and him who applied the law to each problem as it arose.
 
-"It is supposed, and with probability," writes Kalisch (in loco), "that Alfred the Great, who was well versed in the Bible, based his own Saxon constitution of sheriffs in counties, etc., on the example of the Mosaic division (comp. Bacon on English Government, i. 70)." And thus it may be that our own nation owes its free institutions almost directly to the generous interest in the well-being of his relative, felt by an Arabian priest, who cherished, amid the growth of idolatries all around him, the primitive belief in God, and who rightly held that the first qualifications of a capable judge were ability, and the fear of God, truthfulness and hatred of unjust gain.
+"It is supposed, and with probability," writes Kalisch (_in loco_), "that Alfred the Great, who was well versed in the Bible, based his own Saxon constitution of sheriffs in counties, etc., on the example of the Mosaic division (comp. _Bacon on English Government_, i. 70)." And thus it may be that our own nation owes its free institutions almost directly to the generous interest in the well-being of his relative, felt by an Arabian priest, who cherished, amid the growth of idolatries all around him, the primitive belief in God, and who rightly held that the first qualifications of a capable judge were ability, and the fear of God, truthfulness and hatred of unjust gain.
 
-We learn from Deuteronomy (i. 9--15), that Moses allowed the people themselves to elect these officials, who became not only their judges but their captains.
+We learn from Deuteronomy (i. 9-15), that Moses allowed the people themselves to elect these officials, who became not only their judges but their captains.
 
 From the whole of this narrative we see clearly that the intervention of God for Israel is no more to be regarded as superseding the exercise of human prudence and common-sense, than as dispensing with valour in the repulse of Amalek, and with patience in journeying through the wilderness.
 
+THE TYPICAL BEARINGS OF THE HISTORY.
 
-#### The Typical Bearings of the History
-
-We are now about to pass from history to legislation. And this is a convenient stage at which to pause, and ask how it comes to pass that all this narrative is also, in some sense, an allegory. It is a discussion full of pitfalls. Countless volumes of arbitrary and fanciful interpretation have done their worst to discredit every attempt, however cautious and sober, at finding more than the primary signification in any narrative. \[32\] And whoever considers the reckless, violent and inconsistent methods of the mystical commentators may be forgiven if he recoils from occupying the ground which they have wasted, and contents himself with simply drawing the lessons which the story directly suggests.
+We are now about to pass from history to legislation. And this is a convenient stage at which to pause, and ask how it comes to pass that all this narrative is also, in some sense, an allegory. It is a discussion full of pitfalls. Countless volumes of arbitrary and fanciful interpretation have done their worst to discredit every attempt, however cautious and sober, at finding more than the primary signification in any narrative. [fn. 32: Take as an example the assertion of Bunyan that the sea in the Revelation is a sea of glass, because the laver in the tabernacle was made of the brazen looking-glasses of the women. (_Solomon's Temple_, xxxvi. 1.)] And whoever considers the reckless, violent and inconsistent methods of the mystical commentators may be forgiven if he recoils from occupying the ground which they have wasted, and contents himself with simply drawing the lessons which the story directly suggests.
 
 But the New Testament does not warrant such a surrender. It tells us that leaven answers to malice, and unleavened bread to sincerity; that at the Red Sea the people were baptized; that the tabernacle and the altar, the sacrifice and the priest, the mercy-seat and the manna, were all types and shadows of abiding Christian realities.
 
@@ -2183,12 +2069,13 @@ And hence it follows that we may dwell with interest and edification upon analog
 
 In the meantime it is easy to recognise the much simpler fact, that these things happened unto them by way of example, and they were written for our admonition.
 
-
 ### Chapter XIX — At Sinai
 
-xix. 1--25.
+Xix. 1-25.
 
 In the third month from the Exodus, and on the selfsame day (which addition fixes the date precisely), the people reached the wilderness of Sinai. This answers fairly to the date of Pentecost, which was afterwards connected by tradition with the giving of the law. And therefore Pentecost was the right time for the gift of the Holy Ghost, bringing with Him the law of the spirit of life in Christ Jesus, and that freedom from servile Jewish obedience which is not attained by violating law, but by being imbued in its spirit, by the love which is the fulfilling of the law.
+
+* * * * *
 
 There is among the solemn solitudes of Sinai a wide amphitheatre, reached by two converging valleys, and confronted by an enormous perpendicular cliff, the Ras Sufsâfeh--a "natural altar," before which the nation had room to congregate, awed by the stern magnificence of the approach, and by the intense loneliness and desolation of the surrounding scene, and thus prepared for the unparalleled revelation which awaited them.
 
@@ -2200,13 +2087,13 @@ It is easy to speak of pledges and formal declarations lightly, but they have th
 
 Therefore the Lord called to Moses as he climbed the steep, and offered through him a formal covenant to the people.
 
-"Thus shalt thou say to the house of Jacob, \[33\] and tell the children of Israel: Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto Myself."
+"Thus shalt thou say to the house of Jacob, [fn. 33: This phrase is not found elsewhere in the Pentateuch. Is it fancy which detects in it a desire to remind them of their connection with the least worthy rather than the noblest of the Patriarchs? One would not expect, for instance, to read, Fear not, thou worm Abraham, or even Israel; but the name of Jacob at once calls up humble associations.] and tell the children of Israel: Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto Myself."
 
 The appeal is to their personal experience and their gratitude: will this be enough? will they accept His yoke, as every convert must, not knowing what it may involve, not yet having His demands specified and His commandments before their eyes, content to believe that whatever is required of them will be good, because the requirement is from God? Thus did Abraham, who went forth, not knowing whither, but knowing that he was divinely guided. "Now, therefore, if ye will obey My voice indeed and keep My covenant, then ye shall be a peculiar treasure unto Me from among all peoples; for all the earth is Mine, and ye shall be unto Me a kingdom of priests and a holy nation."
 
 Thus God conveys to them, more explicitly than hitherto, the fact that He is the universal Lord, not ruling one land or nation only, nor, as the Pentateuch is charged with teaching, their tutelary deity among many others. Thus also the seeds are sown in them of a wholesome and rational self-respect, such as the Psalmist felt, who asked "What is man, that Thou art mindful of him?" yet realised that such mindfulness gave to man a real dignity, made him but little lower than the angels, and crowned him with glory and honour.
 
-Abolish religion, and mankind will divide into two classes,--one in which vanity, unchecked by any spiritual superior, will obey no restraints of law, and another of which the conscious pettiness will aspire to no dignity of holiness, and shrink from no dishonour of sin. It is only the presence of a loving God which can unite in us the sense of humility and greatness, as having nothing and yet possessing all things, and valued by God as His "peculiar treasure." \[34\]
+Abolish religion, and mankind will divide into two classes,--one in which vanity, unchecked by any spiritual superior, will obey no restraints of law, and another of which the conscious pettiness will aspire to no dignity of holiness, and shrink from no dishonour of sin. It is only the presence of a loving God which can unite in us the sense of humility and greatness, as having nothing and yet possessing all things, and valued by God as His "peculiar treasure." [fn. 34: This word is the same which occurs in the verse so beautifully but erroneously rendered "They shall be Mine, saith the Lord of hosts, in the day when I make up My jewels" (Mal. iii. 17, A.V.). "They shall be Mine ... in the day that I do make, even a peculiar treasure" (R.V.).]
 
 And with a reasonable self-respect should come a noble and yet sober dignity--"Ye shall be a kingdom of priests," a dynasty (for such is the meaning) of persons invested with royal and also with priestly rank. This was spoken just before the law gave the priesthood into the hands of one tribe; and thus we learn that Levi and Aaron were not to supplant the nation, but to represent it.
 
@@ -2220,7 +2107,7 @@ To this appeal the nation responded gladly. They could feel that indeed they had
 
 With the adhesion of Israel to the covenant, Moses returned to God. And the Lord said, "Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and may also believe thee for ever."
 
-The design was to deepen their reverence for the Lawgiver Whose law they should now receive; to express by lessons, not more dreadful than the plagues of Egypt, but more vivid and sublime, the tremendous grandeur of Him Who was making a covenant with them, Who had borne them on His wings and called them His firstborn Son, Whom therefore they might be tempted to approach with undue familiarity, were it not for the mountain that burned up to heaven, the voice of the trumpet waxing louder and louder, and the Appearance so fearful that Moses said, "I exceedingly fear and quake" (to phantazomenon--Heb. xii. 21).
+The design was to deepen their reverence for the Lawgiver Whose law they should now receive; to express by lessons, not more dreadful than the plagues of Egypt, but more vivid and sublime, the tremendous grandeur of Him Who was making a covenant with them, Who had borne them on His wings and called them His firstborn Son, Whom therefore they might be tempted to approach with undue familiarity, were it not for the mountain that burned up to heaven, the voice of the trumpet waxing louder and louder, and the Appearance so fearful that Moses said, "I exceedingly fear and quake" (=to phantazomenon=--Heb. xii. 21).
 
 When thus the Deity became terrible, the envoy would be honoured also.
 
@@ -2234,11 +2121,11 @@ On the third day, after a soul-searching interval, there were thunders and light
 
 And the priests also, who come near to God, should sanctify themselves. It has been asked who these were, since the Levitical institutions were still non-existent (ver. 22, cf. 24). But it is certain that the heads of houses exercised priestly functions; and it is not impossible that the elders of Israel who came to eat before God with Jethro (xviii. 12) had begun to perform religious functions for the people. Is it supposed that the nation had gone without religious services for three months?
 
-It has been remarked by many that the law of Moses appealed for acceptance to popular and even democratic sanctions. The covenant was ratified by a plébiscite. The tremendous evidence was offered equally to all. For, said St. Augustine, "as it was fit that the law which was given, not to one man or a few enlightened people, but to the whole of a populous nation, should be accompanied by awe-inspiring signs, great marvels were wrought ... before the people" (De Civ. Dei, x. 13).
+It has been remarked by many that the law of Moses appealed for acceptance to popular and even democratic sanctions. The covenant was ratified by a plébiscite. The tremendous evidence was offered equally to all. For, said St. Augustine, "as it was fit that the law which was given, not to one man or a few enlightened people, but to the whole of a populous nation, should be accompanied by awe-inspiring signs, great marvels were wrought ... before the people" (_De Civ. Dei_, x. 13).
 
-We have also to observe the contrast between the appearance of God on Sinai and His manifestation in Jesus. And this also was strongly wrought out by an ancient father, who represented the Virgin Mary, in the act of giving Jesus into the hands of Simeon, as saying, "The blast of the trumpet does not now terrify those who approach, nor a second time does the mountain, all on fire, cause terror to those who come nigh, nor does the law punish relentlessly those who would boldly touch. What is present here speaks of love to man; what is apparent, of the Divine compassion." (Methodius De Sym. et Anna, vii.)
+We have also to observe the contrast between the appearance of God on Sinai and His manifestation in Jesus. And this also was strongly wrought out by an ancient father, who represented the Virgin Mary, in the act of giving Jesus into the hands of Simeon, as saying, "The blast of the trumpet does not now terrify those who approach, nor a second time does the mountain, all on fire, cause terror to those who come nigh, nor does the law punish relentlessly those who would boldly touch. What is present here speaks of love to man; what is apparent, of the Divine compassion." (Methodius _De Sym. et Anna_, vii.)
 
-But we must remember that the Epistle to the Hebrews regards the second manifestation as the more solemn of the two, for this very reason: that we have not come to a burning mountain, or to mortal penalties for carnal irreverence, but to the spiritual mountain Zion, to countless angels, to God the Judge, to the spirits of just men made perfect, and to Jesus Christ. If they escaped not, when they refused Him Who warned on earth, much more we, who turn away from Him Who warneth from heaven (Heb. xii. 18--25).
+But we must remember that the Epistle to the Hebrews regards the second manifestation as the more solemn of the two, for this very reason: that we have not come to a burning mountain, or to mortal penalties for carnal irreverence, but to the spiritual mountain Zion, to countless angels, to God the Judge, to the spirits of just men made perfect, and to Jesus Christ. If they escaped not, when they refused Him Who warned on earth, much more we, who turn away from Him Who warneth from heaven (Heb. xii. 18-25).
 
 There is a question, lying far behind all these, which demands attention.
 
@@ -2250,14 +2137,13 @@ We have also to ask for the production of those other narratives, sublime in the
 
 Is it seriously meant to compare the alleged disappearance of Romulus, or the secret interviews of Numa with his Egeria, to a history like this? Surely one similar story should be produced, before it is asserted that such stories are everywhere.
 
-
 ### Chapter XX — The Law
 
-xx. 1--17.
+Xx. 1-17.
 
 We have now reached that great event, one of the most momentous in all history, the giving of the Ten Commandments. And it is necessary to consider what was the meaning of this event, what part were they designed to play in the religious development of mankind.
 
-**1.** St. Paul tells us plainly what they did not effect. By the works of the law could no flesh be justified: to the father of the Hebrew race faith was reckoned instead of righteousness; the first of their royal line coveted the blessedness not of the obedient but of the pardoned; and Habakkuk declared that the just should live by his faith, while the law is not of faith, and offers life only to the man that doeth these things (Rom. iv. 3, 6; Gal. iii. 12). In the doctrinal scheme of St. Paul there was no room for a compromise between salvation by faith and reliance upon our own performance of any works, even those simple and obvious duties which are of world-wide obligation.
+**1.** St. Paul tells us plainly what they did _not_ effect. By the works of the law could no flesh be justified: to the father of the Hebrew race faith was reckoned instead of righteousness; the first of their royal line coveted the blessedness not of the obedient but of the pardoned; and Habakkuk declared that the just should live by his faith, while the law is not of faith, and offers life only to the man that doeth these things (Rom. iv. 3, 6; Gal. iii. 12). In the doctrinal scheme of St. Paul there was no room for a compromise between salvation by faith and reliance upon our own performance of any works, even those simple and obvious duties which are of world-wide obligation.
 
 **2.** But he never meant to teach that a Christian is free from the obligation of the moral law. If it is not true that we can keep it and so earn heaven, it is equally false that we may break it without penalty or remorse. What he insisted upon was this: that obligation is one thing, and energy is another; the law is good, but it has not the gift of pardon or of inspiration; by itself it will only reveal the feebleness of him who endeavours to perform it, only force into direst contrast the spiritual beauty of the pure ideal and the wretchedness of the sinner, carnal, sold under sin. In this respect, indeed, the law was its own witness. For if, among all the millions of its children, one had lived by obedience, how could he have shared in its elaborate sacrificial apparatus, in the hallowing of the altar from pollution by the national uncleanness, in the sprinkling of the blood of the offering for sin? Take the case of the highest official. A sinless high priest under the law would have been paralysed by his virtue, for his duty on the greatest day of all the year was to make atonement first for his own sins.
 
@@ -2269,7 +2155,7 @@ We have now reached that great event, one of the most momentous in all history, 
 
 And thus the grand paradox of Luther is entirely true: "Unless faith be without any, even the smallest works, it does not justify, nay, it is not faith. And yet it is impossible for faith to be without works--earnest, many and great." We are justified by faith without the works of the law, and yet we do not make void the law by faith--nay, we establish the law.
 
-All this agrees exactly with the contrast, so often urged, between the giving of the Law and the utterance of the Sermon on the Mount. The former echoes across wild heights, and through savage ravines; the latter is heard on the grassy slopes of the hillside which overlooks the smiling Lake of Galilee. The one is spoken in thunder and graven upon stone: the other comes from the lips, into which grace is poured, of Him Who was fairer than the children of men. The former repeats again and again the stern warning, "Thou shalt not!" The latter crowns a sevenfold description of a blessedness, which is deeper than joy, though pensive and even weeping, by adding to these abstract descriptions an eighth, which applies them, and assumes them to be realised in His hearers--"Blessed are ye." If so much as a beast touched the mountain it should be stoned. But Simeon took the Divine Infant in his arms.
+All this agrees exactly with the contrast, so often urged, between the giving of the Law and the utterance of the Sermon on the Mount. The former echoes across wild heights, and through savage ravines; the latter is heard on the grassy slopes of the hillside which overlooks the smiling Lake of Galilee. The one is spoken in thunder and graven upon stone: the other comes from the lips, into which grace is poured, of Him Who was fairer than the children of men. The former repeats again and again the stern warning, "Thou shalt not!" The latter crowns a sevenfold description of a blessedness, which is deeper than joy, though pensive and even weeping, by adding to these abstract descriptions an eighth, which applies them, and assumes them to be realised in His hearers--"Blessed are _ye_." If so much as a beast touched the mountain it should be stoned. But Simeon took the Divine Infant in his arms.
 
 And this is not because God has become gentler, or man worthier: it is because God the Lawgiver upon His throne has come down to be God the Helper. But the beatitudes could never have been spoken, if the law had not been imposed: the blessedness of a hunger and thirst for righteousness was created by the majestic and spiritual beauty of the unattained commandment.
 
@@ -2289,33 +2175,31 @@ We thus obtain both the simplest division and the clearest arrangement. In Roman
 
 Finally, the comprehensiveness and spirituality of the law may be observed in this; that the first table forbids sin against God in thought, word and deed; and the second table forbids sin against man in deed, word and thought.
 
+_THE PROLOGUE._
 
-#### The Prologue
-
-xx. 2.
+Xx. 2.
 
 The Decalogue is introduced by the words "I am the Lord thy God, which brought thee out of the land of Egypt, out of the house of bondage."
 
 Here, and in the previous chapter, is already a great advance upon the time when it was said to them "The God of thy fathers, the God of Abraham, of Isaac, and of Jacob, hath appeared." Now they are expected to remember what He has done for themselves. For, although religion must begin with testimony, it ought always to grow up into an experience. Thus it was that many of the Samaritans believed on Jesus because of the word of the woman; but presently they said, "Now we believe, not because of thy speaking, for we have heard Him ourselves, and know." And thus the disciples who heard John the Baptist speak, and so followed Jesus, having come and seen where He abode, could say, "We have found the Messiah."
 
-This prologue is vitally connected with both tables of the law. In relation to the first, it recognises the instinct of worship in the human heart. In vain shall we say Do not worship idols, until the true object of adoration is supplied, for the heart must and will prostrate itself at some shrine. A leader of modern science confesses "the immovable basis of the religious sentiment in the nature of man," adding that "to yield this sentiment reasonable satisfaction is the problem of problems at the present hour." \[35\] It is indeed a problem for the unbelief which, because it professes to be scientific, cannot shut its eyes to the fact that men whose faith in Christ has suffered shipwreck are everywhere seen to be clinging to strange planks--spiritualism, esoteric Buddhism, and other superstitions,--which prove that man must and will reverence something more than streams of tendencies, or beneficial results to the greatest numbers. The Law of Moses abolishes superstition by no mere negation, but by the proclamation of a true God.
+This prologue is vitally connected with both tables of the law. In relation to the first, it recognises the instinct of worship in the human heart. In vain shall we say Do not worship idols, until the true object of adoration is supplied, for the heart must and will prostrate itself at some shrine. A leader of modern science confesses "the immovable basis of the religious sentiment in the nature of man," adding that "to yield this sentiment reasonable satisfaction is the problem of problems at the present hour." [fn. 35: Prof. Tyndall, _Belfast Address_, p. 60. What progress has scientific unbelief made since 1874 in solving this "question of questions for the present hour"? It has perfected the phonograph, but it has not devised a creed.] It is indeed a problem for the unbelief which, because it professes to be scientific, cannot shut its eyes to the fact that men whose faith in Christ has suffered shipwreck are everywhere seen to be clinging to strange planks--spiritualism, esoteric Buddhism, and other superstitions,--which prove that man must and will reverence something more than streams of tendencies, or beneficial results to the greatest numbers. The Law of Moses abolishes superstition by no mere negation, but by the proclamation of a true God.
 
-Moreover, it declares that this God is knowable, which flatly contradicts the brave assertion of modern agnostics that the notion of a God is not even "thinkable." That assertion is a bald and barren platitude in the only sense in which it is not contrary to the experience of all mankind. As we cannot form a complete and perfect, nor even an adequate notion of God, so no man ever yet conceived a complete and adequate notion of his neighbour, nor indeed of himself. But as we can form a notion of one another, dim and fragmentary indeed, yet more or less accurate and fit to guide our actions, so has every nation and every man formed some notion of deity. Nor could even the agnostic declare that God is unthinkable, unless the word God, of which he makes this assertion, conveyed to him some idea, some thought, more or less worthy of the thinking. The ancient Jew never dreamed that he could search out the Almighty to perfection, yet God was known to him by His actions (the only means by which we know our fellow-men); and the combined terror and loving-kindness of these at once warned him against revolt, and appealed to his loyalty for obedience.
+Moreover, it declares that this God is knowable, which flatly contradicts the brave assertion of modern agnostics that the notion of a God is not even "thinkable." That assertion is a bald and barren platitude in the only sense in which it is not contrary to the experience of all mankind. As we cannot form a complete and perfect, nor even an adequate notion of God, so no man ever yet conceived a complete and adequate notion of his neighbour, nor indeed of himself. But as we can form a notion of one another, dim and fragmentary indeed, yet more or less accurate and fit to guide our actions, so has every nation and every man formed some notion of deity. Nor could even the agnostic declare that God is unthinkable, unless the word God, of which he makes this assertion, conveyed to him _some_ idea, some thought, more or less worthy of the thinking. The ancient Jew never dreamed that he could search out the Almighty to perfection, yet God was known to him by His actions (the only means by which we know our fellow-men); and the combined terror and loving-kindness of these at once warned him against revolt, and appealed to his loyalty for obedience.
 
 In relation to the second table, the prologue was both an argument and an appeal. Why should a man hope to prosper by estranging his best Friend, his Emancipator and Guide? And even if disobedience could obtain some paltry advantage, how base would he be who snatched at it, when forbidden by the God Who broke his chains, and brought him out of the house of bondage--a Benefactor not ungenial and remote, but One Who enters into closest relations with him, calling Himself "Thy God"!
 
-Now, a greater emancipation and a closer personal relationship belong to the Church of Christ. When a Christian hears that God is unthinkable, he ought to be able to answer, God is my God, and He has brought my soul out of its house of bondage.'
+Now, a greater emancipation and a closer personal relationship belong to the Church of Christ. When a Christian hears that God is unthinkable, he ought to be able to answer, 'God is my God, and He has brought my soul out of its house of bondage.'
 
 Moreover, his emancipation by Christ from many sins and inner slaveries ought to be a fact plain enough to constitute the sorest of problems to the observing world.
 
 It must be observed, besides, that the Law, which was the centre of Judaism, does not appeal chiefly to the meaner side of human nature. Hell is not yet known, for the depths of eternity could not be uncovered before the clouds had rolled away from its heights of love and condescension; or else the sanity and balance of human nature would have been overthrown. But even temporal judgments are not set in the foremost place. As St. Paul, who knew the terrors of the Lord, more commonly and urgently besought men by the mercies of God, so were the ancient Jews, under the burning mountain, reminded rather of what God had bestowed upon them, than of what He might inflict if they provoked Him. And our gratitude, like theirs, should be excited by His temporal as well as His spiritual gifts to us.
 
-
-#### The First Commandment
+_THE FIRST COMMANDMENT._
 
 "Thou shalt have none other gods before Me."--xx. 3.
 
-When these words fell upon the ears of Israel, they conveyed, as their primary thought, a prohibition of the formal worship of rival deities, Egyptian or Sidonian gods. Following immediately upon the proclamation of Jehovah, their own God, they declared His intolerance of rivalry, and enjoined a strict and jealous monotheism. For God was a reality. Races who worshipped idealisations or personifications might easily make room for other poetic embodiments of human thought and feeling; but Jehovah would vindicate His rights. He had proved himself very real in Egypt. Other gods would not displace Him: He would observe them: they would be "before Me." \[36\] God does not quit the scene when man forgets Him.
+When these words fell upon the ears of Israel, they conveyed, as their primary thought, a prohibition of the formal worship of rival deities, Egyptian or Sidonian gods. Following immediately upon the proclamation of Jehovah, their own God, they declared His intolerance of rivalry, and enjoined a strict and jealous monotheism. For God was a reality. Races who worshipped idealisations or personifications might easily make room for other poetic embodiments of human thought and feeling; but Jehovah would vindicate His rights. He had proved himself very real in Egypt. Other gods would not displace Him: He would observe them: they would be "before Me." [fn. 36: "Or _beside Me_" (R.V.) The preposition is so vague that either of our English words may suggest quite too definite a meaning, as when "before Me" is made to mean "in My angry eyes," or "beside Me" is taken to hint at resentment for intrusion upon the same throne.] God does not quit the scene when man forgets Him.
 
 Now, it is hard for us to realise the charm which the worship of false gods possessed for ancient Israel. To comprehend it we must reflect upon the universal ignorance which made every phenomenon of nature a portentous manifestation of mysterious and varied power, which they could by no means trace back to a common origin, while the crash and discord of the results appeared to indicate opposing wills behind. We must reflect how closely akin is awe to worship, and how blind and unintelligent was the awe which storm and earthquake and pestilence then excited. We must remember the pressure upon them of surrounding superstitions armed with all the civilisation and art of their world. Above all, we must consider that the gods which seduced them were not of necessity supreme: homage to them was very fairly consistent with a reservation of the highest place for another; so that false worship in its early stages need not have been much more startling than belief in witchcraft, or in the paltry and unimaginative "spirits" which, in our own day, are reputed to play the banjo in a dark room, and to untie knots in a cabinet. Is it for us to deride them?
 
@@ -2325,15 +2209,15 @@ To oppose all such tendencies, the Lord appealed not to philosophy and sound rea
 
 Never let us weary of repeating that while we have ample controversial resource, while no missile can pierce the chain-armour of the Christian evidences, connected and interwoven into a great whole, and while the infidelity which is called scientific is really infidel only so far as it begs its case (which is an unscientific thing to do), nevertheless the strength of our position is experimental. If the experience which testifies to Jesus were historical alone, I might refuse to give it credit: if it were only personal, I might ascribe it to enthusiasm. But as long as a great cloud of living witnesses, and all the history of the Church, declare the reality of His salvation, while I myself feel the sufficiency of what He offers (or else the bitter need of it), so long the question is not between conflicting theories, but between theories and facts. To have another god is to place him beside One Whom we already have, and Who has wrought for us the great emancipation. It is not an error in theological science: it is ingratitude and treason.
 
-But it very soon became evident that men could apostatise from God otherwise than in formal worship, chant and sacrifice and prostration: "This people honoureth me with their mouths, but their hearts are far from Me." God asks for love and trust, and our litanies should express and cultivate these. Whatever steals away these from the Lord is really His rival, and another god. "What is it to have a God? or what is God?" Luther asks. And he answers, "He is God, and is so called, from Whose goodness and power thou dost confidently promise all good things to thyself, and to Whom thou dost fly from all adverse affairs and pressing perils. So that to have a God is nothing else than to trust Him and believe in Him with all the heart, even as I have often alleged that the reliance of the heart constitutes alike one's God and one's idol.... In what thing soever thou hast thy mind's reliance and thine heart fixed, that is beyond doubt thy God" (Larger Catechism).
+But it very soon became evident that men could apostatise from God otherwise than in formal worship, chant and sacrifice and prostration: "This people honoureth me with their mouths, but their hearts are far from Me." God asks for love and trust, and our litanies should express and cultivate these. Whatever steals away these from the Lord is really His rival, and another god. "What is it to have a God? or what is God?" Luther asks. And he answers, "He is God, and is so called, from Whose goodness and power thou dost confidently promise all good things to thyself, and to Whom thou dost fly from all adverse affairs and pressing perils. So that to have a God is nothing else than to trust Him and believe in Him with all the heart, even as I have often alleged that the reliance of the heart constitutes alike one's God and one's idol.... In what thing soever thou hast thy mind's reliance and thine heart fixed, that is beyond doubt thy God" (_Larger Catechism_).
 
-And again: "What sort of religion is this, to bow not the knees to riches and honour, but to offer them the noblest part of you, the heart and mind? It is to worship the true God outwardly and in the flesh, but the creature inwardly and in spirit" (X. Præcepta Witt. Prædicata).
+And again: "What sort of religion is this, to bow not the knees to riches and honour, but to offer them the noblest part of you, the heart and mind? It is to worship the true God outwardly and in the flesh, but the creature inwardly and in spirit" (_X. Præcepta Witt. Prædicata_).
 
-It was on this ground that he included charms and spells among the sins against this commandment, because, though "they seem foolish rather than wicked, yet do they lead to this too grave result, that men learn to rely upon the creature in trifles, and so fail in great things to rely upon God" (Ibid.)
+It was on this ground that he included charms and spells among the sins against this commandment, because, though "they seem foolish rather than wicked, yet do they lead to this too grave result, that men learn to rely upon the creature in trifles, and so fail in great things to rely upon God" (_Ibid._)
 
-This view of false worship is frequent in Scripture itself. The Chaldeans were idolaters of an elaborate and imposing ritual, but their true deities were not to be found in temples. They adored what they really trusted upon, and that was their military prowess--the god of the modern commander, who said that Providence sided with the big battalions. The Chaldean is "he whose might is his god," whereas the sacred warrior has the Lord for his strength and shield and very present help in battle. Nay, regarding men "as the fishes of the sea," and his own vast armaments as the fisher's apparatus to sweep them away, the Chaldean, it is said, "sacrificeth unto his net, and burneth incense unto his drag; because by them his portion is fat and his meat plenteous" (Hab. i. 11, 14--16). Multitudes of humbler people practise a similar idolatry. They say to God "Give us this day our daily bread"; but they really ascribe their maintenance to their profession or their trade; and so this is the true object of their homage. They, too, burn incense to their drag.
+This view of false worship is frequent in Scripture itself. The Chaldeans were idolaters of an elaborate and imposing ritual, but their true deities were not to be found in temples. They adored what they really trusted upon, and that was their military prowess--the god of the modern commander, who said that Providence sided with the big battalions. The Chaldean is "he whose might is his god," whereas the sacred warrior has the Lord for his strength and shield and very present help in battle. Nay, regarding men "as the fishes of the sea," and his own vast armaments as the fisher's apparatus to sweep them away, the Chaldean, it is said, "sacrificeth unto his net, and burneth incense unto his drag; because by them his portion is fat and his meat plenteous" (Hab. i. 11, 14-16). Multitudes of humbler people practise a similar idolatry. They say to God "Give us this day our daily bread"; but they really ascribe their maintenance to their profession or their trade; and so this is the true object of their homage. They, too, burn incense to their drag.
 
-Others had no thought of a higher blessedness than animal enjoyment. Their god was their belly. They set the excitement of wine in the place of the fulness of the Spirit, or preferred some depraved union upon earth to the honour of being one spirit with the Lord (Phil. iii. 19; Eph. v. 18; 1 Cor. vi. 16, 17). And some tried to combine the world and righteousness; not to lose heaven while grasping wealth, and receiving here not only good things, but the only good things they acknowledged--their good things (Luke xvi. 25). As the Samaritans feared the Lord and served graven images, so these were fain to serve God and mammon (2 Kings xvii. 41; Matt. vi. 24).
+Others had no thought of a higher blessedness than animal enjoyment. Their god was their belly. They set the excitement of wine in the place of the fulness of the Spirit, or preferred some depraved union upon earth to the honour of being one spirit with the Lord (Phil. iii. 19; Eph. v. 18; 1 Cor. vi. 16, 17). And some tried to combine the world and righteousness; not to lose heaven while grasping wealth, and receiving here not only good things, but the only good things they acknowledged--_their_ good things (Luke xvi. 25). As the Samaritans feared the Lord and served graven images, so these were fain to serve God and mammon (2 Kings xvii. 41; Matt. vi. 24).
 
 Now, these departures from the true Centre of all love and Source of all light were really a homage to His great rival, "the god of this world." Whenever men seek to obtain any prize by departing from God, they do reverence to him who falsely said of all the kingdoms of the earth, and their glory, "These things are delivered unto me, and to whomsoever I will I give them." They deny Him to Whom indeed all power is committed in heaven and earth.
 
@@ -2341,10 +2225,9 @@ What is the remedy, then, for all such formal or virtual apostasies? It is to "h
 
 Despite His so-called self-sufficiency, man is not very self-sufficing, after all. The vast endowments of Julius Cæsar did not prevent him from chafing because, at the age when he was still obscure, Alexander had conquered the world. To be Julius Cæsar was not enough for him. Nor is any man able to stand alone. In the Old Testament Joshua said, "If it seem evil unto you to serve the Lord, choose you this day whom ye will serve,"--implying that they must obey some one and will do better to choose a service than to drift into one (Josh. xxiv. 15). And in the New Testament Jesus declared that no man can serve two masters; but added that he would not break with both and go free, he was sure to love and cleave to one of them. Now, he only is proof against apostasy, who has realised the wants of the soul within him, and the powerlessness of all creatures to satisfy or save, and then, turning to the cross of Christ, has found his sufficiency in Him. "Lord, to whom shall we go? Thou hast the words of everlasting life." Marvellous it is to think that underneath the stern words "Thou shalt have none other," lies all the condescension of the privilege "Thou shalt have ... Me."
 
+_THE SECOND COMMANDMENT._
 
-#### The Second Commandment
-
-"Thou shalt not make unto thee a graven image, ... thou shalt not bow down thyself unto them, nor serve them."--xx. 4--6.
+"Thou shalt not make unto thee a graven image, ... thou shalt not bow down thyself unto them, nor serve them."--xx. 4-6.
 
 How far does the second of these clauses modify the first? Men there are who maintain the severe independence of the former, so that it forbids the presence of any image or likeness in the house of God, even for innocent purposes of adornment. But the Decalogue is not a liturgical directory: what it forbids in church it forbids anywhere; and on this theory the statues in Parliament Square would be idolatrous, as well as those in Westminster Abbey. And such Christians are more Judaical than the Jews, who were taught to place in the very Holy of Holies golden cherubim overshadowing the mercy-seat, and to represent them again upon its curtains.
 
@@ -2352,19 +2235,19 @@ It is therefore plain that the precept never forbade imagery, but idolatry, whic
 
 The higher and more subtle idolatries do not conceive that wood or gold is actually transformed into their deities; but only that the deities are locally present in the images, which express their attributes--power in a hundred hands, beneficence in a hundred breasts. But in thus expressing, they degrade and cramp the conception.
 
-They may perhaps evade the reproach of Isaiah that they warm themselves with a portion of timber, and roast meat with another portion, and make the remainder a god (Isa. xliv. 15--17), by urging that the timber is not the god, but an abode which he chooses because it expresses his specific qualities. But they cannot evade the reproach of St. Paul, that being ourselves the offspring of God, we ought not to compare Him to the workmanship of our hands, graven with art and man's device (Acts xvii. 29).
+They may perhaps evade the reproach of Isaiah that they warm themselves with a portion of timber, and roast meat with another portion, and make the remainder a god (Isa. xliv. 15-17), by urging that the timber is not the god, but an abode which he chooses because it expresses his specific qualities. But they cannot evade the reproach of St. Paul, that being ourselves the offspring of God, we ought not to compare Him to the workmanship of our hands, graven with art and man's device (Acts xvii. 29).
 
 A truly spiritual worship is intellectually as well as morally the most elevating exercise of the soul, which it leads onward and upward, making of all that it knows and thinks a vestibule, beyond which lie higher knowledge and deeper feeling as yet unattained.
 
 Why is Gothic architecture better adapted for religious buildings than any Grecian or Oriental style? Because its long aisles, vaulted roofs and pointed arches, leading the vision up to the unseen, tell of mystery, and draw the mind away beyond the visible and concrete to something greater which it hints; while rounded arches and definite proportions shut in at once the vision and the mind. The difference is the same as between poetry and logic.
 
-And so it is with worship. We fetter and cramp our thoughts of deity when we bind them to even the loftiest conceptions which have ever been shut up in marble or upon canvas. The best image that ever took shape is inferior to the poorest spiritual conception of God, in this respect if in no other--that it has no expansiveness, it cannot grow. And in connecting our prayers with it, we virtually say, This satisfies my conception of God.'
+And so it is with worship. We fetter and cramp our thoughts of deity when we bind them to even the loftiest conceptions which have ever been shut up in marble or upon canvas. The best image that ever took shape is inferior to the poorest spiritual conception of God, in this respect if in no other--that it has no expansiveness, it cannot grow. And in connecting our prayers with it, we virtually say, 'This satisfies my conception of God.'
 
 It is not to be condemned merely as inadequate, for so are all our highest thoughts of deity; nor only because average humanity (which is supposed to stand most in need of the help and suggestion of art) will never learn the fine distinctions by which subtle intellects withhold from the image itself the worship which it evokes, and which goes out in its direction. It is still more mischievous because, even for the trained theologian, it is the petrifaction of what is meant to develop and expand, the solidification of the inadequate, the accepting of what is human as our idea of the divine.
 
 Nor will it long continue to be merely inadequate. Experience proves that ideas, like air and water, cannot be confined without stagnating. Idolatries not only fail to develop, they degenerate; and systems, however orthodox they may appear at starting, which connect worship with palpable imagery, are doomed to sink into superstition.
 
-To this precept there is added a startling and painful caution--"For I the Lord thy God am a jealous God." That a man should be jealous is no passport to our friendship: we think of unreasonable estrangements, exaggerated demands, implacable and cruel resentments. It would not enter the average mind to doubt that one is highly praised when another says of him, I never traced in his words or actions the slightest stain of jealousy.' And yet we are to think of God Himself as the jealous God.
+To this precept there is added a startling and painful caution--"For I the Lord thy God am a jealous God." That a man should be jealous is no passport to our friendship: we think of unreasonable estrangements, exaggerated demands, implacable and cruel resentments. It would not enter the average mind to doubt that one is highly praised when another says of him, 'I never traced in his words or actions the slightest stain of jealousy.' And yet we are to think of God Himself as the jealous God.
 
 Upon reflection, however, we must admit that a man is not condemned as jealous-minded because he is capable of jealousy, but because he has an unjust and unreasonable tendency towards it. It is a narrowing and suspicious quality when it operates without due cause, a vindictive and cruel one when it operates in excessive measure. But what should we think of a parent who felt no jealousy if the heart of his child were stolen from him by intriguing servants or by frivolous comrades? Now, God has called Israel His son, even His firstborn. The truth is that with us jealousy is dangerous and frequently perverted, because we are bad judges of the measure of our own rights, especially when our affections are involved. But some measure of jealousy is the necessary pain of love neglected, love wronged or slighted by those upon whom it has a claim. Jealousy is the shadow thrown where the sunshine of love is intercepted, and it is strong in proportion to the strength of the light. It operates in the heart exactly like the sense of justice in the reason. Justice expects a recompense where it has given service, and jealousy asks for love where it has given affection.
 
@@ -2394,14 +2277,13 @@ This over-weight of good is clearly seen by comparing the clauses, for the sins 
 
 Lastly, it is to be observed that in all this passage the gospel is shining through the law. It is not a question of just dealing, but of emotion. God is not a master exacting taskwork, but a Father, jealous if we refuse our hearts. He visits sin upon the posterity "of them that hate," not only of them that disobey Him. And when our hearts sink, we who are responsible for generations yet to be, as we reflect upon our frailty, our ignorance and our sins, upon the awful consequences which may result from one heedless act--nay, from a gesture or a look--He reminds us that He does not requite those who serve Him only with a measured wage, but shows "mercy" upon those who love Him unto a thousand generations.
 
-
-#### The Third Commandment
+_THE THIRD COMMANDMENT._
 
 "Thou shalt not take the name of the Lord thy God in vain."--xx. 7.
 
-What is the precise force of this prohibition? The word used is ambiguous: sometimes it must be rendered as here, as in the verses "Vain is the help of man," and "Except the Lord build the house, their labour is but vain that build it" (Psalm cviii. 12, cxxvii. 1). But sometimes it clearly means false, as in the texts "Thou shalt not raise a false report," and "swearing falsely in making a covenant" (Exod. xxiii. 1; Hos. x. 4). Yet again, it hangs midway between the two ideas, as when we read of "lying vanities," and again, "trusting in vanity and speaking lies" (Psalm xxxi. 6; Isa. lix. 4).
+What is the precise force of this prohibition? The word used is ambiguous: sometimes it must be rendered as here, as in the verses "_Vain_ is the help of man," and "Except the Lord build the house, their labour is but _vain_ that build it" (Psalm cviii. 12, cxxvii. 1). But sometimes it clearly means false, as in the texts "Thou shalt not raise a _false_ report," and "swearing _falsely_ in making a covenant" (Exod. xxiii. 1; Hos. x. 4). Yet again, it hangs midway between the two ideas, as when we read of "_lying_ vanities," and again, "trusting in vanity and speaking _lies_" (Psalm xxxi. 6; Isa. lix. 4).
 
-In favour of the rendering "falsely" it is urged that our Lord quotes it as "said to them of old time Thou shalt not forswear thyself'" (Matt. v. 33). But it is by no means clear that He quotes this text: the citation is closer to the phraseology of Lev. xix. 12, and it is found in a section of the Sermon which does not confine its citations to the Decalogue (cf. ver. 38).
+In favour of the rendering "falsely" it is urged that our Lord quotes it as "said to them of old time 'Thou shalt not forswear thyself'" (Matt. v. 33). But it is by no means clear that He quotes this text: the citation is closer to the phraseology of Lev. xix. 12, and it is found in a section of the Sermon which does not confine its citations to the Decalogue (cf. ver. 38).
 
 The Authorised rendering seems the more natural when we remember that civic duty had not yet come upon the stage. When we have learned to honour only one God, and not to degrade nor materialise our conception of Him, the next step is to inculcate, not yet veracity toward men when God has been invoked, but reverence, in treating the sacred name.
 
@@ -2417,14 +2299,13 @@ The only safe rule is to be sure that our conception of God is high and real and
 
 And the prevalent notion that God should be mentioned seldom and with bated breath is rather an evidence of men's failure habitually to think of Him aright, than of filial and loving reverence. There is a large and powerful school of religion in our own day, whose disciples talk much more of their own emotions and their own souls than St. Paul did, and much less about God and Christ. Some day the proportions will be restored. In the great Church of the future men will not morbidly shrink from confessing their inner life, but neither will it be the centre of their contemplation and their discourse: they will be filled with the fulness of God; out of the abundance of their hearts their mouths will speak; His name shall be continually in their mouth, and yet they shall not take the name of the Lord their God in vain.
 
+_THE FOURTH COMMANDMENT._
 
-#### The Fourth Commandment
-
-xx. 8--11.
+Xx. 8-11.
 
 It cannot be denied that the commandment to honour the Sabbath day occupies a unique place among the ten. It is, at least apparently, a formal precept embedded in the heart of a moral code, and good men have thought very differently indeed about its obligation upon the Christian Church.
 
-The great Continental reformers, Lutheran and Calvinistic alike, who subscribed the Confession of Augsburg, there affirmed that "Scripture hath abolished the Sabbath by teaching that all Mosaic ceremonies may be omitted since the gospel has been revealed" (II. vii. 28). The Scotch reformers, on the other hand, declared that God "in His Word, by a positive moral and perpetual commandment, binding all men in all ages, hath particularly appointed one day in seven for a Sabbath, to be kept holy unto Him" (Westminster Confess., XXI. vii.). They are even so bold as to declare that this day "from the beginning of the world to the resurrection of Christ was the last day of the week, and from the resurrection of Christ was changed into the first day of the week"; but this proposition would be as hard to prove as the contrary assertion, still maintained by some obscure religionists, that the change of day, for however sufficient and sublime a reason, was beyond the capacity of the Church of Christ to enact.
+The great Continental reformers, Lutheran and Calvinistic alike, who subscribed the Confession of Augsburg, there affirmed that "Scripture hath abolished the Sabbath by teaching that all Mosaic ceremonies may be omitted since the gospel has been revealed" (II. vii. 28). The Scotch reformers, on the other hand, declared that God "in His Word, by a positive moral and perpetual commandment, binding all men in all ages, hath particularly appointed one day in seven for a Sabbath, to be kept holy unto Him" (_Westminster Confess._, XXI. vii.). They are even so bold as to declare that this day "from the beginning of the world to the resurrection of Christ was the last day of the week, and from the resurrection of Christ was changed into the first day of the week"; but this proposition would be as hard to prove as the contrary assertion, still maintained by some obscure religionists, that the change of day, for however sufficient and sublime a reason, was beyond the capacity of the Church of Christ to enact.
 
 Amid these conflicting opinions the doctrinal formularies of the Church of England are characteristically guarded and prudent; but her worshippers are bidden to seek mercy from the Lord for past violations of this law, and an inclination of heart to keep it in the future; and when the Ten have been recited, they pray that "all these Thy laws" may be written upon their hearts. There is no doubt, therefore, about the opinion of our own Reformers concerning the divine obligation of the commandment.
 
@@ -2440,7 +2321,7 @@ Bearing this distinction in mind, we come to the question, Was the Sabbath an or
 
 How is the Sabbath spoken of in those prophecies which set least value upon the merely ceremonial law?
 
-Isaiah speaks of mere ritual as slightly as St. Paul. To fast and afflict one's soul is nothing, if in the day of fasting one smites with the fist and oppresses his labourers. To loose the bonds of wickedness, to free the oppressed, to share one's bread with the hungry, this is the fast which God has chosen, and for him who fasts after this fashion the light shall break forth like sunrise, and his bones shall be strong, and he himself like an unfailing water-spring. Now, it is the same chapter which thus waives aside mere ceremonial in contempt, which lavishes the most ample promises on him who turns away his foot from the Sabbath, and calls the Sabbath a delight, and the holy of the Lord, honourable, and honours it (Isa. lviii. 5--11, 13--14).
+Isaiah speaks of mere ritual as slightly as St. Paul. To fast and afflict one's soul is nothing, if in the day of fasting one smites with the fist and oppresses his labourers. To loose the bonds of wickedness, to free the oppressed, to share one's bread with the hungry, this is the fast which God has chosen, and for him who fasts after this fashion the light shall break forth like sunrise, and his bones shall be strong, and he himself like an unfailing water-spring. Now, it is the same chapter which thus waives aside mere ceremonial in contempt, which lavishes the most ample promises on him who turns away his foot from the Sabbath, and calls the Sabbath a delight, and the holy of the Lord, honourable, and honours it (Isa. lviii. 5-11, 13-14).
 
 There is no such promise in Jeremiah, for the observance of any merely ceremonial law, as that which bids the people to honour the Sabbath day, that there may enter into their gates kings and princes riding in chariots and upon horses, and that the city may remain for ever (Jer. xvii. 24, 25).
 
@@ -2462,8 +2343,7 @@ Another utterance of Jesus throws a strong light upon the nature and the limits 
 
 They need not plead that the commandment is abrogated, but that Jesus of Nazareth, of the seed of David, found nothing in such liberties inconsistent with the duties of a devout Hebrew.
 
-
-#### The Fifth Commandment
+_THE FIFTH COMMANDMENT._
 
 "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee."--xx. 12.
 
@@ -2487,8 +2367,7 @@ From the letter of this commandment streams out a loving influence to sanctify a
 
 And even unassisted nature will tend to make long the days of the loving and obedient child; for life and health depend far less upon affluence and luxury than upon a well-regulated disposition, a loving heart, a temper which can obey without chafing, and a conscience which respects law. All these are being learned in disciplined and dutiful households, which are therefore the nurseries of happy and righteous children, and so of long-lived families in the next generation also. Exceptions there must be. But the rule is clear, that violent and curbless lives will spend themselves faster than the lives of the gentle, the loving, the law-abiding and the innocent.
 
-
-#### The Sixth Commandment
+_THE SIXTH COMMANDMENT._
 
 "Thou shalt do no murder."--xx. 13.
 
@@ -2512,8 +2391,7 @@ Is it asked, how can all this be reconciled with the lawfulness of capital punis
 
 Now, all these considerations vanish together, when religion ceases to consecrate morality. The judgment of law differs from my own merely as I like it better, and as I am a party (perhaps unwillingly) to the general consent which creates it; he whom I would assail is doomed in any case to speedy and complete extinction; his longer life is possibly burdensome to himself and to society; and there exists no higher Being to resent my interference, or to measure out the existence which I think too protracted. It is clear that such a view of human life must prove fatal to its sacredness; and that its results would make themselves increasingly felt, as the awe wore away which old associations now inspire.
 
-
-#### The Seventh Commandment
+_THE SEVENTH COMMANDMENT._
 
 "Thou shalt not commit adultery."--xx. 14.
 
@@ -2529,7 +2407,7 @@ What is the human body, in the view of the Christian? It is the one bond, as far
 
 Our brain is the engine-room and laboratory whereby thought, aspiration, worship express themselves and become potent, and even communicate themselves to others.
 
-But it is a solemn truth that the body not only interprets passively, but also influences and modifies the higher nature. The mind is helped by proper diet and exercise, and hindered by impure air and by excess or lack of food. The influence of music upon the soul has been observed at least since the time of Saul. And hereafter the Christian body, redeemed from the contagion of the fall, and promoted to a spiritual impressibility and receptiveness which it has never yet known, is meant to share in the heavenly joys of the immortal spirit before God. This is the meaning of the assertion that it is sown a natural (= soulish) body, but shall be raised a spiritual body. In the meantime it must learn its true function. Whatever stimulates and excites the animal at the cost of the immortal within, will in the same degree cloud and obscure the perception that a man's life consisteth not in his pleasures, and will keep up the illusion that the senses are the true ministers of bliss. The soul is attacked through the appetites at a point far short of their physical indulgence. And when lawless wishes are deliberately toyed with, it is clear that lawless acts are not hated, but only avoided through fear of consequences. The reins which govern the life are no longer in the hands of the spirit, nor is it the will which now refuses to sin. How, then, can the soul be alert and pure? It is drugged and stupified: the offices of religion are a dull form, and its truths are hollow unrealities, assented to but unfelt, because unholy impulses have set on fire the course of nature, in what should have been the temple of the Holy Ghost.
+But it is a solemn truth that the body not only interprets passively, but also influences and modifies the higher nature. The mind is helped by proper diet and exercise, and hindered by impure air and by excess or lack of food. The influence of music upon the soul has been observed at least since the time of Saul. And hereafter the Christian body, redeemed from the contagion of the fall, and promoted to a spiritual impressibility and receptiveness which it has never yet known, is meant to share in the heavenly joys of the immortal spirit before God. This is the meaning of the assertion that it is sown a natural (= _soulish_) body, but shall be raised a spiritual body. In the meantime it must learn its true function. Whatever stimulates and excites the animal at the cost of the immortal within, will in the same degree cloud and obscure the perception that a man's life consisteth not in his pleasures, and will keep up the illusion that the senses are the true ministers of bliss. The soul is attacked through the appetites at a point far short of their physical indulgence. And when lawless wishes are deliberately toyed with, it is clear that lawless acts are not hated, but only avoided through fear of consequences. The reins which govern the life are no longer in the hands of the spirit, nor is it the will which now refuses to sin. How, then, can the soul be alert and pure? It is drugged and stupified: the offices of religion are a dull form, and its truths are hollow unrealities, assented to but unfelt, because unholy impulses have set on fire the course of nature, in what should have been the temple of the Holy Ghost.
 
 Moreover, the Christian life is not one of mere submission to authority; its true law is that of ceaseless upward aspiration. And since the union of husband and wife is consecrated to be the truest and deepest and most far-reaching of all types of the mystical union between Christ and His Church, it demands an ever closer approach to that perfect ideal of mutual love and service.
 
@@ -2537,12 +2415,11 @@ And whatever impairs the sacred, mysterious, all-pervading unity of a perfect we
 
 If it be frailty of temper, failure of common sympathies, an irretrievable error recognised too late, it is a calamity which may yet strengthen the character by evoking such pity and helpfulness as Christ the Bridegroom showed for the Church when lost. But if estrangement, even of heart, come through the secret indulgence of lawless reverie and desire, it is treason, and criminal although the traitor has not struck a blow, but only whispered sedition under his breath in a darkened room.
 
-
-#### The Eighth Commandment
+_THE EIGHTH COMMANDMENT._
 
 "Thou shalt not steal."--xx. 15.
 
-There is no commandment against which human ingenuity has brought more evasions to bear than this. Property itself is theft, says the communist. "It is no grave sin," says the Roman text-book, "to steal in moderation"; and this is defined to be, "from a pauper less than a franc, from a daily labourer less than two or three, from a person in comfortable circumstances anything under four or five francs, or from a very rich man ten or twelve francs. And a servant whom force or necessity compels to accept an unjust payment, may secretly compensate himself, because the workman is worthy of his hire." \[37\] A moment's reflection discovers this to be the most naked rationalism, choosing some of the commandments of God for honour, and some for contempt as "not very grave" and wholly ignoring the principle that whoever attacks the code at any one point "is guilty of all," because he has despised it as a code, as an organic system.
+There is no commandment against which human ingenuity has brought more evasions to bear than this. Property itself is theft, says the communist. "It is no grave sin," says the Roman text-book, "to steal in moderation"; and this is defined to be, "from a pauper less than a franc, from a daily labourer less than two or three, from a person in comfortable circumstances anything under four or five francs, or from a very rich man ten or twelve francs. And a servant whom force or necessity compels to accept an unjust payment, may secretly compensate himself, because the workman is worthy of his hire." [fn. 37: Gury, Compend., i., secs. 607, 623.] A moment's reflection discovers this to be the most naked rationalism, choosing some of the commandments of God for honour, and some for contempt as "not very grave" and wholly ignoring the principle that whoever attacks the code at any one point "is guilty of all," because he has despised it as a code, as an organic system.
 
 Nothing is easier than to confuse one's conscience about the ethics of property. For the arrangements of various nations differ: it is a geographical line which defines the right of the elder son against his brothers, of sons against daughters, and of children against a wife; and the demand is still more capricious which the state asserts against them all, under the name of succession duty, and which it makes upon other property in the form of a multitude of imposts and taxes. Can all these different arrangements be alike binding? Add to this variability the immense national revenues, which are apparently so little affected by individual contributions, and it is no wonder if men fail to see that honesty to the public is a duty as immutable and stern as any other duty to their neighbour. Unfortunately the evil spreads. The same considerations which make it seem pardonable to rob the nation apply also to the millionaire; and they tempt many a poor man to ask whether he need respect the wealth of a usurer, or may not adjust the scales of Mine and Thine, which law causes to hang unfairly.
 
@@ -2558,8 +2435,7 @@ The rich man robs the poor if he does not play his part in the great organisatio
 
 St. Paul does not exhort men to refrain from theft merely in order to be harmless, but to do good. That is the alternative contemplated when he says, "Let the thief steal no more, but rather let him labour, working with his hands the thing that is good, that he may have whereof to give to him that hath need" (Eph. iv. 28).
 
-
-#### The Ninth Commandment
+_THE NINTH COMMANDMENT._
 
 "Thou shalt not bear false witness against thy neighbour."--xx. 16.
 
@@ -2581,30 +2457,22 @@ It has to be remembered, also, that false witness can reach to nations, organisa
 
 And there is yet another neighbour, against whom false witness is woefully rife, both in the Church and in society. That neighbour is mankind at large. There is a prevalent theory of human sinfulness which unconsciously scoffs at the appeals of the gospel, striving indeed to influence me by love, gratitude, admiration for the Perfect One, and desire to be like Him, by the hope of holiness and the shame of vileness, but telling me at the same time that I have no sympathies whatever except with evil. The observation of every day shows that man's nature is corrupt, but it also shows that he is not a fiend--that he has fallen indeed, but remembers yet in what image he was made. But the world cannot upbraid the Church for these exaggerations, since they are but the echo of its own.
 
-"I do believe,
+"I do believe,  
+Though I have found them not, that there may be  
+Words which are things, hopes which will not deceive,  
+And virtues which are merciful, nor weave  
+Snares for the failing; I would also deem  
+O'er others' griefs that some sincerely grieve;  
+That two, or one, are almost what they seem,  
+That goodness is no name, and happiness no dream."  
 
-Though I have found them not, that there may be
-
-Words which are things, hopes which will not deceive,
-
-And virtues which are merciful, nor weave
-
-Snares for the failing; I would also deem
-
-O'er others' griefs that some sincerely grieve;
-
-That two, or one, are almost what they seem,
-
-That goodness is no name, and happiness no dream."
-
-Childe Harold, III., cxiv.
+_Childe Harold_, III., cxiv.
 
 Cynicism is false witness; and if it does not greatly wrong any one of our fellow-men, it injures both society and the cynic. If he is of a coarse fibre, it excuses him to himself in becoming the hard and unloving creature which he fancies that all men are. If he is too proud or too self-respecting to yield to this temptation, it isolates him, it chills and withers his sympathies for people quite as good as himself, whom he thinks of as the herd.
 
 As for the more flagrant sins, so for this, the remedy is love. Love sympathises, makes allowance for frailty, discovers the germs of good, hopeth all things, taketh not account of evil.
 
-
-#### The Tenth Commandment
+_THE TENTH COMMANDMENT._
 
 "Thou shalt not covet ... anything that is his."--xx. 17.
 
@@ -2612,16 +2480,15 @@ It will be remembered that the order of the catalogue of objects of desire is di
 
 But this the order in Exodus forbids, by placing the house first, and then the various living possessions which the householder gathers around him. What is thought of is the gradual process of acquisition, and the right of him who wins first a house, then a wife, servants, and cattle, to be secure in the possession of them all. Now, between foes, we saw that the evil temper is what leads to the evil deed, and the man who nurses hatred is a murderer at heart. Just so the householder is not rendered safe, and certainly not happy in the enjoyment of his rights, by the seventh commandment and the eighth, unless care be taken to prevent the accumulation of those forces which will some day break through them both. To secure cities against explosion, we forbid the storage of gunpowder and dynamite, and not only the firing of magazines.
 
-But the moral law is not given to any man for his neighbour's sake chiefly. It is for me: statutes whereby I myself may live. And as the Psalmist pondered on them, they expanded strangely for his perception. "I have kept Thy testimonies," he says; but presently asks to be quickened,--"So shall I observe the testimony of Thy mouth,"--and prays, "Give me understanding, that I may know Thy testimonies." And at the last, he confesses that he has "gone astray like a lost sheep" (Ps. cxix. 22, 88, 125, 176). Starting with a literal innocence, he comes to feel a deep inward need, need of vitality to obey, and even of power to understand aright. If the sacrifices of God are a broken spirit, it follows that they are a spirit, and inward loyalty is the necessary condition upon which external obedience can be accepted. The cheers of a traitor, the flattery of one who scorns, the ritual of a hypocrite, these are quite as valuable, as indications of what is within, as a reluctant relinquishment to my neighbour of what is his. I must not covet. Plainly this is the sharpest and most searching precept of all; and accordingly St. Paul asserts that without this he would not have suffered the deep internal discontent, the consciousness of something wrong, which tortured him, even although no mortal could reproach him, even though, touching the righteousness of the law, he was blameless. He had not known coveting, except the law had said "Thou shalt not covet."
+But the moral law is not given to any man for his neighbour's sake chiefly. It is for me: statutes whereby I myself may live. And as the Psalmist pondered on them, they expanded strangely for his perception. "I have kept Thy testimonies," he says; but presently asks to be quickened,--"So shall I _observe_ the testimony of Thy mouth,"--and prays, "Give me understanding, that I may _know_ Thy testimonies." And at the last, he confesses that he has "gone astray like a lost sheep" (Ps. cxix. 22, 88, 125, 176). Starting with a literal innocence, he comes to feel a deep inward need, need of vitality to obey, and even of power to understand aright. If the sacrifices of God are a broken spirit, it follows that they are a spirit, and inward loyalty is the necessary condition upon which external obedience can be accepted. The cheers of a traitor, the flattery of one who scorns, the ritual of a hypocrite, these are quite as valuable, as indications of what is within, as a reluctant relinquishment to my neighbour of what is his. I must not covet. Plainly this is the sharpest and most searching precept of all; and accordingly St. Paul asserts that without this he would not have suffered the deep internal discontent, the consciousness of something wrong, which tortured him, even although no mortal could reproach him, even though, touching the righteousness of the law, he was blameless. He had not known coveting, except the law had said "Thou shalt not covet."
 
 Here, then, we perceive with the utmost clearness what St. Paul so clearly discerned--the true meaning of the Law, its convicting power, its design to work not righteousness, but self-despair as the prelude of self-surrender. For who can, by resolving, govern his desires? Who can abstain not only from the usurping deed, but from the aggressive emotion? Who will not despair when he learns that God desireth truth in the inward parts? But this despair is the way to that better hope which adds, "In the hidden part Thou shalt make me to know wisdom. Purge me with hyssop, and I shall be clean."
 
 And as a strong interest or affection has power to destroy in the soul many weaker ones, so the love of God and our neighbour is the appointed way to overcome the desire of taking from our neighbour what God has given to him, refusing it to us.
 
+THE LESSER LAW.
 
-#### The Lesser Law
-
-xx. 18--xxiii. 33.
+Xx. 18-xxiii. 33.
 
 With the close of the Decalogue and its universal obligations, we approach a brief code of laws, purely Hebrew, but of the deepest moral interest, confessed by hostile criticism to bear every mark of a remote antiquity, and distinctly severed from what precedes and follows by a marked difference in the circumstances.
 
@@ -2675,12 +2542,11 @@ That is a nobler vindication of the Mosaic legislation than if this century agre
 
 It is pretty well agreed that this code may be divided into five parts. To the end of the twentieth chapter it deals directly with the worship of God. Then follow thirty-two verses treating of the personal rights of man as distinguished from his rights of property. From the thirty-third verse of the twenty-first chapter to the fifteenth verse of the twenty-second, the rights of property are protected. Thence to the nineteenth verse of the twenty-third chapter is a miscellaneous group of laws, chiefly moral, but deeply connected with the civil organisation of the state. And thence to the end of the chapter is an earnest exhortation from God, introduced by a clearer statement than before of the manner in which He means to lead them, even by that mysterious Angel in Whom "is My Name."
 
-
 ## Part I — The Law of Worship
 
-xx. 22--26.
+Xx. 22-26.
 
-It is no vain repetition that this code begins by reasserting the supremacy of the one God. That principle underlies all the law, and must be carried into every part of it. And it is now enforced by a new sanction,--"Ye yourselves have seen that I have talked with you from heaven: ye shall not make other gods with Me; gods of silver or gods of gold ye shall not make unto you" (vers. 22, 23). The costliest material of this low world should be utterly contemned in rivalry with that spiritual Presence revealing Himself out of a wholly different sphere; and in so far as they remembered Him, and the Voice which had thrilled their nature to its core, in so far would they be free from the desire for any carnal and materialised divinity to go before them.
+It is no vain repetition that this code begins by reasserting the supremacy of the one God. That principle underlies all the law, and must be carried into every part of it. And it is now enforced by a new sanction,--"Ye yourselves have seen that I have talked with you from heaven: ye shall not make _other gods_ with Me; gods of silver or gods of gold ye shall not make unto you" (vers. 22, 23). The costliest material of this low world should be utterly contemned in rivalry with that spiritual Presence revealing Himself out of a wholly different sphere; and in so far as they remembered Him, and the Voice which had thrilled their nature to its core, in so far would they be free from the desire for any carnal and materialised divinity to go before them.
 
 Impressed with such views of God, their service of Him would be moulded accordingly (24, 25). It is true that nothing could be too splendid for His sanctuary, and Bezaleel was presently to be inspired, that the work of the tabernacle might be worthy of its destination. Spirituality is not meanness, nor is art without a consecration of its own. But it must not intrude too closely upon the solemn act wherein the soul seeks the pardon of the Creator. The altar should not be a proud structure, richly sculptured and adorned, and offering in itself, if not an object of adoration, yet a satisfying centre of attention for the worshipper. It should be simply a heap of sods. And if they must needs go further, and erect a more durable pile, it must still be of materials crude, inartistic, such as the earth itself affords, of unhewn stone. A golden casket is fit to convey the freedom of some historic city to a prince, but the noblest offering of man to God is too humble to deserve an ostentatious altar.
 
@@ -2692,13 +2558,13 @@ This argument forgets the circumstances. The Jews had been led to Horeb, the mou
 
 The last direction given with regard to worship is a homely one. It commands that the altar must not be approached with steps, lest the clothes of the priest should be disturbed and his limbs uncovered. Already we feel that we have to reckon with the temper as well as the letter of the precept. It is divinely unlike the frantic indecencies of many pagan rituals. It protests against all infractions of propriety, even the slightest, such as even now discredit many a zealous movement, and bear fruit in many a scandal. It rebukes all misdemeanour, all forgetfulness in look and gesture of the Sacred Presence, in every worshipper, at every shrine.
 
+### Chapter XXI
 
-### Chapter XXI — THE LESSER LAW (continued)
-
+_THE LESSER LAW (continued)._
 
 ## Part II — Rights of the Person
 
-xxi. 1--32.
+Xxi. 1-32.
 
 The first words of God from Sinai had declared that He was Jehovah Who brought them out of slavery. And in this remarkable code, the first person whose rights are dealt with is the slave. We saw that a denunciation of all slavery would have been premature, and therefore unwise; but assuredly the germs of emancipation were already planted by this giving of the foremost place to the rights of the least of all and the servant of all.
 
@@ -2718,7 +2584,7 @@ The seduction of any unbetrothed maiden involved marriage, or the payment of a d
 
 But when a man purchased a female slave, with the intention of making her an inferior wife, whether for himself or for his son (such only are the purchases here dealt with, and an ordinary female slave was treated upon the same principles as a man), she was far from being the sport of his caprice. If indeed he repented at once, he might send her back, or transfer her to another of her countrymen upon the same terms, but when once they were united she was protected against his fickleness. He might not treat her as a servant or domestic, but must, even if he married another and probably a chief wife, continue to her all the rights and privileges of a wife. Nor was her position a temporary one, to her damage, as that of an ordinary slave was, to his benefit.
 
-And if there was any failure to observe these honourable terms, she could return with unblemished reputation to her father's home, without forfeiture of the money which had been paid for her (xxi. 7--11).
+And if there was any failure to observe these honourable terms, she could return with unblemished reputation to her father's home, without forfeiture of the money which had been paid for her (xxi. 7-11).
 
 Does any one seriously believe that a system like the African slave trade could have existed in such a humane and genial atmosphere as these enactments breathed? Does any one who knows the plague spot and disgrace of our modern civilisation suppose for a moment that more could have been attempted, in that age, for the great cause of purity? Would to God that the spirit of these enactments were even now respected! They would make of us, as they have made of the Hebrew nation unto this day, models of domestic tenderness, and of the blessings in health and physical vigour which an untainted life bestows upon communities.
 
@@ -2726,13 +2592,13 @@ By such checks upon the degradation of slavery, the Jew began to learn the great
 
 A premeditated murder was inexpiable, not to be ransomed; the murderer must surely die. Even if he fled to the altar of God, intending to escape thence to a city of refuge when the avenger ceased to watch, he should be torn from that holy place: to shelter him would not be an honour, but a desecration to the shrine (xxi. 12, 14). According to this provision Joab and Adonijah suffered. For the slayer by accident or in hasty quarrel, "a place whither he shall flee" would be provided, and the vague phrase indicates the antiquity of the edict (ver. 13). This arrangement at once respected his life, which did not merit forfeiture, and provided a penalty for his rashness or his passion.
 
-It is because the question in hand is the sanctity of man, that the capital punishment of a son who strikes or curses a parent, the vicegerent of God, and of a kidnapper, is interposed between these provisions and minor offences against the person (15--17).
+It is because the question in hand is the sanctity of man, that the capital punishment of a son who strikes or curses a parent, the vicegerent of God, and of a kidnapper, is interposed between these provisions and minor offences against the person (15-17).
 
 Of these latter, the first is when lingering illness results from a blow received in a quarrel. This was not a case for the stern rule, eye for eye and tooth for tooth,--for how could that rule be applied to it?--but the violent man should pay for his victim's loss of time, and for medical treatment until he was thoroughly recovered (18, 19).
 
 But what is to be said to the general law of retribution in kind? Our Lord has forbidden a Christian, in his own case, to exact it. But it does not follow that it was unjust, since Christ plainly means to instruct private persons not to exact their rights, whereas the magistrate continues to be "a revenger to execute justice." And, as St. Augustine argued shrewdly, "this command was not given for exciting the fires of hatred, but to restrain them. For who would easily be satisfied with repaying as much injury as he received? Do we not see men slightly hurt athirst for slaughter and blood?... Upon this immoderate and unjust vengeance, the law imposed a just limit, not that what was quenched might be kindled, but that what was burning might not spread." (Cont. Faust, xix. 25.)
 
-It is also to be observed that by no other precept were the Jews more clearly led to a morality still higher than it prescribed. Their attention was first drawn to the fact that a compensation in money was nowhere forbidden, as in the case of murder (Num. xxxv. 31). Then they went on to argue that such compensation must have been intended, because its literal observance teemed with difficulties. If an eye were injured but not destroyed, who would undertake to inflict an equivalent hurt? What if a blind man destroyed an eye? Would it be reasonable to quench utterly the sight of a one-eyed man who had only destroyed one-half of the vision of his neighbour? Should the right hand of a painter, by which he maintains his family, be forfeited for that of a singer who lives by his voice? Would not the cold and premeditated operation inflict far greater mental and even physical suffering than a sudden wound received in a moment of excitement? By all these considerations, drawn from the very principle which underlay the precept, they learned to relax its pressure in actual life. The law was already their schoolmaster, to lead them beyond itself (vide Kalisch in loco).
+It is also to be observed that by no other precept were the Jews more clearly led to a morality still higher than it prescribed. Their attention was first drawn to the fact that a compensation in money was nowhere forbidden, as in the case of murder (Num. xxxv. 31). Then they went on to argue that such compensation must have been intended, because its literal observance teemed with difficulties. If an eye were injured but not destroyed, who would undertake to inflict an equivalent hurt? What if a blind man destroyed an eye? Would it be reasonable to quench utterly the sight of a one-eyed man who had only destroyed one-half of the vision of his neighbour? Should the right hand of a painter, by which he maintains his family, be forfeited for that of a singer who lives by his voice? Would not the cold and premeditated operation inflict far greater mental and even physical suffering than a sudden wound received in a moment of excitement? By all these considerations, drawn from the very principle which underlay the precept, they learned to relax its pressure in actual life. The law was already their schoolmaster, to lead them beyond itself (_vide_ Kalisch _in loco_).
 
 Lastly, there is the question of injury to the person, wrought by cattle.
 
@@ -2744,14 +2610,13 @@ And it is expressly provided, according to the honourable position of woman in t
 
 As a slave was exposed to especial risk, and his position was an ignoble one, a fixed composition was appointed, and the amount was memorable. The ransom of a common slave, killed by the horns of the wild oxen, was thirty pieces of silver, the goodly price that Messiah was prized at of them (Zech. xi. 13).
 
-
 ## Part III — Rights of Property
 
-xxi. 33--xxii. 15.
+Xxi. 33-xxii. 15.
 
 The vital and quickening principle in this section is the stress it lays upon man's responsibility for negligence, and the indirect consequences of his deed. All sin is selfish, and all selfishness ignores the right of others. Am I my brother's keeper? Let him guard his own property or pay the forfeit. But this sentiment would quickly prove a disintegrating force in the community, able to overthrow a state. It is the ignoble negative of public spirit; patriotism, all by which nations prosper. And this early legislation is well devised to check it in detail. If an ox fall into a pit or cistern, from which I have removed the cover, I must pay the value of the beast, and take the carcase for what it may be worth. I ought to have considered the public interest (xxi. 33). If I let my cattle stray into my neighbour's field or vineyard, there must be no wrangling about the quality of what he has consumed: I must forfeit an equal quantity of the best of my own field or vineyard (xxii. 5). If a fire of my kindling burn his grain, standing or piled, I must make restitution: I had no right to kindle it where he was brought into hazard (xxii. 6). This is the same principle which had already pronounced it murder to let a vicious ox go loose. And it has to do with graver things than oxen and fires,--with the teachers of principles rightly called incendiary, the ingenious theorists who let loose abstract speculations pernicious when put into practice, the well-behaved questioners of morality, and the law-abiding assailants of the foundations which uphold law.
 
-It is quite in the same spirit that I am accountable for what I borrow or hire, and even for its accidental death (since for the time being it was mine, and so should the loss be); but if I hired the owner with his beast, it clearly continued to be in his charge (14, 15). But again, my responsibility may not be pressed too far. If I have not borrowed property, but consented to keep it for the owner, the risk is fairly his, and if it be stolen, the presumption is not against my integrity, although I may be required to clear myself on oath before the judges (7, 8). But I am accountable in such a case for cattle, because it was certainly understood that I should watch them; and if a wild beast have torn any, I must prove my courage and vigilance by rescuing the carcase and producing it (10--13).
+It is quite in the same spirit that I am accountable for what I borrow or hire, and even for its accidental death (since for the time being it was mine, and so should the loss be); but if I hired the owner with his beast, it clearly continued to be in his charge (14, 15). But again, my responsibility may not be pressed too far. If I have not borrowed property, but consented to keep it for the owner, the risk is fairly his, and if it be stolen, the presumption is not against my integrity, although I may be required to clear myself on oath before the judges (7, 8). But I am accountable in such a case for cattle, because it was certainly understood that I should watch them; and if a wild beast have torn any, I must prove my courage and vigilance by rescuing the carcase and producing it (10-13).
 
 But I must not be plunged into litigation without a compensating hazard on the other side: he whom God shall condemn shall pay double unto his neighbour (9).
 
@@ -2759,18 +2624,19 @@ It only remains to be observed, with regard to theft, that when cattle was recov
 
 All this is reasonable and enlightened law; founded, like all good legislation, upon clear and satisfactory principles, and well calculated to elevate the tone of the public feeling, to be not only so many specific enactments, but also the germinant seeds of good.
 
+### Chapter XXII
 
-### Chapter XXII — THE LESSER LAW (continued)
+_THE LESSER LAW (continued)._
 
+## Part IV
 
-## Part IV — xxii. 16--xxiii. 19
+Xxii. 16-xxiii. 19.
 
 The Fourth section of this law within the law consists of enactments, curiously disconnected, many of them without a penalty, varying greatly in importance, but all of a moral nature, and connected with the well-being of the state. It is hard to conceive how the systematic revision of which we hear so much could have left them in the condition in which they stand.
 
 It is enacted that a seducer must marry the woman he has betrayed, and if her father refuse to give her to him, then he must pay the same dower as a bridegroom would have done (xxii. 16, 17). And presently the sentence of death is launched against a blacker sensual crime (19). But between the two is interposed the celebrated mandate which doomed the sorceress to death, remarkable as the first mention of witchcraft in Scripture, and the only passage in all the Bible where the word is in the feminine form--a witch, or sorceress; remarkable also for a far graver reason, which makes it necessary to linger over the subject at some length.
 
-
-#### Sorcery
+SORCERY.
 
 "Thou shalt not suffer a sorceress to live."--xxii. 18.
 
@@ -2794,16 +2660,15 @@ If one could actually extort their secrets from the dead, or win for luxury and 
 
 And when we consider the fascination wielded by such pretensions, even in ages when the stability of nature is an axiom, the dread which false religions all around and their terrible rituals must have inspired, the superstitious tendencies of the people and their readiness to be misled, we shall see ample reasons for treading out the first sparks of so dangerous a fire.
 
-Beyond this it is vain to pretend that the law of Moses goes. It was right in declaring the sorcerer and the sorceress to be real and dangerous phenomena. It never declared their pretensions to be valid though illegitimate. And in one noteworthy passage it proclaims that a real sign or a wonder could only proceed from God, and when it accompanied false teaching was still a sign, though an ominous one, implying that the Lord would prove them (Deut. xiii. 1--3). This does not look very like an admission of the existence of rival powers, inferior though they might be, who could interfere with the order of His world.
+Beyond this it is vain to pretend that the law of Moses goes. It was right in declaring the sorcerer and the sorceress to be real and dangerous phenomena. It never declared their pretensions to be valid though illegitimate. And in one noteworthy passage it proclaims that a real sign or a wonder could only proceed from God, and when it accompanied false teaching was still a sign, though an ominous one, implying that the Lord would prove them (Deut. xiii. 1-3). This does not look very like an admission of the existence of rival powers, inferior though they might be, who could interfere with the order of His world.
 
 Sorcery in all its forms will die when men realise indeed that the world is His, that there is no short or crooked way to the prizes which He offers to wisdom and to labour, that these rewards are infinitely richer and more splendid than the wildest dreams of magic, and that it is literally true that all power, in earth as well as heaven, is committed into the Hands which were pierced for us. In such a conception of the universe, incantations give place to prayers, and prayer does not seek to disturb, but to carry forward and to consummate, the orderly rule of Love.
 
 The denunciation of witchcraft is quite naturally followed, as we now perceive, by the reiteration of the command that no sacrifice may be offered to any god except Jehovah (20). Strange and hateful offerings were an integral part of witchcraft, long before the hags of Macbeth brewed their charm, or the child in Horace famished to yield a spell.
 
+THE STRANGER.
 
-#### The Stranger
-
-xxii. 21, xxiii. 9.
+Xxii. 21, Xxiii. 9.
 
 Immediately after this, a ray of sunlight falls upon the sombre page.
 
@@ -2823,9 +2688,7 @@ The point is not that they may again be carried into captivity: it is that they 
 
 Now, this appeal is a master-stroke of wisdom. Much cruelty, and almost all the cruelty of the young, springs from ignorance, and that slowness of the imagination which cannot realise that the pains of others are like our own. Feeling them to be so, the charities of the poor toward one another frequently rise almost to sublimity. And thus, when suffering does not ulcerate the heart and make it savage, it is the most softening of all influences. In one of the most threadbare lines in the classics, the queen of Carthage boasts that
 
-"I, not ignorant of woe,
-
-To pity the distressful know."
+"I, not ignorant of woe, To pity the distressful know."
 
 And the boldest assertion in Scripture of the natural development of our Saviour's human powers, is that which declares that "In that He Himself hath suffered, being tempted, He is able to succour them that are tempted" (Heb. ii. 18).
 
@@ -2833,7 +2696,7 @@ To this principle, then, Moses appeals, and by the appeal he educates the heart.
 
 Now, if the Jew should be merciful because he had himself known calamity, what implicit confidence may we repose upon the Man of sorrows and acquainted with grief?
 
-In the same spirit they are warned against afflicting the widow or the orphan. And the threat which is added joins hand with the exhortation which preceded. They should not oppress the stranger, because they had been strangers and oppressed. Now the argument advances. The same God Who then heard their cry will hear the cry of the forlorn, and avenge them, according to the judicial fate which He had just announced, in kind, by bringing their own wives to widowhood and their children to orphanage (xxii. 22--4).
+In the same spirit they are warned against afflicting the widow or the orphan. And the threat which is added joins hand with the exhortation which preceded. They should not oppress the stranger, because they had been strangers and oppressed. Now the argument advances. The same God Who then heard their cry will hear the cry of the forlorn, and avenge them, according to the judicial fate which He had just announced, in kind, by bringing their own wives to widowhood and their children to orphanage (xxii. 22-4).
 
 To their brethren they should not lend money upon usury; but loans are no more recommended than afterwards by Solomon: the words are "if thou lend" (ver. 25). And if the raiment of the borrower were taken for a pledge, it must be returned for him to use at night, or else God will hear his cry, because, it is added very significantly and briefly, "I am gracious" (ver. 27). It is the most exalting of all motives: Be merciful, for I am merciful: ye shall be the children of your Father.
 
@@ -2843,10 +2706,11 @@ How comes this precept to be followed by the words, "Thou shalt not curse God no
 
 If any link can be discovered, it is in the sense of communion with God, suggested by the recent appeal to His character as a motive that should weigh with man. Therefore they must not blaspheme Him, either directly or through His agents, nor tardily yield Him what He claims. Therefore it is added, "Ye shall be holy men unto Me," and from the sense of dignity which religion thus inspires, a homely corollary is deduced--"Ye shall not eat any flesh that is torn of beasts in the field" (ver. 31). The bondmen of Egypt must learn a high-minded self-respect.
 
+### Chapter XXIII
 
-### Chapter XXIII — THE LESSER LAW (continued)
+_THE LESSER LAW (continued)._
 
-xxiii. 1--19.
+Xxiii. 1-19.
 
 The twenty-third chapter begins with a series of commands bearing upon the course of justice; but among these there is interjected very curiously a command to bring back the stray ox or ass of an enemy, and to help under a burden the over-weighted ass of him that hateth thee, even "if thou wouldest forbear to help him." It is just possible that the lawgiver, urging justice in the bearing of testimony, interrupts himself to speak of a very different manner in which the action may be warped by prejudice, but in which (unlike the other) it is lawful to show not only impartiality but kindness. The help of the cattle of one's enemy shows that in the bearing of testimony we should not merely abstain from downright wrong. And it is a fine example of the spirit of the New Testament, in the Old.
 
@@ -2870,12 +2734,11 @@ Other precepts forbid bribery, command that the soil shall rest in the seventh y
 
 It remained, to stamp upon the human conscience a deep sense of responsibility.
 
-
 ## Part V — Its Sanctions
 
-xxiii. 20--33.
+Xxiii. 20-33.
 
-This summary of Judaism being now complete, the people have to learn what mighty issues are at stake upon their obedience. And the transition is very striking from the simplest duty to the loftiest privilege: "Thou shalt not seethe a kid in his mother's milk. Behold, I send an Angel before thee.... Beware of him: for My Name is in him" (19--21).
+This summary of Judaism being now complete, the people have to learn what mighty issues are at stake upon their obedience. And the transition is very striking from the simplest duty to the loftiest privilege: "Thou shalt not seethe a kid in his mother's milk. Behold, I send an Angel before thee.... Beware of him: for My Name is in him" (19-21).
 
 We have now to ask how much this mysterious phrase involves; who was the Angel of whom it speaks?
 
@@ -2883,11 +2746,11 @@ The question is not, How much did Israel at that moment comprehend? For we are d
 
 It would, in fact, be absurd to seek the New Testament doctrine of the Logos full-blown in the Pentateuch. But it is mere prejudice, unphilosophical and presumptuous, to shut one's eyes against any evidence which may be forthcoming that the earliest books of Scripture were tending towards the last conclusions of theology; that the slender overture to the Divine oratorio indicates already the same theme which thunders from all the chorus at the close.
 
-It is scarcely necessary to refute the position that a mere "messenger" is intended, because angels have not yet "appeared as personal agents separate from God." Kalisch himself has amply refuted his own theory. For, he says, "we are compelled ... to refer it to Moses and his successor Joshua" (in loco). So then He Who will not forgive their transgressions is he who prayed that if God would not pardon them, his own name might be blotted from the book of life. He, to whom afterwards God said "I will proclaim the name of the Lord before thee" (xxxiii. 19), is the same of Whom God said "My name is in Him." This position needs no examination; but the perplexities of those who reject the deeper interpretation is a strong confirmation of its soundness. We have still to choose between the promise of a created angel, and some manifestation and interposition of God, distinguished from Jehovah and yet one with Him. This latter view is an evident preparation for clearer knowledge yet to come. It is enough to stamp the dispensation which puts it forth as but provisional, and therefore bears witness to that other dispensation which has the key to it. And it is exactly what a Christian would expect to find somewhere in this summary of the law.
+It is scarcely necessary to refute the position that a mere "messenger" is intended, because angels have not yet "appeared as personal agents separate from God." Kalisch himself has amply refuted his own theory. For, he says, "we are compelled ... to refer it to Moses and his successor Joshua" (_in loco_). So then He Who will not forgive their transgressions is he who prayed that if God would not pardon them, his own name might be blotted from the book of life. He, to whom afterwards God said "I will proclaim the name of the Lord before thee" (xxxiii. 19), is the same of Whom God said "My name is in Him." This position needs no examination; but the perplexities of those who reject the deeper interpretation is a strong confirmation of its soundness. We have still to choose between the promise of a created angel, and some manifestation and interposition of God, distinguished from Jehovah and yet one with Him. This latter view is an evident preparation for clearer knowledge yet to come. It is enough to stamp the dispensation which puts it forth as but provisional, and therefore bears witness to that other dispensation which has the key to it. And it is exactly what a Christian would expect to find somewhere in this summary of the law.
 
 What, then, do we read elsewhere about the Angel of Jehovah? What do we find, especially, in these early books?
 
-A difficulty has to be met at the very outset. The issue would be decided offhand, if it could be shown that the Angel of this verse is the same who is offered, as a poor substitute for their Divine protector, in the thirty-third chapter. But no contrast can be clearer than between the encouraging promise before us, and the sharp menace which then plunged Israel into mourning. Here is an Angel who must not be provoked, who will not pardon you, because "My Name is in Him." There is an angel who will be sent because God will not go up, ... lest He consume them (vers. 2, 3). He is not the Angel of God's presence, but of His absence. When the intercession of Moses won from God a reversal of the sentence, He then said "My Presence (My Face) shall go with thee, and I will give thee rest," \[38\] but Moses answers, not yet reassured, "If Thy Presence (Thy Face) go not up with us, carry us not up hence. For wherein shall it be known that I have found grace in Thy sight?... Is it not that Thou goest with us? And the Lord said, I will do this thing also that thou hast spoken" (14--17).
+A difficulty has to be met at the very outset. The issue would be decided offhand, if it could be shown that the Angel of this verse is the same who is offered, as a poor substitute for their Divine protector, in the thirty-third chapter. But no contrast can be clearer than between the encouraging promise before us, and the sharp menace which then plunged Israel into mourning. Here is an Angel who must not be provoked, who will not pardon you, because "My Name is in Him." There is an angel who will be sent because God will not go up, ... lest He consume them (vers. 2, 3). He is not the Angel of God's presence, but of His absence. When the intercession of Moses won from God a reversal of the sentence, He then said "My Presence (My Face) shall go with thee, and I will give thee rest," [fn. 38: Even if the rendering were accepted, "Must My Presence (My Face) go with thee?" (Can I not be trusted without a direct Presence?) the argument would not be affected, because Moses presses for the favour and obtains it.] but Moses answers, not yet reassured, "If Thy Presence (Thy Face) go not up with us, carry us not up hence. For wherein shall it be known that I have found grace in Thy sight?... Is it not that Thou goest with us? And the Lord said, I will do this thing also that thou hast spoken" (14-17).
 
 Moreover, Isaiah, speaking of this time, says that "In all their affliction He was afflicted, and the Angel of His Presence (His Face) saved them" (Isa. lxiii. 9).
 
@@ -2903,7 +2766,6 @@ By the comparison of these and many later passages (which is nothing but the sci
 
 If Israel obeyed Him, He would bring them into the promised land (ver. 23); and if there they continued unseduced by false worships, He would bless their provisions, their bodily frame, their children; He would bring terror and a hornet against their foes; He would clear the land before them as fast as their population could enjoy it; He would extend their boundaries yet farther, from the Red Sea, where Solomon held Ezion Geber (1 Kings ix. 26), to the Mediterranean, and from the desert where they stood to the Euphrates, where Solomon actually possessed Palmyra and Thiphsah (2 Chron. viii. 4; 1 Kings iv. 24).
 
-
 ### Chapter XXIV — The Covenant Ratified. the Vision of God
 
 xxiv.
@@ -2918,7 +2780,7 @@ And now the principle began to work which was afterwards embodied in the priesth
 
 But in privilege itself there are degrees: Moses was called up still higher, and left Aaron and Hur to govern the people while he communed with his God. For six days the nation saw the flanks of the mountain swathed in cloud, and its summit crowned with the glory of Jehovah like devouring fire. Then Moses entered the cloud, and during forty days they knew not what had become of him. Was it time lost? Say rather that all time is wasted except what is spent in communion, direct or indirect, with the Eternal.
 
-The narrative is at once simple and sublime. We are sometimes told that other religions besides our own rely for sanction upon their supernatural origin. "Zarathustra, Sâkya-Mooni and Mahomed pass among their followers for envoys of the Godhead; and in the estimation of the Brahmin the Vedas and the laws of Manou are holy, divine books" (Kuenen, Religion of Israel, i. 6). This is true. But there is a wide difference between nations which assert that God privately appeared to their teachers, and a nation which asserts that God appeared to the public. It is not upon the word of Moses that Israel is said to have believed; and even those who reject the narrative are not entitled to confound it with narratives utterly dissimilar. There is not to be found anywhere a parallel for this majestic story.
+The narrative is at once simple and sublime. We are sometimes told that other religions besides our own rely for sanction upon their supernatural origin. "Zarathustra, Sâkya-Mooni and Mahomed pass among their followers for envoys of the Godhead; and in the estimation of the Brahmin the Vedas and the laws of Manou are holy, divine books" (Kuenen, _Religion of Israel_, i. 6). This is true. But there is a wide difference between nations which assert that God privately appeared to their teachers, and a nation which asserts that God appeared to the public. It is not upon the word of Moses that Israel is said to have believed; and even those who reject the narrative are not entitled to confound it with narratives utterly dissimilar. There is not to be found anywhere a parallel for this majestic story.
 
 But what are we to think of the assertion that God was seen to stand upon a burning mountain?
 
@@ -2946,21 +2808,18 @@ What do we mean even by saying that we see each other?--that, observing keenly, 
 
 Man has never seen more than a hint, an outcome, a partial self-revelation or self-betrayal of his fellow-man.
 
-"Yes, in the sea of life in-isled,
+"Yes, in the sea of life in-isled,  
+With echoing straits between us thrown,  
+Dotting the shoreless watery wild,  
+We mortal millions live _alone_.  
 
-With echoing straits between us thrown,
+* * * * *
 
-Dotting the shoreless watery wild,
-
-We mortal millions live alone.
-
-God bade betwixt our' shores to be
-
-The unplumb'd, salt, estranging sea."
+God bade betwixt 'our' shores to be The unplumb'd, salt, estranging sea."
 
 And yet, incredible as the paradox would seem, if it were not too common to be strange, the play of muscles and rush of blood, visible through the skin, do reveal the most spiritual and immaterial changes. Even so the heavens declare that very glory of God which baffled the undimmed eyes of Moses. So it was, also, that when rended rocks and burning skies revealed a more immanent action of Him Who moves through all nature always, when convulsions hitherto undreamed of by those dwellers in Egyptian plains overwhelmed them with a new sense of their own smallness and a supreme Presence, God was manifested there.
 
-Not unlike this is the explanation of St. Augustine, "We need not be surprised that God, invisible as He is, appeared visibly to the patriarchs. For, as the sound which communicates the thought conceived in the silence of the mind is not the thought itself, so the form by which God, invisible in His own nature, became visible, was not God Himself. Nevertheless it was He Himself Who was seen under that form, as the thought itself is heard in the sound of the voice; and the patriarchs recognised that, although the bodily form was not God, they saw the invisible God. For, though Moses was conversing with God, yet he said, If I have found grace in Thy sight, show me Thyself'" (De Civ. Dei, x. 13). And again: "He knew that he saw corporeally, but he sought the true vision of God spiritually" (De Trin., ii. 27).
+Not unlike this is the explanation of St. Augustine, "We need not be surprised that God, invisible as He is, appeared visibly to the patriarchs. For, as the sound which communicates the thought conceived in the silence of the mind is not the thought itself, so the form by which God, invisible in His own nature, became visible, was not God Himself. Nevertheless it was He Himself Who was seen under that form, as the thought itself is heard in the sound of the voice; and the patriarchs recognised that, although the bodily form was not God, they saw the invisible God. For, though Moses was conversing with God, yet he said, 'If I have found grace in Thy sight, show me Thyself'" (_De Civ. Dei_, x. 13). And again: "He knew that he saw corporeally, but he sought the true vision of God spiritually" (_De Trin._, ii. 27).
 
 It has still to be added that His manifestation is exactly suited to the stage now reached in the education of Israel. Their fathers had already "seen God" in the likeness of man: Abraham had entertained Him; Jacob had wrestled with Him. And so Joshua before Ai, and Manoah by the rock at Zorah, and Ezekiel by the river Chebar, should see the likeness of a man. We who believe the doctrine of a real Incarnation can well perceive that in these passing and mysterious glimpses God was not only revealing Himself in the way which would best prepare humanity for His future coming in actual manhood, but also in the way by which, meanwhile, the truest and deepest light could be thrown upon His nature, a nature which could hereafter perfectly manifest itself in flesh. Why, then, do not the records of the Exodus hint at a human likeness? Why did they "behold no similitude"? Clearly because the masses of Israel were utterly unprepared to receive rightly such a vision. To them the likeness of man would have meant no more than the likeness of a flying eagle or a calf. Idolatry would have followed, but no sense of sympathy, no consciousness of the grandeur and responsibility of being made in the likeness of God. Anthropomorphism is a heresy, although the Incarnation is the crowning doctrine of the faith.
 
@@ -2972,10 +2831,9 @@ Now, the conscience of every sinner knows that the God of the commandments is dr
 
 For him who rejects the light yoke of the Lord of Love, the fires of Sinai are still the truest revelation of deity; and we must not deny Sinai because we know Bethlehem. We must choose between the two.
 
-
 ### Chapter XXV — The Shrine and Its Furniture
 
-xxv. 1--40.
+Xxv. 1-40.
 
 The first direction given to Moses on the mountain is to prepare for the making of a tabernacle wherein God may dwell with man. For this he must invite offerings of various kinds, metals and gems, skins and fabrics, oil and spices; and the humblest man whose heart is willing may contribute toward an abode for Him Whom the heaven of heavens cannot contain.
 
@@ -3007,9 +2865,9 @@ And hence arises the golden value of that which interposes, beneath which the ac
 
 The worshipper knows this cover to be provided by a separate ordinance of God, after the ark and its contents had been arranged for, and finds in it a vivid concrete representation of the idea "Thou hast cast all my sins behind Thy back" (Isa. xxxviii. 17). That this was its true intention becomes more evident when we ascertain exactly the meaning of the term which we have, not too precisely, rendered "mercy-seat."
 
-The word "seat" has no part in the original; and we are not to think of God as reposing on it, but as revealing Himself above. The erroneous notion has probably transferred itself to the type from the heavenly antitype, which is "the throne of grace," but it has no countenance either in the Greek or the Hebrew name of the Mosaic institution. Nor is the notion expressed that of gratuitous and unbought "mercy." When Jehovah showeth mercy unto thousands, the word is different. It is true that the root means "to cover," and is once employed in Scripture in that sense (Gen. vi. 14); but its ethical use is generally connected with sacrifice; and when we read of a "sin-offering for atonement," of the half-shekel being an "atonement-money," and of "the day of atonement," the word is a simple and very similar development from the same root with this which we render mercy-seat (Exod. xxx. 10, 16; Lev. xxiii. 27, etc.).
+The word "seat" has no part in the original; and we are not to think of God as reposing on it, but as revealing Himself above. The erroneous notion has probably transferred itself to the type from the heavenly antitype, which is "the throne of grace," but it has no countenance either in the Greek or the Hebrew name of the Mosaic institution. Nor is the notion expressed that of gratuitous and unbought "mercy." When Jehovah showeth mercy unto thousands, the word is different. It is true that the root means "to cover," and is once employed in Scripture in that sense (Gen. vi. 14); but its ethical use is generally connected with sacrifice; and when we read of a "sin-offering for _atonement_," of the half-shekel being an "_atonement_-money," and of "the day of _atonement_," the word is a simple and very similar development from the same root with this which we render _mercy-seat_ (Exod. xxx. 10, 16; Lev. xxiii. 27, etc.).
 
-The Greek word is found twice in the New Testament: once when the cherubim of glory overshadow the mercy-seat, and again when God hath set forth Christ to be a propitiation (Heb. ix. 5; Rom. iii. 25). The mercy-seat is therefore to be thought of in connection with sin, but sin expiated and thus covered and put away.
+The Greek word is found twice in the New Testament: once when the cherubim of glory overshadow the _mercy-seat_, and again when God hath set forth Christ to be a _propitiation_ (Heb. ix. 5; Rom. iii. 25). The mercy-seat is therefore to be thought of in connection with sin, but sin expiated and thus covered and put away.
 
 We know mysteries which the Israelite could not guess of the means by which this was brought to pass. But as he watched the high priest disappearing into that awful solitude, with God, as he listened to the chime of bells, swung by his movements, and announcing that still he lived, two conditions stood out broadly before his mind. One was the bringing in of incense: "Thou shalt bring a censer full of burning coals of fire from before the altar, that the cloud of the incense may cover the mercy-seat" (Lev. xvi. 13). Now, the connection between prayer and incense was quite familiar to the Jew; and he could not but understand that the blessing of atonement was to be sought and won by intense and burning supplication. And the other was that invariable demand, the offering of a victim's blood. All the sacrifices of Judaism culminated in the great act when the high priest, standing in the most holy and the most occult spot in all the world, sprinkled "blood upon the mercy-seat eastwards, and before the mercy-seat sprinkled of the blood with his finger seven times" (Lev. xvi. 14).
 
@@ -3017,25 +2875,25 @@ Thus the crowning height of the Jewish ritual was attained when the blood of the
 
 No wonder that on either side of it, and moulded of the same mass of metal, were the cherubim in an attitude of adoration, their outspread wings covering it, their faces bent, not only as bowing in reverence before the Divine presence, but, as we expressly read, "toward the mercy-seat shall the faces of the cherubim be." For the meaning of this great symbol was among the things which "the angels desire to look into."
 
-We now understand how much was gained when God said "There will I meet thee, and I will commune with thee from above the mercy-seat" (ver. 22). It was an assurance, not only of the love which desires obedience, but of the mercy which passes over failure. \[39\]
+We now understand how much was gained when God said "There will I meet thee, and I will commune with thee from above the mercy-seat" (ver. 22). It was an assurance, not only of the love which desires obedience, but of the mercy which passes over failure. [fn. 39: This investigation offers a fine example of the folly of that kind of interpretation which looks about for some sort of external and arbitrary resemblance, and fastens upon that as the true meaning. Nothing is more common among these expounders than to declare that the wood and gold of the ark are types of the human and Divine natures of our Lord. If either ark or mercy-seat should be compared to Him, it is obviously the latter, which speaks of mercy. But this was of pure gold.]
 
 Thus far, there has been symbolised the mind of God, His righteousness and His grace.
 
 The next articles have to do with man, his homage to God and his witness for Him.
 
-There is first the table of the shewbread (vers. 23--30), overlaid with pure gold, surrounded, like the ark, with "a crown" or moulding of gold, for ornament and the greater security of the loaves, and strengthened by a border of pure gold carried around the base, which was also ornamented with a crown, or moulding. Close to this border were rings for staves, like those by which the ark was borne. The table was furnished with dishes upon which, every Sabbath day, new shewbread might be conveyed into the tabernacle, and the old might be removed for the priests to eat. There were spoons also, by which to place frankincense upon each pile of bread; and "flagons and bowls to pour out withal." What was thus to be poured we do not read, but there is no doubt that it was wine, second only to bread as a requisite of Jewish life, and forming, like the frankincense, a link between this weekly presentation and the meal-offerings. But all these were subordinate to the twelve loaves, one for each tribe, which were laid in two piles upon the table. It is clear that their presentation was the essence of the rite, and not their consumption by the priests, which was possibly little more than a safeguard against irreverent treatment. For the word shewbread is literally bread of the face or presence, which word is used of the presence of God, in the famous prayer "If Thy presence go not with me, carry us not up hence" (xxxiii. 15). And of whom, other than God, can it here be reasonably understood? Now Jacob, long before, had vowed "Of all that Thou givest me, I will surely give the tenth to Thee" (Gen. xxviii. 22). And it was an edifying ordinance that a regular offering should be made to God of the staple necessaries of existence, as a confession that all came from Him, and an appeal, clearly expressed by covering it with frankincense, which typified prayer (Lev. xxiv. 7) that He would continue to supply their need.
+There is first the table of the shewbread (vers. 23-30), overlaid with pure gold, surrounded, like the ark, with "a crown" or moulding of gold, for ornament and the greater security of the loaves, and strengthened by a border of pure gold carried around the base, which was also ornamented with a crown, or moulding. Close to this border were rings for staves, like those by which the ark was borne. The table was furnished with dishes upon which, every Sabbath day, new shewbread might be conveyed into the tabernacle, and the old might be removed for the priests to eat. There were spoons also, by which to place frankincense upon each pile of bread; and "flagons and bowls to pour out withal." What was thus to be poured we do not read, but there is no doubt that it was wine, second only to bread as a requisite of Jewish life, and forming, like the frankincense, a link between this weekly presentation and the meal-offerings. But all these were subordinate to the twelve loaves, one for each tribe, which were laid in two piles upon the table. It is clear that their presentation was the essence of the rite, and not their consumption by the priests, which was possibly little more than a safeguard against irreverent treatment. For the word shewbread is literally bread of the face or presence, which word is used of the presence of God, in the famous prayer "If Thy presence go not with me, carry us not up hence" (xxxiii. 15). And of whom, other than God, can it here be reasonably understood? Now Jacob, long before, had vowed "Of all that Thou givest me, I will surely give the tenth to Thee" (Gen. xxviii. 22). And it was an edifying ordinance that a regular offering should be made to God of the staple necessaries of existence, as a confession that all came from Him, and an appeal, clearly expressed by covering it with frankincense, which typified prayer (Lev. xxiv. 7) that He would continue to supply their need.
 
 Nor is it overstrained to add, that when this bread was given to their priestly representatives to eat, with all reverence and in a holy place, God responded, and gave back to His people that which represented the necessary maintenance of the tribes. Thus it was, "on the behalf of the children of Israel, an everlasting covenant" (Lev. xxiv. 8).
 
 The form has perished. But as long as we confess in the Lord's Prayer that the wealthiest does not possess one day's bread ungiven--as long, also, as Christian families connect every meal with a due acknowledgment of dependence and of gratitude--so long will the Church of Christ continue to make the same confession and appeal which were offered in the shewbread upon the table.
 
-The next article of furniture was the golden candlestick (vers. 31--40). And this presents the curious phenomenon that it is extremely clear in its typical import, and in its material outline; but the details of the description are most obscure, and impossible to be gathered from the Authorised Version. Strictly speaking, it was not a lamp, but only a gorgeous lamp-stand, with one perpendicular shaft, and six branches, three springing, one above another, from each side of the shaft, and all curving up to the same height. Upon these were laid the seven lamps, which were altogether separate in their construction (ver. 37). It was of pure gold, the base and the main shaft being of one piece of beaten metal. Each of the six branches was ornamented with three cups, made like almond blossoms; above these a "knop," variously compared by Jewish writers to an apple and a pomegranate, and still higher, a flower or bud. It is believed that there was a fruit and flower above each of the cups, making nine ornaments on each branch. The "candlestick" in ver. 34 can only mean the central shaft, and upon this there were "four cups with their knops and flowers" instead of three. With the lamp were tongs, and snuff-dishes in which to remove the charred wick from the temple.
+The next article of furniture was the golden candlestick (vers. 31-40). And this presents the curious phenomenon that it is extremely clear in its typical import, and in its material outline; but the details of the description are most obscure, and impossible to be gathered from the Authorised Version. Strictly speaking, it was not a lamp, but only a gorgeous lamp-stand, with one perpendicular shaft, and six branches, three springing, one above another, from each side of the shaft, and all curving up to the same height. Upon these were laid the seven lamps, which were altogether separate in their construction (ver. 37). It was of pure gold, the base and the main shaft being of one piece of beaten metal. Each of the six branches was ornamented with three cups, made like almond blossoms; above these a "knop," variously compared by Jewish writers to an apple and a pomegranate, and still higher, a flower or bud. It is believed that there was a fruit and flower above each of the cups, making nine ornaments on each branch. The "candlestick" in ver. 34 can only mean the central shaft, and upon this there were "four cups with their knops and flowers" instead of three. With the lamp were tongs, and snuff-dishes in which to remove the charred wick from the temple.
 
 As we are told that when the Lord called the child Samuel, "the lamp of God was not yet gone out" (1 Sam. iii. 3), it follows that the lights were kept burning only during the night.
 
-We have now to ascertain the spiritual meaning of this stately symbol. There are two other passages in Scripture which take up the figure and carry it forward. In Zechariah (iv. 2--12) we are taught that the separation of the lamps is a mere incident; they are to be conceived of as organically one, and moreover as fed by secret ducts with oil from no limited supply, but from living olive trees, vital, rooted in the system of the universe. Whatever obscurity may veil those "two sons of oil" (and this is not the place to discuss the subject), we are distinctly told that the main lesson is that of lustre derived from supernatural, invisible sources. Zerubbabel is confronted by a great mountain of hindrance, but it shall become a plain before him, because the lesson of the vision of the candlestick is this-- "Not by might, nor by power, but by My Spirit, saith the Lord." A lamp gives light not because the gold shines, but because the oil burns; and yet the oil is the one thing which the eye sees not. And so the Church is a witness for her Lord, a light shining in a dark place, not because of its learning or culture, its noble ritual, its stately buildings or its ample revenues. All these things her children, having the power, ought to dedicate. The ancient symbol put art and preciousness in an honourable place, worthily upholding the lamp itself; and in the New Testament the seven lamps of the Apocalypse were still of gold. But the true function of a lamp is to be luminous, and for this the Church depends wholly upon its supply of grace from God the Holy Ghost. It is "not by might, nor by power, but by My Spirit, saith the Lord."
+We have now to ascertain the spiritual meaning of this stately symbol. There are two other passages in Scripture which take up the figure and carry it forward. In Zechariah (iv. 2-12) we are taught that the separation of the lamps is a mere incident; they are to be conceived of as organically one, and moreover as fed by secret ducts with oil from no limited supply, but from living olive trees, vital, rooted in the system of the universe. Whatever obscurity may veil those "two sons of oil" (and this is not the place to discuss the subject), we are distinctly told that the main lesson is that of lustre derived from supernatural, invisible sources. Zerubbabel is confronted by a great mountain of hindrance, but it shall become a plain before him, because the lesson of the vision of the candlestick is this--"Not by might, nor by power, but by My Spirit, saith the Lord." A lamp gives light not because the gold shines, but because the oil burns; and yet the oil is the one thing which the eye sees not. And so the Church is a witness for her Lord, a light shining in a dark place, not because of its learning or culture, its noble ritual, its stately buildings or its ample revenues. All these things her children, having the power, ought to dedicate. The ancient symbol put art and preciousness in an honourable place, worthily upholding the lamp itself; and in the New Testament the seven lamps of the Apocalypse were still of gold. But the true function of a lamp is to be luminous, and for this the Church depends wholly upon its supply of grace from God the Holy Ghost. It is "not by might, nor by power, but by My Spirit, saith the Lord."
 
-Again, in the Revelation, we find the New Testament Churches described as lamps, among which their Lord habitually walks. And no sooner have the seven churches on earth been warned and cheered, than we are shown before the throne of God seven torches (burning by their own incandescence--vide Trench, N. T. Synonyms, p. 162), which are the seven spirits of God, answering to His seven light-bearers upon the earth (Rev. iv. 5).
+Again, in the Revelation, we find the New Testament Churches described as lamps, among which their Lord habitually walks. And no sooner have the seven churches on earth been warned and cheered, than we are shown before the throne of God seven torches (burning by their own incandescence--_vide_ Trench, _N. T. Synonyms_, p. 162), which are the seven spirits of God, answering to His seven light-bearers upon the earth (Rev. iv. 5).
 
 Lastly, the perfect and mystic number, seven, declares that the light of the Church, shining in a dark place, ought to be full and clear, no imperfect presentation of the truth: "they shall light the lamps, to give light over against it."
 
@@ -3043,10 +2901,9 @@ Because this lamp shines with the light of the Church, exhibiting the graces of 
 
 It is to burn, as the Church ought to shine in all darkness of the conscience or the heart of man, from evening to morning for ever. And the care of the ministers of God is to be the continual tending of this blessed and sacred flame.
 
+_THE PATTERN IN THE MOUNT._
 
-#### The Pattern in the Mount
-
-xxv. 9, 40.
+Xxv. 9, 40.
 
 Twice over (vers. 9, 40, and cf. xxvi. 30, xxvii. 8, etc.) Moses was reminded to be careful to make all things after the pattern shown him in the mount. And these words have sometimes been so strained as to convey the meaning that there really exists in heaven a tabernacle and its furniture, the grand original from which the Mosaic copy was derived.
 
@@ -3062,7 +2919,7 @@ It is surely a striking thing to find this need of a pervading sentiment impress
 
 For it is the mysterious all-pervading charm of such a dominant sentiment which marks the impassable difference between the lowliest work of art, and the highest piece of art-manufacture which is only a manufactured article.
 
-And assuredly the recognition of this principle among a people whose ancient history shows but little interest in art, calls for some attention from those who regard the tabernacle itself as a fiction, and its details as elaborated in Babylonia, in the priestly interest. (Kuenen, Relig. of Israel, ii. 148).
+And assuredly the recognition of this principle among a people whose ancient history shows but little interest in art, calls for some attention from those who regard the tabernacle itself as a fiction, and its details as elaborated in Babylonia, in the priestly interest. (Kuenen, _Relig. of Israel_, ii. 148).
 
 The problem of problems for all who deny the divinity of the Old Testament is to explain the curious position which its institutions are consistent in accepting. They rest on the authority of heaven, and yet they are not definitive, but provisional. They are always looking forward to another prophet like their founder, a new covenant better than the present one, a high priest after the order of a Canaanite enthroned at the right hand of Jehovah, a consecration for every pot in the city like that of the vessels in the temple (Deut. xviii. 15; Jer. xxxi. 31; Ps. cx. 1, 4; Zech. xiv. 20). And here, "in the priestly interest," is an avowal that the Divine habitation which they boast of is but the likeness and shadow of some Divine reality concealed. And these strange expectations have proved to be the most fruitful and energetic principles in their religion.
 
@@ -3076,28 +2933,27 @@ Let us apply the same principle to human life. There also harmony and unity, a p
 
 How shall our lives be made thus harmonious, a spiritual poem and not a task, a chord vibrating under the musician's hand? How shall thought and word, desire and deed, become like the blended voices of river and wind and wood, a witness for the divine? Not by mere elaboration of detail (though correctness is a condition of all true art), but by a vision before us of the divine life, the Ideal, the pattern shown to all, and equally to be imitated (strange though it may seem) by peasant and prince, by woman and sage and child.
 
-
 ### Chapter XXVI — The Tabernacle
 
 xxvi.
 
 We now come to examine the structure of the tabernacle for which the most essential furniture has been prepared.
 
-Some confusion of thought exists, even among educated laymen, with regard to the arrangements of the temple; and this has led to similar confusion (to a less extent) concerning the corresponding parts of the tabernacle. "The temple" in which the Child Jesus was found, and into which Peter and John went up to pray, ought not to be confounded with that inner shrine, "the temple," in which it was the lot of the priest Zacharias to burn incense, and into which Judas, forgetful of all its sacredness in his anguish, hurled his money to the priests (Luke ii. 46; Acts iii. 3; Luke i. 9; Matt. xxvii. 5). Now, the former of these corresponded to "the court of the tabernacle," an enclosure open to the skies, and containing two important articles, the altar of burnt sacrifices and the laver. This was accessible to the nation, so that the sinner could lay his hand upon the head of his offering, and the priests could purify themselves before entering their own sacred place, the tabernacle proper, the shrine. But when we come to the structure itself, some attention is still necessary, in order to derive any clear notion from the description; nor can this easily be done by an English reader without substituting the Revised Version for the Authorised. He will then discover that we have a description, first of the "curtains of the tabernacle" (vers. 1--6), and then of other curtains which are not considered to belong to the tabernacle proper, but to "the tent over the tabernacle" (7--13), being no part of the rich ornamental interior, but only a protection spread above it; and over this again were two further screens from the weather (14), and finally, inside all, are "the boards of the tabernacle"--of which boards the two actual apartments were constructed (15--30)--and the veil which divided the Holy from the Most Holy Place (31--3).
+Some confusion of thought exists, even among educated laymen, with regard to the arrangements of the temple; and this has led to similar confusion (to a less extent) concerning the corresponding parts of the tabernacle. "The temple" in which the Child Jesus was found, and into which Peter and John went up to pray, ought not to be confounded with that inner shrine, "the temple," in which it was the lot of the priest Zacharias to burn incense, and into which Judas, forgetful of all its sacredness in his anguish, hurled his money to the priests (Luke ii. 46; Acts iii. 3; Luke i. 9; Matt. xxvii. 5). Now, the former of these corresponded to "the court of the tabernacle," an enclosure open to the skies, and containing two important articles, the altar of burnt sacrifices and the laver. This was accessible to the nation, so that the sinner could lay his hand upon the head of his offering, and the priests could purify themselves before entering their own sacred place, the tabernacle proper, the shrine. But when we come to the structure itself, some attention is still necessary, in order to derive any clear notion from the description; nor can this easily be done by an English reader without substituting the Revised Version for the Authorised. He will then discover that we have a description, first of the "curtains of the tabernacle" (vers. 1-6), and then of other curtains which are not considered to belong to the tabernacle proper, but to "the tent over the tabernacle" (7-13), being no part of the rich ornamental interior, but only a protection spread above it; and over this again were two further screens from the weather (14), and finally, inside all, are "the boards of the tabernacle"--of which boards the two actual apartments were constructed (15-30)--and the veil which divided the Holy from the Most Holy Place (31-3).
 
 "The curtains of the tabernacle" were ten, made of linen, of which every thread consisted of fine strands twisted together, "and blue and purple and scarlet," with cherubim not embroidered but woven into the fabric (1).
 
-These curtains were sewn together, five and five, so as to make two great curtains, each slightly larger than forty-two feet by thirty, being twenty-eight cubits long by five times four cubits broad (2, 3). Finally these two were linked together, each having fifty loops for that purpose at corresponding places at the edge, which loops were bound together by fifty golden clasps (4--6). Thus, when the nation was about to march, they could easily be divided in the middle and then folded in the seams.
+These curtains were sewn together, five and five, so as to make two great curtains, each slightly larger than forty-two feet by thirty, being twenty-eight cubits long by five times four cubits broad (2, 3). Finally these two were linked together, each having fifty loops for that purpose at corresponding places at the edge, which loops were bound together by fifty golden clasps (4-6). Thus, when the nation was about to march, they could easily be divided in the middle and then folded in the seams.
 
 This costly fabric was regarded as part of the true tabernacle: why, then, do we find the outer curtains mentioned before the rest of the tabernacle proper is described?
 
 Certainly because these rich curtains lie immediately underneath the coarser ones, and are to be considered along with "the tent" which covered all (7). This consisted of curtains of goats' hair, of the same size, and arranged in all respects like the others, except that their clasps were only bronze, and that the curtains were eleven in number, instead of ten, so that half a curtain was available to hang down over the back, and half was to be doubled back upon itself at the front of "the tabernacle," that is to say, the richer curtains underneath. The object of this is obvious: it was to bring the centre of the goatskin curtains over the edge of the linen ones, as tiles overlap each other, to shut out the rain at the joints. But this implies, what has been said already, that the curtains of the tabernacle should lie close to the curtains of the tent.
 
-Over these again was an outer covering of rams' skins dyed red, and a covering of sealskins above all (14). This last, it is generally agreed, ran only along the top, like a ridge tile, to protect the vulnerable part of the roof. And now it has to be remembered that we are speaking of a real tent with sloping sides, not a flat cover laid upon the flat inner structure of boards, and certain to admit the rain. By calling attention to this fact, Mr. Fergusson succeeded in solving all the problems connected with the measurements of the tabernacle, and bringing order into what was little more than chaos before (Smith's Bible Dict., "Temple").
+Over these again was an outer covering of rams' skins dyed red, and a covering of sealskins above all (14). This last, it is generally agreed, ran only along the top, like a ridge tile, to protect the vulnerable part of the roof. And now it has to be remembered that we are speaking of a real tent with sloping sides, not a flat cover laid upon the flat inner structure of boards, and certain to admit the rain. By calling attention to this fact, Mr. Fergusson succeeded in solving all the problems connected with the measurements of the tabernacle, and bringing order into what was little more than chaos before (_Smith's Bible Dict._, "Temple").
 
-The inner tabernacle was of acacia wood, which was the only timber of the sanctuary. Each board stood ten cubits high, and was fitted by tenons into two silver sockets, which probably formed a continuous base. Each of these contained a talent of silver, and was therefore more than eighty pounds weight; and they were probably to some extent sunk into the ground for a foundation (xxxviii. 27). There were twenty boards on each side; and as they were a cubit and a half broad, the length of the tabernacle was about forty-five feet (16--18). At the west end there were six boards (22), which, with the breadth of the two posts or boards for the corners (23--4) just gives ten cubits, or fifteen feet, for the width of it. Thus the length of the tabernacle was three times its breadth; and we know that in the Temple (where all the proportions were the same, the figures being doubled throughout) the subdividing veil was so hung as to make the inner shrine a perfect square, leaving the holy place twice as long as it was broad.
+The inner tabernacle was of acacia wood, which was the only timber of the sanctuary. Each board stood ten cubits high, and was fitted by tenons into two silver sockets, which probably formed a continuous base. Each of these contained a talent of silver, and was therefore more than eighty pounds weight; and they were probably to some extent sunk into the ground for a foundation (xxxviii. 27). There were twenty boards on each side; and as they were a cubit and a half broad, the length of the tabernacle was about forty-five feet (16-18). At the west end there were six boards (22), which, with the breadth of the two posts or boards for the corners (23-4) just gives ten cubits, or fifteen feet, for the width of it. Thus the length of the tabernacle was three times its breadth; and we know that in the Temple (where all the proportions were the same, the figures being doubled throughout) the subdividing veil was so hung as to make the inner shrine a perfect square, leaving the holy place twice as long as it was broad.
 
-The posts were held in their places by wooden bars, which were overlaid with gold (as the boards also were, ver. 29) and fitted into golden rings. Four such bars, or bolts, ran along a portion of each side, and there was a fifth great bar which stretched along the whole forty-five feet from end to end. Thus the edifice was firmly held together; and the wealth of the material makes it likely that they were fixed on the inside, and formed a part of the ornament of the edifice (26--9).
+The posts were held in their places by wooden bars, which were overlaid with gold (as the boards also were, ver. 29) and fitted into golden rings. Four such bars, or bolts, ran along a portion of each side, and there was a fifth great bar which stretched along the whole forty-five feet from end to end. Thus the edifice was firmly held together; and the wealth of the material makes it likely that they were fixed on the inside, and formed a part of the ornament of the edifice (26-9).
 
 When the two curtains were fastened together with clasps, they gave a length of sixty feet. But we have seen that the length of the boards when jointed together was only forty-five feet. This gives a projection of seven feet and a half (five cubits) for the front and rear of the tent beyond the tabernacle of boards; and when the great curtains were drawn tight, sloping from the ridge-pole fourteen cubits on each side, it has been shown (assuming a right-angle at the top) that they reached within five cubits of the ground, and extended five cubits beyond the sides, the same distance as at the front and rear. The next instructions concern the veil which divided the two chambers of the sanctuary. This was in all respects like "the curtain of the tabernacle," and similarly woven with cherubim. It was hung upon four pillars; and the even number seems to prove that there was no higher one in the centre, reaching to the roof--which seems to imply that there was a triangular opening above the veil, between the Holy and the Most Holy Place (31, 32).
 
@@ -3109,7 +2965,6 @@ The tabernacle, like the Temple, had its entrance on the east (ver. 22); and in 
 
 What ideas would be suggested by this edifice to the worshipper will better be examined when we have examined also the external court.
 
-
 ### Chapter XXVII — The Outer Court
 
 xxvii.
@@ -3118,9 +2973,9 @@ Before describing the tabernacle, its furniture was specified. And so, when givi
 
 It will be noticed that the laver in this court, like the altar of incense within, is reserved for mention in a later chapter (xxx. 18) as being a subordinate feature in the arrangements.
 
-The enclosure was a quadrangle of one hundred cubits by fifty; it was five cubits high, and each cubit may be taken as a foot and a half. The linen which enclosed it was upheld by pillars with sockets of brass; and one of the few additional facts to be gleaned from the detailed statement that all these directions were accurately carried out is that the heads of all the pillars were overlaid with silver (xxxviii. 17). The pillars were connected by rods (fillets) of silver, and a hanging of fine-twined linen was stretched by means of silver hooks (9--13). The entrance was twenty cubits wide, corresponding accurately to the width, not of the tabernacle, but of "the tent" as it has been described (reaching out five cubits farther on each side than the tabernacle), and it was closed by an embroidered curtain (14--17). This fence was drawn firmly into position and held there by brazen tent-pins; and we here incidentally learn that so was the tent itself (19).
+The enclosure was a quadrangle of one hundred cubits by fifty; it was five cubits high, and each cubit may be taken as a foot and a half. The linen which enclosed it was upheld by pillars with sockets of brass; and one of the few additional facts to be gleaned from the detailed statement that all these directions were accurately carried out is that the heads of all the pillars were overlaid with silver (xxxviii. 17). The pillars were connected by rods (fillets) of silver, and a hanging of fine-twined linen was stretched by means of silver hooks (9-13). The entrance was twenty cubits wide, corresponding accurately to the width, not of the tabernacle, but of "the tent" as it has been described (reaching out five cubits farther on each side than the tabernacle), and it was closed by an embroidered curtain (14-17). This fence was drawn firmly into position and held there by brazen tent-pins; and we here incidentally learn that so was the tent itself (19).
 
-\[For verses 20, 21, see page \[518\]423.\]
+\[FOR VERSES 20, 21, see page 423.\]
 
 We are now in a position to ask what sentiment all these arrangements would inspire in the mind of the simple and somewhat superstitious worshippers.
 
@@ -3128,7 +2983,7 @@ Approaching it from outside, the linen enclosure (being seven feet and a half hi
 
 So does the world outside look askance upon the Church, discerning a mysterious suggestion everywhere of sternness and awe, yet with flashes of strange splendour and affluence underneath the gloom.
 
-In this place God is known to be: it is a tent, not really "of the congregation," but "of meeting" between Jehovah and His people: "the tent of meeting before the Lord, where I will meet with you, ... and there I will meet with the children of Israel" (xxix. 42--3). And so the Israelite, though troubled by sin and fear, is attracted to the gate, and enters. Right in front stands the altar: this obtrudes itself before all else upon his attention: he must learn its lesson first of all. Especially will he feel that this is so if a sacrifice is now to be offered, since the official must go farther into the court to wash at the laver, and then return; so that a loss of graduated arrangement has been accepted in order to force the altar to the front. And he will soon learn that not only must every approach to the sacred things within be heralded by sacrifice upon this altar, but the blood of the victim must be carried as a passport into the shrine. Surely he remembers how the blood of the lamb saved his own life when the firstborn of Egypt died: he knows that it is written "The life (or soul) of the flesh is in the blood: and I have given it to you upon the altar to make atonement for your souls (or lives): for it is the blood that maketh atonement by reason of the life (or soul)" (Lev. xvii. 11).
+In this place God is known to be: it is a tent, not really "of the congregation," but "of meeting" between Jehovah and His people: "the tent of meeting before the Lord, where I will meet with you, ... and there I will meet with the children of Israel" (xxix. 42-3). And so the Israelite, though troubled by sin and fear, is attracted to the gate, and enters. Right in front stands the altar: this obtrudes itself before all else upon his attention: he must learn its lesson first of all. Especially will he feel that this is so if a sacrifice is now to be offered, since the official must go farther into the court to wash at the laver, and then return; so that a loss of graduated arrangement has been accepted in order to force the altar to the front. And he will soon learn that not only must every approach to the sacred things within be heralded by sacrifice upon this altar, but the blood of the victim must be carried as a passport into the shrine. Surely he remembers how the blood of the lamb saved his own life when the firstborn of Egypt died: he knows that it is written "The life (or soul) of the flesh is in the blood: and I have given it to you upon the altar to make atonement for your souls (or lives): for it is the blood that maketh atonement by reason of the life (or soul)" (Lev. xvii. 11).
 
 No Hebrew could watch his fellow-sinner lay his hand on a victim's head, and confess his sin before the blow fell on it, without feeling that sin was being, in some mysterious sense, "borne" for him. The intricacies of our modern theology would not disturb him, but this is the sentiment by which the institutions of the tabernacle assuredly ministered comfort and hope to him. Strong would be his hope as he remembered that the service and its solace were not of human devising, that God had "given it to him upon the altar to make atonement for his soul."
 
@@ -3139,7 +2994,6 @@ Much less might he penetrate the awful chamber within, the true home of deity. T
 Thus every worshipper carries away a profound consciousness that he is utterly unworthy, and yet that his unworthiness has been expiated; that he is excluded, and yet that his priest, his representative, has been admitted, and therefore that he may hope. The Holy Ghost did not declare by sign that no way into the Holiest existed, but only that it was not yet made manifest. Not yet.
 
 This leads us to think of the priest.
-
 
 ### Chapter XXVIII — "the Holy Garments."
 
@@ -3153,23 +3007,23 @@ All that are wise-hearted in such work, being inspired by God as really, though 
 
 The order in the twenty-eighth chapter is perhaps that of their visible importance. But it will be clearer to describe them in the order in which they were put on.
 
-Next the flesh all the priests were clad from the loins to the thighs in close-fitting linen: the indecency of many pagan rituals must be far from them, and this was a perpetual ordinance, "that they bear not iniquity and die" (xxviii. 42--3).
+Next the flesh all the priests were clad from the loins to the thighs in close-fitting linen: the indecency of many pagan rituals must be far from them, and this was a perpetual ordinance, "that they bear not iniquity and die" (xxviii. 42-3).
 
-Over this was a tight-fitting "coat" (a shirt rather) of fine linen, white, but woven in a chequered pattern, without seam, like the robe of Jesus, and bound together with a girdle (39--43).
+Over this was a tight-fitting "coat" (a shirt rather) of fine linen, white, but woven in a chequered pattern, without seam, like the robe of Jesus, and bound together with a girdle (39-43).
 
 These garments were common to all the priests; but their "head-tires" differed from the impressive mitre of the high priest. The rest of the vestments in this chapter belong to him alone.
 
-Over the "coat" he wore the flowing "robe of the ephod," all blue, little seen from the waist up, but uncovered thence to the feet, and surrounded at the hem with golden pomegranates, the emblem of fruitfulness, and with bells to enable the worshippers outside to follow the movements of their representative. He should die if this expression of his vicarious function were neglected (31--35).
+Over the "coat" he wore the flowing "robe of the ephod," all blue, little seen from the waist up, but uncovered thence to the feet, and surrounded at the hem with golden pomegranates, the emblem of fruitfulness, and with bells to enable the worshippers outside to follow the movements of their representative. He should die if this expression of his vicarious function were neglected (31-35).
 
-Above this robe was the ephod itself--a kind of gorgeous jacket, made in two pieces which were joined at the shoulders, and bound together at the waist by a cunningly woven band, which was of the same piece. This ephod, like the curtains of the tabernacle, was of blue and purple and scarlet and fine-twined linen; but added to these were threads of gold, and we read, as if this were a novelty which needed to be explained, that they beat the gold into thin plates and then cut it into threads (xxxix. 3, xxviii. 6--8).
+Above this robe was the ephod itself--a kind of gorgeous jacket, made in two pieces which were joined at the shoulders, and bound together at the waist by a cunningly woven band, which was of the same piece. This ephod, like the curtains of the tabernacle, was of blue and purple and scarlet and fine-twined linen; but added to these were threads of gold, and we read, as if this were a novelty which needed to be explained, that they beat the gold into thin plates and then cut it into threads (xxxix. 3, xxviii. 6-8).
 
-Upon the shoulders were two stones, rightly perhaps called onyx, and set in "ouches"--of filagree work, as the word seems to say. Upon them were engraven the names of the twelve tribes, the burden of whose sins and sorrows he should bear into the presence of his God, "for a memorial" (9--12).
+Upon the shoulders were two stones, rightly perhaps called onyx, and set in "ouches"--of filagree work, as the word seems to say. Upon them were engraven the names of the twelve tribes, the burden of whose sins and sorrows he should bear into the presence of his God, "for a memorial" (9-12).
 
-Upon the ephod was the breastplate, fastened to it by rings and chains of twisted gold, made to fold over into a square, a span in measurement, and blazing with twelve gems, upon which were engraved, as upon the onyxes on the shoulders, the names of the twelve tribes. All attempts to derive edification from the nature of these jewels must be governed by the commonplace reflection that we cannot identify them; and many of the present names are incorrect. It is almost certain that neither topaz, sapphire nor diamond could have been engraved, as these stones were, with the name of one of the twelve tribes (13--30).
+Upon the ephod was the breastplate, fastened to it by rings and chains of twisted gold, made to fold over into a square, a span in measurement, and blazing with twelve gems, upon which were engraved, as upon the onyxes on the shoulders, the names of the twelve tribes. All attempts to derive edification from the nature of these jewels must be governed by the commonplace reflection that we cannot identify them; and many of the present names are incorrect. It is almost certain that neither topaz, sapphire nor diamond could have been engraved, as these stones were, with the name of one of the twelve tribes (13-30).
 
 "In the breastplate" (that is, evidently, between the folds as it was doubled), were placed those mysterious means of ascertaining the will of God, the Urim and the Thummim, the Lights and the Perfections; but of their nature, or of the manner in which they became significant, nothing can be said that is not pure conjecture (30).
 
-Lastly, there was a mitre of white linen, and upon it was laced with blue cords a gold plate bearing the inscription "Holy to Jehovah" (36, 37).
+Lastly, there was a mitre of white linen, and upon it was laced with blue cords a gold plate bearing the inscription "HOLY TO JEHOVAH" (36, 37).
 
 No mention is made of shoes or sandals; and both from the commandment to Moses at the burning bush, and from history, it is certain that the priests officiated with their feet bare.
 
@@ -3177,8 +3031,7 @@ The picture thus completed has the clearest ethical significance. There is modes
 
 Such was the import of the raiment of the high priest: let us see how it agrees with the nature of his office.
 
-
-#### The Priesthood
+_THE PRIESTHOOD._
 
 What, then, are the central ideas connected with the institution of a priesthood?
 
@@ -3212,12 +3065,11 @@ And perhaps this is the distinguishing peculiarity of the Jewish priest among ot
 
 Throughout the ritual, the utmost care was taken to inculcate this double lesson of the ministry. Into the Holy Place, whence the people were excluded, a whole family could enter. But there was an inner shrine, whither only the high priest might penetrate, thus reducing the family to a level with the nation; "the Holy Ghost this signifying, that the way into the Holy Place hath not yet been made manifest, while as the first tabernacle (the outer shrine--ver. 6) was yet standing" (Heb. ix. 8).
 
-Thus the people felt a deeper awe, a broader separation. And yet, when the sole and only representative who was left to them entered that "shrine, remote, occult, untrod," they saw that the way was not wholly barred against human footsteps: the lesson suggested was far from being that of absolute despair,--it was, as the Epistle to the Hebrews said, "Not yet." The prophet Zechariah foresaw a time when the bells of the horses should bear the same consecrating legend that shone upon the forehead of the priest: Holy unto the Lord (Zech. xiv. 20).
+Thus the people felt a deeper awe, a broader separation. And yet, when the sole and only representative who was left to them entered that "shrine, remote, occult, untrod," they saw that the way was not wholly barred against human footsteps: the lesson suggested was far from being that of absolute despair,--it was, as the Epistle to the Hebrews said, "Not yet." The prophet Zechariah foresaw a time when the bells of the horses should bear the same consecrating legend that shone upon the forehead of the priest: HOLY UNTO THE LORD (Zech. xiv. 20).
 
-It is important to observe that the only book of the New Testament in which the priesthood is discussed dwells quite as largely upon the difference as upon the likeness between the Aaronic and the Messianic priest. The latter offered but one Sacrifice for sins, the former offered for himself before doing so for the people (Heb. x. 12). The latter was a royal Priest, and of the order of a Canaanite (Heb. vii. 1--4), thus breaking down all the old system at one long-predicted blow--for if He were on earth He could not so much as be a priest at all (Heb. viii. 4)--and with it all the old racial monopolies, all class distinctions, being Himself of a tribe as to which Moses spake nothing concerning priests (Heb. vii. 14). Every priest standeth, but this priest hath for ever sat down, and even at the right hand of God (Heb. x. 11, 12).
+It is important to observe that the only book of the New Testament in which the priesthood is discussed dwells quite as largely upon the difference as upon the likeness between the Aaronic and the Messianic priest. The latter offered but one Sacrifice for sins, the former offered for himself before doing so for the people (Heb. x. 12). The latter was a royal Priest, and of the order of a Canaanite (Heb. vii. 1-4), thus breaking down all the old system at one long-predicted blow--for if He were on earth He could not so much as be a priest at all (Heb. viii. 4)--and with it all the old racial monopolies, all class distinctions, being Himself of a tribe as to which Moses spake nothing concerning priests (Heb. vii. 14). Every priest standeth, but this priest hath for ever sat down, and even at the right hand of God (Heb. x. 11, 12).
 
-In one sense this priesthood belongs to Christ alone. In another sense it belongs to all who are made one with Him, and therefore a kingly priesthood unto God. But nowhere in the New Testament is the name by which He is designated bestowed upon any earthly minister by virtue of his office. The presbyter is never called sacerdos. And perhaps the heaviest blow ever dealt to popular theology was the misapplying of the New Testament epithet (elder, presbyter or priest) to designate the sacerdotal functions of the Old Testament, and those of Christ which they foreshadowed. It is not the word "priest" that is at fault, but some other word for the Old Testament official which is lacking, and cannot now be supplied.
-
+In one sense this priesthood belongs to Christ alone. In another sense it belongs to all who are made one with Him, and therefore a kingly priesthood unto God. But nowhere in the New Testament is the name by which He is designated bestowed upon any earthly minister by virtue of his office. The presbyter is never called _sacerdos_. And perhaps the heaviest blow ever dealt to popular theology was the misapplying of the New Testament epithet (elder, presbyter or priest) to designate the sacerdotal functions of the Old Testament, and those of Christ which they foreshadowed. It is not the word "priest" that is at fault, but some other word for the Old Testament official which is lacking, and cannot now be supplied.
 
 ### Chapter XXIX — The Consecration Services
 
@@ -3225,7 +3077,7 @@ xxix.
 
 The priest being now selected, and his raiment so provided as that it shall speak of his office and its glory, there remains his consecration.
 
-In our day there is a disposition to make light of the formal setting apart of men and things for sacred uses. If God, we are asked, has called one to special service, is not that enough? What more can earth do to commission the chosen of the sky? But the plain answer which we ought to have the courage to return is that this is not at all enough. For God Himself had already called Paul and Barnabas when He said to such folk as Simeon Niger and Lucius of Cyrene and Manaen, "Separate Me Barnabas and Saul for the work whereunto I have called them" (Acts xiii. 1--4). And these obscure people not only laid their hands upon the great apostle, but actually sent him forth. Now, if he was not exempted from the need of an orderly commission by the marvellous circumstances of his call, by his apostleship not of man, by the explicit announcement that he was a chosen vessel to bear the sacred name before kings and peoples, it is startling to be told of some shallow modern evangelist, who works for no Church and submits to no discipline, that he can dispense with the sanction of human ordination because he is so clearly sent of heaven.
+In our day there is a disposition to make light of the formal setting apart of men and things for sacred uses. If God, we are asked, has called one to special service, is not that enough? What more can earth do to commission the chosen of the sky? But the plain answer which we ought to have the courage to return is that this is not at all enough. For God Himself had already called Paul and Barnabas when He said to such folk as Simeon Niger and Lucius of Cyrene and Manaen, "Separate Me Barnabas and Saul for the work whereunto I have called them" (Acts xiii. 1-4). And these obscure people not only laid their hands upon the great apostle, but actually sent him forth. Now, if he was not exempted from the need of an orderly commission by the marvellous circumstances of his call, by his apostleship not of man, by the explicit announcement that he was a chosen vessel to bear the sacred name before kings and peoples, it is startling to be told of some shallow modern evangelist, who works for no Church and submits to no discipline, that he can dispense with the sanction of human ordination because he is so clearly sent of heaven.
 
 The example of the Old Testament will no doubt be brushed aside as if the religion which Jesus learned and honoured were a mere human superstition. Or else it would be natural to ask, Is it because the offices and functions of Judaism were more formal, more perfunctory than ours, that a greater spiritual grace went with their appointments than with the laying on of hands in the Christian Church, a rite so clearly sanctioned in the New Testament?
 
@@ -3243,9 +3095,9 @@ The priest, when cleansed, was next to be clad in his robes of office, with the 
 
 And then he was to be anointed. Now, the use of oil, in the ceremony of investiture to office, is peculiar to revealed religion. And whether we suppose it to refer to the oil in a lamp, invisible, yet the secret source of all its illuminating power, or to that refreshment and renovated strength bestowed upon a weary traveller when his head is anointed with oil, in either case it expresses the grand doctrine of revealed religion--that no office may be filled in one's own strength, but that the inspiring help of God is offered, as surely as responsibilities are imposed. "The Spirit of the Lord God is upon Me, because He hath anointed Me."
 
-With these three ceremonies--ablution, robing and anointing--the first and most personal section of the ritual ended. And now began a course of sacrifices to God, advancing from the humblest expression of sin, and appeal to heaven to overlook the unworthiness of its servant, to that which best exhibited conscious acceptance, enjoyment of privilege, admission to a feast with God. The bullock was a sin-offering: the word is literally sin, and occurs more than once in the double sense: "let him offer for his sin which he hath sinned a young bullock ... for a sin(-offering)" (Lev. iv. 3, v. 6, etc.). And this is the explanation of the verse which has perplexed so many: "He made Him to be sin for us, Who knew no sin" (2 Cor. v. 21). The doctrine that pardon comes not by a cheap and painless overlooking of transgression, as a thing indifferent, but by the transfer of its consequences to a victim divinely chosen, could not easily find clearer expression than in this word. And it was surely a sobering experience, and a wholesome one, when Aaron, in his glorious robes, sparkling with gems, and bearing on his forehead the legend of his holy calling, laid his hand, beside those of his children and successors, upon the doomed creature which was made sin for him. The gesture meant confession, acceptance of the appointed expiation, submission to be freed from guilt by a method so humiliating and admonitory. There was no undue exaltation in the mind of any priest whose heart went with this "remembrance of sins."
+With these three ceremonies--ablution, robing and anointing--the first and most personal section of the ritual ended. And now began a course of sacrifices to God, advancing from the humblest expression of sin, and appeal to heaven to overlook the unworthiness of its servant, to that which best exhibited conscious acceptance, enjoyment of privilege, admission to a feast with God. The bullock was a sin-offering: the word is literally _sin_, and occurs more than once in the double sense: "let him offer for his _sin_ which he hath _sinned_ a young bullock ... for a _sin(-offering)_" (Lev. iv. 3, v. 6, etc.). And this is the explanation of the verse which has perplexed so many: "He made Him to be sin for us, Who knew no sin" (2 Cor. v. 21). The doctrine that pardon comes not by a cheap and painless overlooking of transgression, as a thing indifferent, but by the transfer of its consequences to a victim divinely chosen, could not easily find clearer expression than in this word. And it was surely a sobering experience, and a wholesome one, when Aaron, in his glorious robes, sparkling with gems, and bearing on his forehead the legend of his holy calling, laid his hand, beside those of his children and successors, upon the doomed creature which was made sin for him. The gesture meant confession, acceptance of the appointed expiation, submission to be freed from guilt by a method so humiliating and admonitory. There was no undue exaltation in the mind of any priest whose heart went with this "remembrance of sins."
 
-The bullock was immediately slain at the door of "the tent of meeting"; and to show that the shedding of his blood was an essential part of the rite, part of it was put with the finger on the horns of the altar, and the remainder was poured out at the base. Only then might the fat and the kidney be burned upon the altar; but it is never said of any sin-offering, as presently of the burnt-offering and the peace-offerings, that it is "a sweet savour before Jehovah" (vers. 18, 25)--a phrase which is only once extended to a trespass-offering for a purely unconscious lapse (Lev. iv. 31). The sin-offering is, at the best, a deplorable necessity. And therefore the notion of a gift, welcome to Jehovah, is carefully shut out: no portion of such an offering may go to maintain the priests: all must be burned "with fire without the camp; it is a sin-offering" (ver. 14). Rightly does the Epistle to the Hebrews emphasize this fact: "The bodies of those beasts whose blood is brought into the Holy Place ... as an offering for sin" are burned without the camp. The bodies of other sacrifices were not reckoned unfit for food. \[40\] And so there is a striking example of humility, as well as an instructive coincidence, in the fact that Jesus suffered without the gate, being the true Sin-offering, "that He might sanctify the people through His own blood" (Heb. xiii. 11, 12).
+The bullock was immediately slain at the door of "the tent of meeting"; and to show that the shedding of his blood was an essential part of the rite, part of it was put with the finger on the horns of the altar, and the remainder was poured out at the base. Only then might the fat and the kidney be burned upon the altar; but it is never said of any sin-offering, as presently of the burnt-offering and the peace-offerings, that it is "a sweet savour before Jehovah" (vers. 18, 25)--a phrase which is only once extended to a trespass-offering for a purely unconscious lapse (Lev. iv. 31). The sin-offering is, at the best, a deplorable necessity. And therefore the notion of a gift, welcome to Jehovah, is carefully shut out: no portion of such an offering may go to maintain the priests: all must be burned "with fire without the camp; it is a sin-offering" (ver. 14). Rightly does the Epistle to the Hebrews emphasize this fact: "The bodies of those beasts whose blood is brought into the Holy Place ... as an offering for sin" are burned without the camp. The bodies of other sacrifices were not reckoned unfit for food. [fn. 40: Neither, it must be added, were the bodies of certain sin-offerings of the lower grade, and in which the priest was not personally concerned (Lev. x. 17, etc.).] And so there is a striking example of humility, as well as an instructive coincidence, in the fact that Jesus suffered without the gate, being the true Sin-offering, "that He might sanctify the people through His own blood" (Heb. xiii. 11, 12).
 
 Thus, by sacrifice for sin, the priest is rendered fit to offer up to God the symbol of a devoted life. Again, therefore, the hands of Aaron and his sons are laid upon the head of the ram, because they come to offer what represents themselves in another sense than that of expiation--a sweet savour now, an offering made by fire unto Jehovah (ver. 18). And to show that it is perfectly acceptable to Him, the whole ram shall be burnt upon the altar, and not now without the camp: "it is a burnt-offering unto the Lord." Such is the appointed way of God with man--first expiation, then devotion.
 
@@ -3259,16 +3111,15 @@ But the nation as a whole, with which this historical book is chiefly interested
 
 And where this offering was made, the Omnipresent would meet with them. There He would convey His mind to His priest. There also He would meet with all the people--not occasionally, as amid the more impressive but less tolerable splendours of Sinai, but to dwell among them and be their God. And they should know that all this was true, and also that for this He led them out of Egypt: "I am Jehovah their God."
 
-
 ### Chapter XXX — Incense
 
-xxx. 1--10.
+Xxx. 1-10.
 
 The altar of incense was not mentioned when the tent of meeting was being prepared and furnished. But when, in the Divine idea, this is done, when all is ready for the intercourse of God and man, and the priest and the daily victims are provided for, something more than this formal routine of offerings might yet be sought for. This material worship of the senses, this round of splendour and of tragedy, this blaze of gold and gold-encrusted timber, these curtains embroidered in bright colours, and ministers glowing with gems, this blood and fire upon the altar, this worldly sanctuary,--was it all? Or should it not do as nature ever does, which seems to stretch its hands out into the impalpable, and to grow all but spiritual while we gaze; so that the mountain folds itself in vapour, and the ocean in mist and foam, and the rugged stem of the tree is arrayed in fineness of quivering frondage, and it may be of tinted blossom, and around it breathes a subtle fragrance, the most impalpable existence known to sense? Fragrance indeed is matter passing into the immaterial, it is the sigh of the sensuous for the spiritual state of being, it is an aspiration.
 
 And therefore an altar, smaller than that of burnt-offering, but much more precious, being plated all around and on the top with gold (a "golden altar") (xxxix. 38), is now to be prepared, on which incense of sweet spices should be burned whenever a burnt-offering spoke of human devotion, and especially when the daily lamb was offered, every morning and every night.
 
-This altar occupied a significant position. Of necessity, it was without the Most Holy Place, or else it would have been practically inaccessible; and yet it was spiritually in the closest connection with the presence of God within. The Epistle to the Hebrews reckons it among the furniture of the inner shrine \[41\] (Heb. ix. 4), close to the veil of which it stood, and within which its burning odours made their sweetness palpable. In the temple of Solomon it was "the altar that belonged to the oracle" (1 Kings vi. 22). In Leviticus (xvi. 12) incense was connected especially with that spot in the Most Holy Place which best expressed the grace that it appealed to, and "the cloud of incense" was to "cover the mercy-seat." Therefore Moses was bidden to put this altar "before the veil that is by the ark of the testimony, before the mercy-seat" (ver. 6).
+This altar occupied a significant position. Of necessity, it was without the Most Holy Place, or else it would have been practically inaccessible; and yet it was spiritually in the closest connection with the presence of God within. The Epistle to the Hebrews reckons it among the furniture of the inner shrine [fn. 41: For it is incredible that, in a catalogue of furniture which included Aaron's rod and the pot of manna, this altar should be omitted, and "a golden censer," elsewhere unheard of, substituted. The gloss is too evidently an endeavour to get rid of a difficulty. But in idea and suggestion this altar belonged to the Most Holy. That shrine "had" it, though it actually stood outside.] (Heb. ix. 4), close to the veil of which it stood, and within which its burning odours made their sweetness palpable. In the temple of Solomon it was "the altar that belonged to the oracle" (1 Kings vi. 22). In Leviticus (xvi. 12) incense was connected especially with that spot in the Most Holy Place which best expressed the grace that it appealed to, and "the cloud of incense" was to "cover the mercy-seat." Therefore Moses was bidden to put this altar "before the veil that is by the ark of the testimony, before the mercy-seat" (ver. 6).
 
 It can never have been difficult to see the meaning of the rite for which this altar was provided. When Zacharias burned incense the multitude stood without, praying. The incense in the vial of the angel of the Apocalypse was the prayers of the saints (Luke i. 10; Rev. viii. 3). And, long before, when the Psalmist thought of the priest approaching the veil which concealed the Supreme Presence, and there kindling precious spices until their aromatic breath became a silent plea within, it seemed to him that his own heart was even such an altar, whence the perfumed flame of holy longings might be wafted into the presence of his God, and he whispered, "Let my prayer be set forth before Thee as incense" (Ps. cxli. 2).
 
@@ -3276,18 +3127,14 @@ Such being the import of the type, we need not wonder that it was a perpetual or
 
 But, however earnest and pure may seem to be the breathing of the soul to God, something unworthy mingles with what is best in man. The very altar of incense needs to have an atonement made for it once in the year throughout their generations with the blood of the sin-offering of atonement. The prayer of every heart which knows its own secret will be this:
 
-"Forgive what seemed my sin in me,
+"Forgive what seemed my sin in me,  
+What seemed my worth since I began;  
+For merit lives from man to man  
+And not from man, O Lord, to Thee."  
 
-What seemed my worth since I began;
+_THE CENSUS._
 
-For merit lives from man to man
-
-And not from man, O Lord, to Thee."
-
-
-#### The Census
-
-xxx. 11--16.
+Xxx. 11-16.
 
 Moses by Divine command was soon to number Israel, and thus to lay the foundation for its organisation upon the march. A census was not, therefore, supposed to be presumptuous or sinful in itself; it was the vain-glory of David's census which was culpable.
 
@@ -3295,7 +3142,7 @@ But the honour of being numbered among the people of God should awaken a sense o
 
 For indeed the madness of modern levelling systems is only their attempt to level down instead of up, their dream that absolute equality can be obtained, or being obtained can be made a blessing, by the envious demolition of all that is lofty, and not by all together claiming the supreme elevation, the measure of the stature of manhood in Jesus Christ.
 
-It is not in any phalanstère of Fourier or Harmony Hall of Owen, that mankind will ever learn to break a common bread and drink of a common cup; it is at the table of a common Lord.
+It is not in any _phalanstère_ of Fourier or Harmony Hall of Owen, that mankind will ever learn to break a common bread and drink of a common cup; it is at the table of a common Lord.
 
 And so this first assertion of the equality of man was given to those who all ate the same spiritual meat and drank the same spiritual drink.
 
@@ -3309,10 +3156,9 @@ And yet, with that marvellous condescension which shone most brightly when He mo
 
 It is the silver thus levied which was used in the construction of the sanctuary. All the other materials were free-will offerings; but even as the entire tabernacle was based upon the ponderous sockets into which the boards were fitted, made of the silver of this tax, so do all our glad and willing services depend upon this fundamental truth, that we are unworthy even to be reckoned His, that we owe before we can bestow, that we are only allowed to offer any gift because He is so merciful in His demand. Israel gladly brought much more than was needed of all things precious. But first, as an absolutely imperative ransom, God demanded from each soul the half of three shillings and sevenpence.
 
+_THE LAVER._
 
-#### The Laver
-
-xxx. 17--21.
+Xxx. 17-21.
 
 For the cleansing of various sacrifices, but especially for the ceremonial washing of the priests, a laver of brass was to be made, and placed upon a separate base, the more easily to be emptied and replenished.
 
@@ -3320,10 +3166,9 @@ We have seen already that although its actual use preceded that of the altar, ye
 
 When the laver was actually made, an interesting fact was recorded about its materials: "He made the laver of brass, and the base of it of brass, of the mirrors of the serving-women which served at the door of the tent of meeting" (xxxviii. 8). Thus their instruments of personal adornment were applied to further a personal preparation of a more solemn kind, like the ointment with which a penitent woman anointed the feet of Jesus. There is a fitness which ought to be considered in the direction of our gifts, not as a matter of duty, but of good taste and charm. And thus also they continually saw the monument of their self-sacrifice. There is an innocent satisfaction, far indeed from vanity, when one looks at his own work for God.
 
+_THE ANOINTING OIL AND THE INCENSE._
 
-#### The Anointing Oil and the Incense
-
-xxx. 22--38.
+Xxx. 22-38.
 
 We have already seen the meaning of the anointing oil and of the incense.
 
@@ -3345,29 +3190,21 @@ There is in our time a curious tendency among men of letters to use holy things 
 
 A novelist has chosen for the title of a story "Just as I am." An innocent and graceful poet has seen a smile,--
 
-"'Twas such a smile,
-
-Aaron's twelve jewels seemed to mix
-
-With the lamps of the golden candlesticks."
+"'Twas such a smile,  
+Aaron's twelve jewels seemed to mix  
+With the lamps of the golden candlesticks."  
 
 Another is bolder, and sings of the war of love,--
 
-"In the great battle when the hosts are met
-
-On Armageddon's plain, with spears beset."
+"In the great battle when the hosts are met On Armageddon's plain, with spears beset."
 
 Another thinks of Mazzini as the
 
-"Dear lord and leader, at whose hand
-
-The first days and the last days stand,"
+"Dear lord and leader, at whose hand The first days and the last days stand,"
 
 and again as he who
 
-"Said, when all Time's sea was foam,
-
-Let there be Rome,' and there was Rome."
+"Said, when all Time's sea was foam, 'Let there be Rome,' and there was Rome."
 
 And Victor Hugo did not shrink from describing, and that with a strange and scandalous ignorance of the original incidents, the crucifixion by Louis Napoleon of the Christ of nations.
 
@@ -3377,10 +3214,9 @@ There is another development of the same tendency, by no means modern, noted by 
 
 And as often as a minister of God finds in his holy office a mere outlet for his natural gifts of rhetoric or of administration, he also is tempted to commit this crime.
 
-
 ### Chapter XXXI — Bezaleel and Aholiab
 
-xxxi. 1--18.
+Xxxi. 1-18.
 
 Next after this marking off so sharply of the holy from the profane, this consecration of men to special service, this protection of sacred unguents and sacred gums from secular use, we come upon a passage curiously contrasted, yet not really antagonistic to the last, of marvellous practical wisdom, and well calculated to make a nation wise and great.
 
@@ -3410,7 +3246,6 @@ Finally, there was given to Moses the deposit for which so noble a shrine was pl
 
 If any one, without supposing that they were literally written with a literal finger, conceives that this was the meaning conveyed to a Hebrew by the expression "written with the finger of God," he entirely misses the Hebrew mode of thought, which habitually connects the Lord with an arm, with a chariot, with a bow made naked, with a tent and curtains, without the slightest taint of materialism in its conception. Did not the magicians, failing to imitate the third plague, say "This is the finger of a God"? Did not Jesus Himself "cast out devils by the finger of God"? (Ex. viii. 19; Luke xi. 20).
 
-
 ### Chapter XXXII — The Golden Calf
 
 xxxii.
@@ -3429,7 +3264,6 @@ Again he returns to intercede; and if his prayer must fail, then his own part in
 
 How nobly he foreshadows, not indeed the Christian doctrine, but the love of Christ Who died for man, Who from the Mount of Transfiguration, as Moses from Sinai, came down (while Peter would have lingered) to bear the sins of His brethren! How superior He is to the Christian hymn which pronounces nothing worth a thought, except how to make my own election sure.
 
-
 ### Chapter XXXIII — Prevailing Intercession
 
 xxxiii.
@@ -3442,10 +3276,9 @@ It was during the progress of this mediation that Moses distracted by a double a
 
 It would seem that the anxious vigilance of Moses caused him to pass to and fro between the tent and the camp, "but his minister, Joshua the son of Nun, departed not out of the tent."
 
-The dread crisis in the history of the nation was now almost over. God had said, "My Presence shall go with thee, and I will give thee rest,"--a phrase which the lowly Jesus thought it no presumption to appropriate, saying, "I will give you rest," as He also appropriated the office of the Shepherd, the benevolence of the Physician, the tenderness of the Bridegroom, and the glory of the King and the Judge, all of which belonged to God.
+The dread crisis in the history of the nation was now almost over. God had said, "My Presence shall go with thee, and I will give thee rest,"--a phrase which the lowly Jesus thought it no presumption to appropriate, saying, "_I_ will give you rest," as He also appropriated the office of the Shepherd, the benevolence of the Physician, the tenderness of the Bridegroom, and the glory of the King and the Judge, all of which belonged to God.
 
 But Moses is not content merely to be secure, for it is natural that he who best loves man should also best love God. Therefore he pleads against the least withdrawal of the Presence: he cannot rest until repeatedly assured that God will indeed go with him; he speaks as if there were no "grace" but that. There are many people now who think it a better proof of being religious to feel either anxious or comforted about their own salvation, their election, and their going to heaven. And these would do wisely to consider how it comes to pass that the Bible first taught men to love and to follow God, and afterwards revealed to them the mysteries of the inner life and of eternity.
-
 
 ### Chapter XXXIV — The Vision of God
 
@@ -3455,7 +3288,7 @@ It was when God had most graciously assured Moses of His affection, that he vent
 
 We have seen how nobly this petition and the answer condemn all anthropomorphic misunderstandings of what had already been revealed; and also how it exemplifies the great law, that they who see most of God, know best how much is still unrevealed. The elders saw the God of Israel and did eat and drink: Moses was led from the bush to the flaming top of Sinai, and thence to the tent where the pillar of cloud was as a sentinel; but the secret remained unseen, the longing unsatisfied, and the nearest approach to the Beatific Vision reached by him with whom God spake face to face as with a friend, was to be hidden in a cleft of the rock, to be aware of an awful Shadow, and to hear the Voice of the Unseen.
 
-It was a fit time for the proclamation which was then made. When the people had been righteously punished and yet graciously forgiven, the name of the Self-Existent expanded and grew clearer,-- "Jehovah, Jehovah, a God full of compassion and gracious, slow to anger and plenteous in mercy and truth, keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty, visiting the iniquity of the fathers upon the children and upon the children's children, upon the third and upon the fourth generation." And as Moses made haste and bowed himself, it is affecting to hear him again pleading for that beloved Presence which even yet he can scarce believe to be restored, and instead of claiming any separation through his fidelity and his honours, praying "Pardon our iniquity and our sin, and take us for Thine inheritance" (xxxiv. 10).
+It was a fit time for the proclamation which was then made. When the people had been righteously punished and yet graciously forgiven, the name of the Self-Existent expanded and grew clearer,--"Jehovah, Jehovah, a God full of compassion and gracious, slow to anger and plenteous in mercy and truth, keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty, visiting the iniquity of the fathers upon the children and upon the children's children, upon the third and upon the fourth generation." And as Moses made haste and bowed himself, it is affecting to hear him again pleading for that beloved Presence which even yet he can scarce believe to be restored, and instead of claiming any separation through his fidelity and his honours, praying "Pardon our iniquity and our sin, and take us for Thine inheritance" (xxxiv. 10).
 
 Thereupon the covenant is given, as if newly, but without requiring its actual re-enactment; and certain of the former precepts are rehearsed, chiefly such as would guard against a relapse into idolatry when they entered the good land where God would bestow on them prosperity and conquest.
 
@@ -3471,17 +3304,17 @@ We learn also something of the exaltation of which matter is capable. We who hav
 
 And again we learn that the best religious attainment is the least self-conscious: Moses wist not that the skin of his face shone.
 
+CHAPTERS XXXV-XL.
 
-#### Chapters Xxxv-xl
-
-
-## The Conclusion
+_THE CONCLUSION._
 
 The remainder of the narrative sets forth in terms almost identical with the directions already given, the manner in which the Divine injunctions were obeyed. The people, purified in heart by danger, chastisement and shame, brought much more than was required. A quarter of a million would poorly represent the value of the shrine in which, at the last, Moses and Aaron approached their God, while the cloud covered the tent and the glory filled the tabernacle, and Moses failed to overcome his awe and enter.
 
 Thenceforth the cloud was the guide of their halting and their march. Many a time they grieved their God in the wilderness, yet the cloud was on the tabernacle by day, and there was fire therein by night, throughout all their journeyings.
 
 That cloud is seen no longer; but One has said, "Lo, I am with you all the days." If the presence is less material, it is because we ought to be more spiritual.
+
+* * * * *
 
 Looking back upon the story, we can discern more clearly what was asserted when we began--the forming and training of a nation.
 
@@ -3494,4 +3327,320 @@ A tragic and shameful failure teaches them, more painfully than any symbolic sys
 Could any better system be imagined by which to convert a slavish and superstitious multitude into a nation at once humble and pure and gallant--a nation of brothers and of worshippers, chastened by a genuine sense of ill desert and of responsibility, and yet braced and fired by the conviction of an exalted destiny?
 
 To do this, and also to lead mankind to liberty, to rescue them from sensuous worship, and prepare them for a system yet more spiritual, to teach the human race that life is not repose but warfare, pilgrimage and aspiration, and to sow the seeds of beliefs and expectations which only an atoning Mediator and an Incarnate God could satisfy, this was the meaning of the Exodus.
+
+THE EXPOSITOR'S BIBLE.
+
+1889-90.
+
+_Crown 8vo. Cloth. Price 7s. 6d. each._
+
+JUDGES AND RUTH. By the Rev. R. A. WATSON, M.A.
+
+THE PROPHECIES OF JEREMIAH. By the Rev. C. J. BALL, M.A., Chaplain of Lincoln's Inn.
+
+THE PROPHECIES OF ISAIAH. Vol. II. Completing the Work. By the Rev. GEORGE ADAM SMITH, M.A.
+
+THE GOSPEL OF MATTHEW. By the Rev. J. MONRO GIBSON, D.D., London, Author of "The Mosaic Era," etc.
+
+THE BOOK OF EXODUS. By the Very Rev. G. A. CHADWICK, D.D., Dean of Armagh.
+
+THE BOOK OF THE ACTS OF THE APOSTLES. By the Rev. G. T. STOKES, D.D., Professor of Ecclesiastical History in the University of Dublin.
+
+1888-89.
+
+_Crown 8vo. Cloth. Price 7s. 6d. each._
+
+THE EPISTLE TO THE GALATIANS. By the Rev. Professor G. G. FINDLAY, B.A., Headingley College, Leeds.
+
+THE BOOK OF ISAIAH. Chap. I. to XXXIX. By the Rev. GEORGE ADAM SMITH, M.A., Aberdeen.
+
+THE PASTORAL EPISTLES By the Rev. ALFRED PLUMMER, D.D., Master of University College, Durham.
+
+THE FIRST EPISTLE TO THE CORINTHIANS. By the Rev. Professor MARCUS DODS, D.D. Second Edition.
+
+THE REVELATION OF ST. JOHN. By the Rev. Professor W. MILLIGAN, D.D., of the University of Aberdeen.
+
+THE EPISTLES OF ST. JOHN. By the Right Rev. W. ALEXANDER, D.D., D.C.L., Lord Bishop of Derry and Raphoe.
+
+1887-88.
+
+_Crown 8vo. Cloth. Price 7s. 6d. each._
+
+THE EPISTLE TO THE COLOSSIANS. By ALEXANDER MACLAREN, D.D., of Manchester. Fourth Edition.
+
+THE GOSPEL ACCORDING TO ST. MARK. By the Rev. Prebendary G. A. CHADWICK, D.D., Dean of Armagh.
+
+THE BOOK OF GENESIS. By the Rev. Professor MARCUS DODS, D.D. Fourth Edition.
+
+THE FIRST BOOK OF SAMUEL. By the Rev. Professor W. G. BLAIKIE, D.D., LL.D.
+
+THE SECOND BOOK OF SAMUEL. By the same Author.
+
+THE EPISTLE TO THE HEBREWS. By the Rev. Principal T. C. EDWARDS, M.A.
+
+_BY THE SAME AUTHOR._
+
+Third Edition. Crown 8vo, cloth, 7s. 6d.
+
+THE GOSPEL ACCORDING TO ST. MARK.
+
+Academy.--"Dr. Chadwick has performed his task admirably. He keeps close to his subject, avoiding irrelevant and lengthy comment. He is thoughtful and penetrating in his criticism, and yet concise and epigrammatic when he wishes."
+
+Scotsman.--"It is at once scholarly, popular, and orthodox, and written in clear, vigorous English."
+
+Record.--"Dr. Chadwick's style is characteristic, thoughtful, clear, and vigorous. He is never commonplace or trivial."
+
+English Churchman.--"A valuable, interesting, and delightful work, almost every page of which contains something worthy of quotation."
+
+Christian.--"If the volumes to come be like the one before us they may be sure of a warm welcome. Dr. Chadwick has caught something of the vividness of style and onward rush which characterise the writer he expounds. Sober in judgment, markedly Scriptural in tone, well acquainted with exegetical lore, and qualified by patient investigations to give an individual opinion on disputed points, he makes good his claim to help and instruct students of Mark's Gospel."
+
+Methodist Recorder.--"We are glad to say that the beginning of a very promising series is, in our opinion, distinctly good, and that Dean Chadwick has hit the mark specially aimed at exceedingly well. We have found ourselves many sparkling and memorable sentences in his pages. We hope the 'Expositor's Bible' has many other volumes in store as instructive as the first instalment."
+
+Expositor.--"Dean Chadwick's readers, even in the first pages, become aware that they are in the company of a thoroughly original writer, who repeats nothing, echoes nothing, imitates no one. It is with a feeling of thankfulness his readers follow him from passage to passage of the Gospel, finding new truth in familiar words and incidents, and, unable to confine themselves to the limits they had set for their day's reading, are lured on to trespass on to-morrow's portion. There is every quality here that is desirable in an expositor--reverence for his text, sufficient information about it, sympathetic insight, and keen observation of men and manners. Equally successful in opening up the significance of the text and in applying it to present conditions of life, Dean Chadwick has given us an admirable specimen of what an expositor's Bible should be."
+
+London Quarterly Review.--"Dr. Chadwick's exposition is thoughtful and penetrating; his sentences are sharp and crisp.... Often bright aphoristic sayings occur which are likely to print themselves on the memory of the reader. The expositor would almost seem to resemble his subject in the practical and condensed, yet graphic, style in which he has done his expository work."
+
+Rock.--"The style of the commentary is, like its subject, forcible and terse."
+
+Church Bells.--"We have never yet read any commentary which we liked so well. The preacher will find it full of materials for sermons, fresh and vigorous, and yet calm and well-weighed."
+
+LONDON: HODDER & STOUGHTON, 27, PATERNOSTER ROW, E.C.
+
+_SPECIAL ANNOUNCEMENT._
+
+THE EXPOSITOR'S BIBLE.
+
+Edited by W. ROBERTSON NICOLL, M.A., LL.D., Editor of _The Expositor_.
+
+THIRD YEAR'S ISSUE.
+
+_Price 7s. 6d. each Volume._
+
+_Judges and Ruth._
+
+By the Rev. R. A. WATSON, M.A., Author of "Gospels of Yesterday." \[_Ready._
+
+_The Prophecies of Jeremiah._
+
+WITH A SKETCH OF HIS LIFE AND TIMES.
+
+By the Rev. C. J. BALL, M.A., Chaplain of Lincoln's Inn; Contributor to Bishop Ellicott's "Commentary," "The Speaker's Commentary," etc. \[_Ready._
+
+_The Book of Exodus._
+
+By the Very Rev. G. A. CHADWICK, D.D., Dean of Armagh, Author of "The Gospel of St. Mark," etc. \[_Ready._
+
+_The Gospel of St. Matthew._
+
+By the Rev. J. MONRO GIBSON, D.D., London, Author of "The Ages before Moses," "The Mosaic Era," etc.
+
+_The Prophecies of Isaiah, Vol. II._
+
+Completing the work.
+
+By the Rev. GEORGE ADAM SMITH, M.A.
+
+_The Acts of the Apostles._
+
+By the Rev. G. T. STOKES, D.D., Professor of Ecclesiastical History in the University of Dublin.
+
+THE EXPOSITOR'S BIBLE.
+
+FIRST SERIES.
+
+_Price 7s. 6d. each Volume._
+
+Fourth Edition.
+
+The Book of Genesis.
+
+By Rev. Professor MARCUS DODS, D.D.
+
+"The style of this book is so simple, the march of the thought so strong and unencumbered, and there is in the ripe result such a perfect assimilation of varied erudition, that none but fellow-craftsmen will realise the amount of study, industry, and many-sided ability that was requisite to produce it."--_Professor Elmslie, D.D._
+
+Third Edition.
+
+The First Book of Samuel.
+
+By the Rev. Professor W. G. BLAIKIE, D.D., LL.D.
+
+"There can be no doubt of the care and thoroughness with which Dr. Blaikie has executed his task. From his own point of view he has produced a solid and able piece of work."--_Academy._
+
+Third Edition.
+
+The Second Book of Samuel.
+
+By the Rev. Professor W. G. BLAIKIE, D.D., LL.D.
+
+"Of the utmost value to preachers and teachers, being very full of suggestive thoughts."--_English Churchman._
+
+Third Edition.
+
+The Gospel according to St. Mark.
+
+By the Very Rev. G. A. CHADWICK, D.D., Dean of Armagh.
+
+"Dr. Chadwick has performed his task admirably. He keeps close to his subject, avoiding irrelevant and lengthy comment. He is thoughtful and penetrating in his criticism, and yet concise and epigrammatic when he wishes."--_Academy._
+
+"It is at once scholarly, popular, and orthodox, and written in clear, vigorous English."--_Scotsman._
+
+Fourth Edition.
+
+The Epistles to the Colossians and Philemon.
+
+By the Rev. ALEXANDER MACLAREN, D.D.
+
+"In nothing Dr. Maclaren has written is there more of beauty, of spiritual insight, or of brilliant elucidation of Scripture. Indeed, Dr. Maclaren is here at his best."--_Expositor._
+
+"The book is pre-eminently one for ministers, but there is nothing in the exposition which may not prove a boon to any diligent student of the Word of God. It contains a wealth of thought for preachers."--_Rock._
+
+Third Edition.
+
+The Epistle to the Hebrews.
+
+By Rev. Principal T. C. EDWARDS, D.D., Author of "A Commentary on the First Epistle to the Corinthians."
+
+"He has entered into the spirit and purport of what truly he calls 'one of the greatest and most difficult books of the New Testament' with a systematic thoroughness and fairness which cannot be too highly commended. Henceforth English students of this portion of the New Testament will have only themselves to blame if they cannot trace the connection of thought and final purport of this epistle."--_Academy._
+
+THE EXPOSITOR'S BIBLE.
+
+SECOND SERIES.
+
+_Price 7s. 6d, each Volume._
+
+Fifth Edition.
+
+The Book of Isaiah. Vol. I. Chapters I.-XXXIX.
+
+By the Rev. GEORGE ADAM SMITH, M.A., Aberdeen. With Map.
+
+"This is a very attractive book. Mr. George Adam Smith has evidently such a mastery of the scholarship of his subject that it would be a sheer impertinence for most scholars, even though tolerable Hebraists, to criticise his translations; and certainly it is not the intention of the present reviewer to attempt anything of the kind, to do which he is absolutely incompetent. All we desire is to let English readers know how very lucid, impressive, and, indeed, how vivid a study of Isaiah is within their reach--the fault of the book, if it has a fault, being rather that it finds too many points of connection between Isaiah and our modern world, than that it finds too few. In other words, no one can say that the book is not full of life."--_Spectator._
+
+Second Edition.
+
+The First Epistle to the Corinthians.
+
+By the Rev. Professor MARCUS DODS, D.D.
+
+"A clear, close, unaffected, unostentatious exposition, not verse by verse, but thought after thought of this most interesting, perhaps, and certainly most various, of all the Apostle's writings."--_London Quarterly Review._
+
+Second Edition.
+
+The Epistle to the Galatians.
+
+By the Rev. Professor G. G. FINDLAY, B.A., Headingley College, Leeds.
+
+"Professor G.G. Findlay discloses a minute acquaintance with his subject, an earnest desire to penetrate its inmost meaning, and a marked capacity of illustrating and enforcing the text."--_Record._
+
+Second Edition.
+
+The Pastoral Epistles.
+
+By the Rev. ALFRED PLUMMER, D.D., Master of University College, Durham.
+
+"It is an admirable example of what popular theology ought to be--presuming a somewhat high level of education and interest in its readers, and built throughout upon sound erudition and sensible, devout, and well-disciplined reflection."--_Saturday Review._
+
+The Epistles of St. John.
+
+By WILLIAM ALEXANDER, D.D., D.C.L., Brasenose College, Oxford, Lord Bishop of Derry and Raphoe.
+
+"Full of felicities of exegesis.... Brilliant and valuable."--_Literary Churchman._
+
+"The discourses are eloquent and impressive, and show a thorough knowledge of the subject."--_Scotsman._
+
+The Revelation of St. John.
+
+By Rev. Prof. W. MILLIGAN, D.D., of the University of Aberdeen.
+
+"The most delightful work on the Apocalypse that we have read. The practical and spiritual teaching even of the most recondite and mysterious passages is made plain."--_Methodist Recorder._
+
+THE THEOLOGICAL EDUCATOR.
+
+_Price 2s. 6d. each Volume. Fcap. 8vo._
+
+The Language of the New Testament.
+
+By Rev. WILLIAM HENRY SIMCOX, M.A., Rector of Harlaxton.
+
+"The distinctive peculiarities of New Testament Greek are defined with exactness, the gradations by which one grammatical usage passes into another are clearly traced, the frontier between grammar and exegesis marked with unusual sense and discrimination. In a word, this is the most living grammar of the New Testament we have."--_Expositor._
+
+Outlines of Christian Doctrine.
+
+By the Rev. H. C. G. MOULE, M.A., Principal of Ridley Hall, Cambridge. Fifth Thousand.
+
+"Marked throughout by the most careful and critical knowledge of Scripture, more particularly of the New Testament, and the most patient weighing and comparison of parallel texts.... It forms an admirable introduction to the subject, and seems in intellectual power to even surpass any other of Mr. Moule's published writings."--_Record._
+
+An Introduction to the New Testament.
+
+By Rev. Professor MARCUS DODS, D.D. Now Ready. Fourth Edition.
+
+"The authenticity, authorship, history, object, and general character of each book are discussed with admirable condensation and lucidity, and with ample critical knowledge."--_Scotsman._
+
+A Manual of Christian Evidences.
+
+By the Rev. C. A. ROW, M.A., Prebendary of St. Paul's. Fifth Thousand.
+
+"A veritable _multum in parvo_, clear, cogent, and concise, without being sketchy or superficial."--_Saturday Review._
+
+An Introduction to the Textual Criticism of the New Testament.
+
+By the Rev. Professor B. B. WARFIELD, D.D. Third Thousand.
+
+A Hebrew Grammar.
+
+By the Rev. W. H. LOWE, M.A., Joint Author of "A Commentary on the Psalms," etc., etc.; Hebrew Lecturer, Christ's College, Cambridge. Second Thousand.
+
+An Exposition of the Apostles' Creed.
+
+By the Rev. J. E. YONGE, M.A., Late Fellow of King's College, Cambridge, and Assistant-Master in Eton College.
+
+A Manual of the Book of Common Prayer.
+
+_Showing its History and Contents._
+
+By the Rev. CHARLES HOLE, B.A., King's College, London.
+
+A Manual of Church History.
+
+By the Rev. A. C. JENNINGS, M.A. In Two Vols.
+
+Vol. I.--From the First to the Tenth Century. Vol. II.--From the Eleventh to the Nineteenth Century.
+
+_COMPLETION OF THE OLD TESTAMENT._
+
+THE SERMON BIBLE.
+
+Each Volume contains upwards of Five Hundred Sermon Outlines and Several Thousand References. Strongly bound in half buckram.
+
+_Price 7s. 6d. each._
+
+## Volume I
+
+Genesis to 2 Samuel.
+
+"A very complete guide to the sermon literature of the present day."--_Scotsman._
+
+"We do not hesitate to pronounce this the most practically useful work of its kind at present extant. It is not a commentary, but a _Thesaurus_ of sermons on texts arranged consecutively, chapter after chapter and book after book.... We are bound to say that the object announced by the compilers is on the way to be realised, and here will be given the essence of the best homiletic literature of this generation."--_Literary Churchman._
+
+## Volume II
+
+1 Kings to Psalm LXXVI.
+
+"Preachers anxious to discover the best books out of which they may discover golden thoughts on any particular text, for use in their sermons, will doubtless be glad of the volume before us, which aims at being a guide-book, pointing out where sermons and articles on those texts may be found. In addition to this, extracts from sermons are given in the book itself."--_English Churchman._
+
+"A hearty word of commendation can be said of the selected and condensed outlines of sermons in this volume, most of which are by well-known preachers. They will be of considerable service."--_Nonconformist._
+
+## Volume III
+
+Psalm LXXVII. to The Song of Solomon.
+
+"Like its two predecessors, the third volume is distinguished by the perfect catholicity of the selections, the admirable condensation of the sermons and expositions that are quoted, and the fulness of the references to the best sermon literature on each of the texts. It is beyond question the richest treasury of modern homiletics which has ever issued from the press."--_Christian Leader._
+
+## Volume IV — Isaiah to Malachi
+
+"A marvellous amount of information is here presented in compact and readable form at a very moderate price."--_Methodist Recorder._
+
+"A great number of the best contemporary sermons are here rendered generally available in a very convenient form, and at a very low price indeed."--_Literary Churchman._
+
+LONDON: HODDER & STOUGHTON, 27, PATERNOSTER ROW.
 

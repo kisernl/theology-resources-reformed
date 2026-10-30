@@ -243,3 +243,20 @@ Still thin: `catholic` (4), `orthodox` (0), `anabaptist` (0),
   don't equal Bible chapters — covers + inline refs only.
   Some files carry raw `[N]` footnote leftovers (largest: schaff-psalms
   1059, smith_ga-isaiah-ii 529, nave 4366 — dictionary entry markers).
+
+## Gutenberg re-source batch (2026-10-09)
+
+- 71 works re-sourced from Project Gutenberg: `tools/fetch_gutenberg.py`
+  (PG ebook ids) + `tools/convert_gutenberg.py` (txt→md). `source:`
+  front matter and the attribution block now point to gutenberg.org.
+- Not converted: `barnes-barnes-new-testament-notes` — PG has only the
+  Revelation volume (#55228), not the full NT set; stays on CCEL.
+- `aquinas-summa-theologica` — PG publishes Parts I, I-II, II-II, III
+  only; the posthumous Supplement (Q.91+) is not on Gutenberg and is
+  absent from the new doc (~87% of former word count).
+- `augustine-confessions` — the PG Pusey edition has no chapter-level
+  headings in the source; `### Chapter N` markers were inserted at the
+  standard chapter boundaries (aligned to the former CCEL doc's
+  paragraph openers — same Pusey translation).
+- `boethius-theological-tractates` — doc is now bilingual (Loeb Latin +
+  English interleaved per numbered section), matching the PG source.
